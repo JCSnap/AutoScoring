@@ -1,0 +1,840 @@
+Question: What is the greenhouse effect and how does it contribute to global warming?
+Model Answer: The greenhouse effect is the natural process of gases in Earth's atmosphere trapping heat, maintaining the planet's temperature. Human activities like burning fossil fuels have increased these gases, enhancing the effect and causing global warming.
+Student Answer: The greenhouse effect is when Earth gets hotter due to gases in the air. Things like cars and factories cause more gases, which leads to global warming.
+OpenAI Score: 90
+Original Score: 73.406824395294
+Time taken for OpenAI API: 1.4886860847473145 seconds
+Time taken for Original API: 14.6405770778656 seconds
+
+Question: Describe the process of mitosis in cell division.
+Model Answer: Mitosis is a process of cell division, resulting in two identical cells from one parent cell. It involves stages - Prophase, Metaphase, Anaphase, Telophase, and then Cytokinesis, where the cell divides.
+Student Answer: Mitosis is how a cell divides to make more cells. It has steps like Prophase, Metaphase, Anaphase, Telophase, and then the cell splits into two.
+OpenAI Score: 95
+Original Score: 80.81224655083776
+Time taken for OpenAI API: 1.3365421295166016 seconds
+Time taken for Original API: 0.8108158111572266 seconds
+
+Question: How did the Industrial Revolution impact society and economy in the 19th century?
+Model Answer: The Industrial Revolution shifted economy from agrarian to industry-based, causing urbanization and emergence of a working class. Economically, it led to growth and wealth generation, but also economic disparity and social issues.
+Student Answer: The Industrial Revolution made people move to cities for factory jobs. It made some people very rich but also led to problems like child labor.
+OpenAI Score: 83
+Original Score: 70.60516265380895
+Time taken for OpenAI API: 1.4971609115600586 seconds
+Time taken for Original API: 0.7512779235839844 seconds
+
+Question: What are some key principles of the scientific method?
+Model Answer: The scientific method includes making observations, formulating a hypothesis, conducting experiments, analyzing data, and drawing conclusions. Results should be reproducible and subject to peer review.
+Student Answer: The scientific method is about observing, guessing, doing experiments, checking data, and deciding if you're right. Other people should also be able to do the same experiment and get the same result.
+OpenAI Score: 90
+Original Score: 70.89846911236776
+Time taken for OpenAI API: 1.7562229633331299 seconds
+Time taken for Original API: 0.9346392154693604 seconds
+
+Question: How does photosynthesis work in plants?
+Model Answer: Photosynthesis is the process where plants use sunlight to convert carbon dioxide and water into glucose and oxygen. This process is vital for the plant's growth and releasing oxygen into the atmosphere.
+Student Answer: Photosynthesis is how plants make food and oxygen. They use sunlight, air, and water to do it.
+OpenAI Score: 80
+Original Score: 79.48052157205099
+Time taken for OpenAI API: 1.6308462619781494 seconds
+Time taken for Original API: 0.8021461963653564 seconds
+
+Question: What were the causes and effects of the American Civil War?
+Model Answer: The American Civil War was caused by disputes over slavery and states' rights. Its effects included the abolition of slavery, significant loss of life, economic change, and laying the groundwork for modern America.
+Student Answer: The American Civil War happened because of fights over slavery. It ended slavery, caused many deaths, changed the economy, and helped shape America.
+OpenAI Score: 95
+Original Score: 76.54367305028383
+Time taken for OpenAI API: 1.2693381309509277 seconds
+Time taken for Original API: 0.7990188598632812 seconds
+
+Question: How does gravity work?
+Model Answer: Gravity is the force that attracts two objects toward each other. The greater the mass of an object, the stronger its gravitational pull. This is why Earth, being much more massive than us, pulls us towards its center, keeping us grounded.
+Student Answer: Gravity is like a force that pulls things together. It's why we don't float off the ground, because Earth's gravity is pulling us down.
+OpenAI Score: 85
+Original Score: 59.74743094301228
+Time taken for OpenAI API: 1.504106044769287 seconds
+Time taken for Original API: 0.8598730564117432 seconds
+
+Question: What is the function of the heart in the human body?
+Model Answer: The heart's main function is to pump blood throughout the body, delivering oxygen and nutrients to the tissues and removing carbon dioxide and other wastes.
+Student Answer: The heart is like a pump for the body. It sends blood all around to give oxygen and food to our body parts and take away the bad stuff.
+OpenAI Score: 95
+Original Score: 75.2006894785076
+Time taken for OpenAI API: 1.5343749523162842 seconds
+Time taken for Original API: 0.9994070529937744 seconds
+
+Question: What was the Enlightenment, and how did it change society?
+Model Answer: The Enlightenment was an intellectual and philosophical movement in 18th-century Europe. It promoted reason, science, and individual rights, influencing the development of democratic institutions and sparking societal and political changes.
+Student Answer: The Enlightenment was when people in Europe started thinking more about science and reason. It made society more focused on individuals and led to changes in government.
+OpenAI Score: 85
+Original Score: 73.60423818877241
+Time taken for OpenAI API: 1.3772070407867432 seconds
+Time taken for Original API: 0.929297924041748 seconds
+
+Question: What is natural selection and how does it contribute to evolution?
+Model Answer: Natural selection is a process where individuals with advantageous traits are more likely to survive and reproduce, passing these traits to the next generation. Over time, this can lead to significant changes in species, a process known as evolution.
+Student Answer: Natural selection is when animals with better skills survive and have babies. Over a long time, this can change the whole species, which is called evolution.
+OpenAI Score: 90
+Original Score: 71.16341996627979
+Time taken for OpenAI API: 1.6038918495178223 seconds
+Time taken for Original API: 0.897733211517334 seconds
+
+Question: What are renewable energy sources and why are they important?
+Model Answer: Renewable energy sources are those that can be replenished naturally in a short time, like solar, wind, and hydro energy. They are important because they are sustainable, reduce dependence on fossil fuels, and help mitigate climate change.
+Student Answer: Renewable energy comes from things that don't run out, like sun, wind, and water. They're good because they won't finish, don't need fossil fuels, and don't harm the environment.
+OpenAI Score: 96
+Original Score: 62.057595512279185
+Time taken for OpenAI API: 1.5783510208129883 seconds
+Time taken for Original API: 0.954369068145752 seconds
+
+Question: How did World War II impact the world politically and socially?
+Model Answer: World War II led to significant political changes, including the emergence of the United States and the Soviet Union as superpowers. Socially, it fostered movements for decolonization and civil rights, but also caused devastating loss of life and displacement.
+Student Answer: After World War II, the USA and the Soviet Union became superpowers. It also made people fight for their rights and freedom, but many people died or lost their homes.
+OpenAI Score: 90
+Original Score: 67.17449487804214
+Time taken for OpenAI API: 1.8860890865325928 seconds
+Time taken for Original API: 0.8218228816986084 seconds
+
+Question: What are plate tectonics and how do they contribute to earthquakes and volcanic activity?
+Model Answer: Plate tectonics is the theory that Earth's crust is made of large pieces that move over time. Their movement can cause earthquakes when they grind against each other, or volcanic activity when one plate is forced under another and melts.
+Student Answer: Plate tectonics is about Earth's crust being like puzzle pieces moving around. When they hit or slide past each other, it can cause earthquakes. Volcanoes can happen when one piece goes under another and melts.
+OpenAI Score: 90
+Original Score: 80.33055247294068
+Time taken for OpenAI API: 1.5295231342315674 seconds
+Time taken for Original API: 0.8669381141662598 seconds
+
+Question: What is artificial intelligence and how is it used in everyday life?
+Model Answer: Artificial intelligence (AI) is a field of computer science focused on creating systems that perform tasks that usually require human intelligence. In everyday life, AI is used in various ways, from voice assistants like Siri or Alexa to recommendation systems on streaming platforms.
+Student Answer: Artificial intelligence is like when computers can do things like humans. We use it in our daily life like when we talk to Siri or Alexa, or when Netflix suggests a movie we might like.
+OpenAI Score: 90
+Original Score: 65.89500390587905
+Time taken for OpenAI API: 1.4703238010406494 seconds
+Time taken for Original API: 0.9553830623626709 seconds
+
+Question: How did the French Revolution impact France and Europe?
+Model Answer: The French Revolution marked the end of absolute monarchy in France and introduced democratic principles. It also sparked a wave of revolutions across Europe, leading to political and social change.
+Student Answer: The French Revolution made France a democracy and ended the king's rule. It also led to other revolutions in Europe and changed society and government.
+OpenAI Score: 95
+Original Score: 77.72695575937104
+Time taken for OpenAI API: 1.432633876800537 seconds
+Time taken for Original API: 0.8252060413360596 seconds
+
+Question: What is the theory of relativity and who proposed it?
+Model Answer: The theory of relativity, proposed by Albert Einstein, includes two parts: special relativity and general relativity. Special relativity states that the laws of physics are the same for all non-accelerating observers and that the speed of light is the same for all observers. General relativity is a theory of gravitation where gravity is not a force but a curvature in space-time caused by mass and energy.
+Student Answer: Relativity is a big idea from Einstein. It says stuff about how light speed is always the same and gravity is like a bend in space. Or something like that.
+OpenAI Score: 65
+Original Score: 51.63943017267897
+Time taken for OpenAI API: 1.4392461776733398 seconds
+Time taken for Original API: 0.9186692237854004 seconds
+
+Question: What are human rights and why are they important?
+Model Answer: Human rights are the basic rights and freedoms to which all individuals are entitled, such as the right to life, liberty, free speech, and privacy. They are important because they ensure dignity, equality, and respect for all people, regardless of nationality, sex, ethnicity, religion, or other status.
+Student Answer: Human rights are like, the rules that say everyone should be treated fairly and can do things like talk freely, live safely, and have privacy. They're important because they make sure everyone is respected.
+OpenAI Score: 85
+Original Score: 67.6144085720797
+Time taken for OpenAI API: 1.498201847076416 seconds
+Time taken for Original API: 0.7821400165557861 seconds
+
+Question: What is quantum physics and how does it challenge our understanding of the physical world?
+Model Answer: Quantum physics, or quantum mechanics, is a branch of physics that deals with phenomena on a very small scale, such as molecules, atoms, and subatomic particles. It challenges our understanding of the physical world because it includes principles that seem counterintuitive, such as superposition (particles can be in multiple places at once) and entanglement (particles can be instantly connected regardless of distance).
+Student Answer: Quantum physics is about really tiny stuff like atoms and even smaller things. It's weird and tricky because it says stuff can be in more than one place at the same time and particles can talk to each other instantly even if they're far away.
+OpenAI Score: 85
+Original Score: 64.95276633602256
+Time taken for OpenAI API: 1.706094741821289 seconds
+Time taken for Original API: 0.7775001525878906 seconds
+
+Question: What is a black hole and how is it formed?
+Model Answer: A black hole is a region of space where gravity is so strong that nothing, not even light, can escape from it. They are formed when a large star collapses under its own gravity after depleting its nuclear fuel.
+Student Answer: Black holes are like these big space things that suck everything in, even light can't escape. They happen when a star, like, explodes or something and then falls in on itself.
+OpenAI Score: 70
+Original Score: 67.09156745431854
+Time taken for OpenAI API: 1.5576419830322266 seconds
+Time taken for Original API: 0.8005688190460205 seconds
+
+Question: What is photosynthesis and why is it important to life on Earth?
+Model Answer: Photosynthesis is a process used by plants, algae, and some bacteria to convert light energy, usually from the Sun, into chemical energy in the form of glucose. It's crucial for life on Earth as it produces oxygen and serves as the base of the food chain.
+Student Answer: Photosynthesis is what plants do to make food using sunlight. It's important because it makes oxygen, which we need to breathe, and it also feeds the plants, and then the animals eat the plants, and we eat the plants and animals.
+OpenAI Score: 90
+Original Score: 69.33422223695432
+Time taken for OpenAI API: 1.662686824798584 seconds
+Time taken for Original API: 0.8981630802154541 seconds
+
+Question: What is the structure of an atom?
+Model Answer: An atom consists of a central nucleus, which contains protons and neutrons, surrounded by a cloud of electrons that move in orbital shells.
+Student Answer: An atom is like a solar system, with the sun in the middle and planets going around it.
+OpenAI Score: 65
+Original Score: 50.35660644755232
+Time taken for OpenAI API: 1.5578680038452148 seconds
+Time taken for Original API: 0.7460291385650635 seconds
+
+Question: Why is the ozone layer important?
+Model Answer: The ozone layer absorbs most of the Sun's harmful ultraviolet (UV) radiation, which can cause skin cancer and cataracts in humans and harm ecosystems.
+Student Answer: The ozone layer is important because it gives us air to breathe.
+OpenAI Score: 20
+Original Score: 42.543353358869574
+Time taken for OpenAI API: 1.4484806060791016 seconds
+Time taken for Original API: 0.8801851272583008 seconds
+
+Question: What is the difference between a democracy and a dictatorship?
+Model Answer: In a democracy, power is held by the people who elect leaders and have the right to participate in decision-making. In a dictatorship, power is concentrated in the hands of a single leader or a small group, and citizens have limited freedom and political participation.
+Student Answer: Democracy and dictatorship are types of money systems. In democracy, money is divided equally, and in dictatorship, one person has all the money.
+OpenAI Score: 0
+Original Score: 42.937740081106256
+Time taken for OpenAI API: 1.3155651092529297 seconds
+Time taken for Original API: 0.8998918533325195 seconds
+
+Question: What causes the seasons to change?
+Model Answer: Seasonal changes are caused by the tilt of Earth's axis as it orbits the Sun. This tilt means that different parts of Earth receive different amounts of sunlight at different times of the year.
+Student Answer: Seasons change because the distance between Earth and Sun changes. When Earth is close to the Sun, it's summer, and when it's far, it's winter.
+OpenAI Score: 40
+Original Score: 57.86284226881251
+Time taken for OpenAI API: 1.8437130451202393 seconds
+Time taken for Original API: 0.8782839775085449 seconds
+
+Question: What is the function of the kidneys in the human body?
+Model Answer: The kidneys filter the blood to remove waste products and excess substances, which are excreted as urine. They also help regulate blood pressure, electrolyte balance, and red blood cell production.
+Student Answer: The kidneys are like storage units in the body where extra food and nutrients are stored for when we need them.
+OpenAI Score: 10
+Original Score: 52.08269821719913
+Time taken for OpenAI API: 1.4606521129608154 seconds
+Time taken for Original API: 0.8941688537597656 seconds
+
+Question: What are greenhouse gases and how do they affect the Earth's climate?
+Model Answer: Greenhouse gases, like carbon dioxide and methane, trap heat in Earth's atmosphere, creating a 'greenhouse effect.' This effect is essential for life by keeping the planet warm, but an excess of these gases can cause global warming and climate change.
+Student Answer: Greenhouse gases are toxic gases that plants give off. They harm the Earth's climate by causing acid rain.
+OpenAI Score: 15
+Original Score: 57.731269516362275
+Time taken for OpenAI API: 1.3927972316741943 seconds
+Time taken for Original API: 0.9010610580444336 seconds
+
+Question: What is DNA and what role does it play in our bodies?
+Model Answer: DNA, or deoxyribonucleic acid, is the molecule that carries the genetic instructions for growth, development, functioning, and reproduction of all known living organisms. It determines our physical characteristics and influences our health.
+Student Answer: DNA is like a battery that powers our bodies. Without DNA, we wouldn't have any energy.
+OpenAI Score: 20
+Original Score: 46.033722575861816
+Time taken for OpenAI API: 1.5238080024719238 seconds
+Time taken for Original API: 0.9303648471832275 seconds
+
+Question: What are the primary colors and how can they be used to make other colors?
+Model Answer: The primary colors are red, blue, and yellow. By mixing these primary colors, we can create secondary colors: red and blue make purple, blue and yellow make green, and red and yellow make orange.
+Student Answer: The primary colors are red, white, and blue. They make all other colors, like red and white make pink, and blue and white make light blue.
+OpenAI Score: 35
+Original Score: 75.86070682485638
+Time taken for OpenAI API: 1.5300440788269043 seconds
+Time taken for Original API: 0.8446700572967529 seconds
+
+Question: What is the process of evaporation in the water cycle?
+Model Answer: Evaporation is the process where water changes from a liquid state to a gas or vapor, typically under the heat of the sun. This process is a key part of the water cycle, allowing water to travel from Earth's surface to the atmosphere, where it can condense and fall back to the surface as precipitation.
+Student Answer: Evaporation is when water disappears. Like, if you leave a glass of water outside, after a few days, there's less water. It just vanishes.
+OpenAI Score: 60
+Original Score: 63.51849593256429
+Time taken for OpenAI API: 1.9711511135101318 seconds
+Time taken for Original API: 0.8767259120941162 seconds
+
+Question: How does photosynthesis work and why is it important?
+Model Answer: Photosynthesis is a process used by plants and certain other organisms to convert light energy, usually from the Sun, into chemical energy in the form of glucose, which provides nutrients to the organisms. It also produces oxygen, which is vital for most life forms on Earth.
+Student Answer: Photosynthesis is when plants eat sunlight and turn it into color. That's why plants are green. It's important because it makes the plants look nice.
+OpenAI Score: 20
+Original Score: 62.937268784041414
+Time taken for OpenAI API: 1.4792838096618652 seconds
+Time taken for Original API: 0.9542450904846191 seconds
+
+Question: What is the law of supply and demand?
+Model Answer: The law of supply and demand is an economic theory that explains how a market balances price and the quantity of goods sold. When demand increases and supply remains the same, the price goes up. Conversely, if supply increases and demand remains the same, the price goes down.
+Student Answer: It's kind of like a see-saw. If more people want something and there's not enough, the price goes up. But if there's a lot of something and people don't want it, the price goes down.
+OpenAI Score: 85
+Original Score: 36.178060216739894
+Time taken for OpenAI API: 1.3017477989196777 seconds
+Time taken for Original API: 0.9113409519195557 seconds
+
+Question: What is photosynthesis?
+Model Answer: Photosynthesis is a process used by plants and certain other organisms to convert light energy, typically from the Sun, into chemical energy in the form of glucose, which provides nutrients to the organisms.
+Student Answer: It's like how plants eat sunlight and make it into their food.
+OpenAI Score: 80
+Original Score: 46.76596036122114
+Time taken for OpenAI API: 1.4699430465698242 seconds
+Time taken for Original API: 0.8740711212158203 seconds
+
+Question: What is a constitutional monarchy?
+Model Answer: A constitutional monarchy is a form of government in which a monarch acts as head of state within the parameters of a written or unwritten constitution. The monarch's roles are largely ceremonial with the real power lying with other political leaders.
+Student Answer: It's when a country has a king or queen, but they're more like a figurehead. The real decisions are made by other leaders.
+OpenAI Score: 90
+Original Score: 36.15772594002118
+Time taken for OpenAI API: 2.248839855194092 seconds
+Time taken for Original API: 0.8535432815551758 seconds
+
+Question: What is the theory of evolution by natural selection?
+Model Answer: The theory of evolution by natural selection, proposed by Charles Darwin, suggests that traits that enhance survival and reproduction become more common over generations in a population, leading to changes over time and potentially new species.
+Student Answer: It's like survival of the fittest. The animals with the best traits for survival have more babies and over time, the population changes.
+OpenAI Score: 85
+Original Score: 51.78913610387317
+Time taken for OpenAI API: 1.8579790592193604 seconds
+Time taken for Original API: 0.8872251510620117 seconds
+
+Question: What is the principle of conservation of energy?
+Model Answer: The principle of conservation of energy states that energy can neither be created nor destroyed; instead, it can only be transferred or changed from one form to another.
+Student Answer: It's like saying energy just changes its outfit but never disappears or magically appears from nowhere.
+OpenAI Score: 85
+Original Score: 49.193317499066644
+Time taken for OpenAI API: 1.885369062423706 seconds
+Time taken for Original API: 0.7820940017700195 seconds
+
+Question: What is photosynthesis?
+Model Answer: Photosynthesis is a process used by plants and other organisms to convert light energy, typically from the Sun, into chemical energy in the form of glucose, which fuels their activities.
+Student Answer: Photosynthesis be like plants taking sun light and making it into food for themselves.
+OpenAI Score: 65
+Original Score: 65.11646513388179
+Time taken for OpenAI API: 1.3787388801574707 seconds
+Time taken for Original API: 0.9227678775787354 seconds
+
+Question: How does gravity work?
+Model Answer: Gravity is a force that attracts two objects towards each other. The more massive an object is, the stronger its gravitational pull. It's why we stay on the ground instead of floating off into space.
+Student Answer: Gravity is like magnet, but for all things. Big stuff have more gravity. It why we don't fly off Earth.
+OpenAI Score: 70
+Original Score: 57.54747849146432
+Time taken for OpenAI API: 1.4892659187316895 seconds
+Time taken for Original API: 0.8076138496398926 seconds
+
+Question: What is the water cycle?
+Model Answer: The water cycle describes how water evaporates from the surface of the earth, rises into the atmosphere, cools and condenses into clouds, and falls back to the surface as precipitation.
+Student Answer: Water cycle is when water go up into sky, turn into cloud, then fall back down as rain or snow.
+OpenAI Score: 80
+Original Score: 67.21415115020262
+Time taken for OpenAI API: 2.173539161682129 seconds
+Time taken for Original API: 0.9226810932159424 seconds
+
+Question: What is democracy?
+Model Answer: Democracy is a system of government where citizens exercise power by voting. In a direct democracy, the citizens as a whole form a governing body. In a representative democracy, citizens vote for representatives to handle legislation and governing.
+Student Answer: Democracy where people vote and decide things. Sometimes all people decide, sometime they pick other people for decide.
+OpenAI Score: 65
+Original Score: 54.735605662395734
+Time taken for OpenAI API: 1.7538011074066162 seconds
+Time taken for Original API: 0.931541919708252 seconds
+
+Question: What is a food chain?
+Model Answer: A food chain is a linear sequence of organisms where each one is eaten by the next member in the sequence. It begins with producer organisms, like plants, and ends with apex predators, followed by decomposers.
+Student Answer: Food chain is like line of eating. Plant get eaten by small animals, them get eaten by big animals, then big animals die and get eaten by tiny bugs and stuff.
+OpenAI Score: 75
+Original Score: 59.6890545599558
+Time taken for OpenAI API: 1.3571250438690186 seconds
+Time taken for Original API: 0.9294300079345703 seconds
+
+Question: What is the theory of plate tectonics?
+Model Answer: The theory of plate tectonics postulates that the Earth's crust is made up of large pieces, or plates, that move around due to convection currents in the underlying mantle. These movements cause earthquakes, volcanic activity, and the creation of mountain ranges.
+Student Answer: Earth's surface isn't one solid piece. It's like a giant jigsaw puzzle with big chunks that move about. These chunks bumping into each other or pulling apart, that's what makes volcanoes, mountains, and shakes.
+OpenAI Score: 85
+Original Score: 49.76375103096042
+Time taken for OpenAI API: 2.124924898147583 seconds
+Time taken for Original API: 0.9803316593170166 seconds
+
+Question: What is photosynthesis?
+Model Answer: Photosynthesis is a process used by plants and other organisms to convert light energy, typically from the Sun, into chemical energy in the form of glucose, which fuels their activities.
+Student Answer: Plants have this cool trick where they take sunlight and whip it up into their food, sort of like cooking up a meal!
+OpenAI Score: 75
+Original Score: 35.18109160663319
+Time taken for OpenAI API: 4.186253070831299 seconds
+Time taken for Original API: 0.7939808368682861 seconds
+
+Question: What is democracy?
+Model Answer: Democracy is a system of government where citizens exercise power by voting. In a direct democracy, the citizens as a whole form a governing body. In a representative democracy, citizens vote for representatives to handle legislation and governing.
+Student Answer: Democracy is like having a say in how things are run. You get a vote to choose who makes the rules. Sometimes it's everyone deciding together, other times we pick some folks to do the decision making for us.
+OpenAI Score: 85
+Original Score: 61.420455547332665
+Time taken for OpenAI API: 1.7625360488891602 seconds
+Time taken for Original API: 0.7607049942016602 seconds
+
+Question: What is the water cycle?
+Model Answer: The water cycle describes how water evaporates from the surface of the earth, rises into the atmosphere, cools and condenses into clouds, and falls back to the surface as precipitation.
+Student Answer: Water doesn't just stay still, it goes on a journey! It can turn into vapor and go up into the sky, then cools down and comes back down as rain or snow.
+OpenAI Score: 85
+Original Score: 48.225298824938015
+Time taken for OpenAI API: 1.3141329288482666 seconds
+Time taken for Original API: 0.9543406963348389 seconds
+
+Question: What is a food chain?
+Model Answer: A food chain is a linear sequence of organisms where each one is eaten by the next member in the sequence. It begins with producer organisms, like plants, and ends with apex predators, followed by decomposers.
+Student Answer: Food chain? That's just the order of who eats who in nature. It starts with plants and ends with the big, scary predators. Once they're gone, the leftovers are handled by those cleanup bugs and organisms.
+OpenAI Score: 85
+Original Score: 61.65553387784555
+Time taken for OpenAI API: 1.5903959274291992 seconds
+Time taken for Original API: 0.8960220813751221 seconds
+
+Question: What is photosynthesis?
+Model Answer: Photosynthesis is a process used by plants and other organisms to convert light energy, typically from the Sun, into chemical energy in the form of glucose, which fuels their activities.
+Student Answer: Photosynthesis is when plants make their food using sunlight.
+OpenAI Score: 85
+Original Score: 70.38462920688976
+Time taken for OpenAI API: 1.7686858177185059 seconds
+Time taken for Original API: 0.6976408958435059 seconds
+
+Question: What is the theory of evolution by natural selection?
+Model Answer: The theory of evolution by natural selection, proposed by Charles Darwin, suggests that traits that enhance survival and reproduction become more common over generations in a population, leading to changes over time and potentially new species.
+Student Answer: Evolution by natural selection is about how animals change over time.
+OpenAI Score: 70
+Original Score: 58.94104934983877
+Time taken for OpenAI API: 2.1150100231170654 seconds
+Time taken for Original API: 0.8653662204742432 seconds
+
+Question: What is a constitutional monarchy?
+Model Answer: A constitutional monarchy is a form of government in which a monarch acts as head of state within the parameters of a written or unwritten constitution. The monarch's roles are largely ceremonial with the real power lying with other political leaders.
+Student Answer: A constitutional monarchy is when a country has a king or queen.
+OpenAI Score: 40
+Original Score: 69.18032115411685
+Time taken for OpenAI API: 1.4836390018463135 seconds
+Time taken for Original API: 0.8798069953918457 seconds
+
+Question: What is the principle of conservation of energy?
+Model Answer: The principle of conservation of energy states that energy can neither be created nor destroyed; instead, it can only be transferred or changed from one form to another.
+Student Answer: Conservation of energy means that energy doesn't disappear.
+OpenAI Score: 60
+Original Score: 59.641864445548606
+Time taken for OpenAI API: 1.9535040855407715 seconds
+Time taken for Original API: 0.8543663024902344 seconds
+
+Question: What is the water cycle?
+Model Answer: The water cycle describes how water evaporates from the surface of the earth, rises into the atmosphere, cools and condenses into clouds, and falls back to the surface as precipitation.
+Student Answer: The water cycle is about how water moves from the ground to the sky and back.
+OpenAI Score: 92
+Original Score: 71.9452515561909
+Time taken for OpenAI API: 1.2791028022766113 seconds
+Time taken for Original API: 0.7857840061187744 seconds
+
+Question: What is photosynthesis?
+Model Answer: Photosynthesis is a process used by plants and other organisms to convert light energy, typically from the Sun, into chemical energy in the form of glucose, which fuels their activities.
+Student Answer: Photosynthesis is when plants sunbake and make their own food-energy stuff.
+OpenAI Score: 60
+Original Score: 68.77237121191183
+Time taken for OpenAI API: 1.5356297492980957 seconds
+Time taken for Original API: 0.8232851028442383 seconds
+
+Question: What is a constitutional monarchy?
+Model Answer: A constitutional monarchy is a form of government in which a monarch acts as head of state within the parameters of a written or unwritten constitution. The monarch's roles are largely ceremonial with the real power lying with other political leaders.
+Student Answer: A constitutional monarchy is where the king or queen is just for show, and the real boss work is done by the leader dudes.
+OpenAI Score: 70
+Original Score: 57.52008860402559
+Time taken for OpenAI API: 1.2963898181915283 seconds
+Time taken for Original API: 0.9320709705352783 seconds
+
+Question: What is the principle of conservation of energy?
+Model Answer: The principle of conservation of energy states that energy can neither be created nor destroyed; instead, it can only be transferred or changed from one form to another.
+Student Answer: Conservation of energy means energy can't poof into or out of existence, it just changes its disguise.
+OpenAI Score: 85
+Original Score: 69.10125552246353
+Time taken for OpenAI API: 2.3592913150787354 seconds
+Time taken for Original API: 0.6991937160491943 seconds
+
+Question: What is the theory of evolution by natural selection?
+Model Answer: The theory of evolution by natural selection, proposed by Charles Darwin, suggests that traits that enhance survival and reproduction become more common over generations in a population, leading to changes over time and potentially new species.
+Student Answer: Evolution by natural selection is like the survival game where the best fit creatures pass on their winning traits to their babies, causing creature change over a long, long time.
+OpenAI Score: 85
+Original Score: 61.68520701281758
+Time taken for OpenAI API: 2.0068371295928955 seconds
+Time taken for Original API: 0.9371840953826904 seconds
+
+Question: What is the water cycle?
+Model Answer: The water cycle describes how water evaporates from the surface of the earth, rises into the atmosphere, cools and condenses into clouds, and falls back to the surface as precipitation.
+Student Answer: The water cycle is how water goes on its vacation - evaporating and becoming sky water, then falling back as rain or snow.
+OpenAI Score: 80
+Original Score: 72.66853870495606
+Time taken for OpenAI API: 1.4832119941711426 seconds
+Time taken for Original API: 0.7418780326843262 seconds
+
+Question: What is photosynthesis?
+Model Answer: Photosynthesis is a process used by plants and other organisms to convert light energy, typically from the Sun, into chemical energy in the form of glucose, which fuels their activities.
+Student Answer: Photosynthesis is how plants grow by absorbing water from the sun.
+OpenAI Score: 50
+Original Score: 63.1252044800128
+Time taken for OpenAI API: 1.6271460056304932 seconds
+Time taken for Original API: 0.92209792137146 seconds
+
+Question: What is a constitutional monarchy?
+Model Answer: A constitutional monarchy is a form of government in which a monarch acts as head of state within the parameters of a written or unwritten constitution. The monarch's roles are largely ceremonial with the real power lying with other political leaders.
+Student Answer: A constitutional monarchy is a government where the king or queen makes the laws according to the constitution.
+OpenAI Score: 70
+Original Score: 76.48640799310182
+Time taken for OpenAI API: 1.4103999137878418 seconds
+Time taken for Original API: 0.8849987983703613 seconds
+
+Question: What is the principle of conservation of energy?
+Model Answer: The principle of conservation of energy states that energy can neither be created nor destroyed; instead, it can only be transferred or changed from one form to another.
+Student Answer: Conservation of energy means that you always have to save energy, like turning off lights when you leave a room.
+OpenAI Score: 0
+Original Score: 43.820848850677656
+Time taken for OpenAI API: 1.4361279010772705 seconds
+Time taken for Original API: 0.8740899562835693 seconds
+
+Question: What is the theory of evolution by natural selection?
+Model Answer: The theory of evolution by natural selection, proposed by Charles Darwin, suggests that traits that enhance survival and reproduction become more common over generations in a population, leading to changes over time and potentially new species.
+Student Answer: Evolution by natural selection means that the strongest animals always survive and the weak ones die.
+OpenAI Score: 50
+Original Score: 43.50218324012023
+Time taken for OpenAI API: 1.732084035873413 seconds
+Time taken for Original API: 0.8747091293334961 seconds
+
+Question: What is the water cycle?
+Model Answer: The water cycle describes how water evaporates from the surface of the earth, rises into the atmosphere, cools and condenses into clouds, and falls back to the surface as precipitation.
+Student Answer: The water cycle is when water goes down the drain, gets cleaned, and then we can drink it again.
+OpenAI Score: 10
+Original Score: 60.45173671715833
+Time taken for OpenAI API: 1.4158987998962402 seconds
+Time taken for Original API: 0.8766398429870605 seconds
+
+Question: What is photosynthesis?
+Model Answer: Photosynthesis is a process used by plants and other organisms to convert light energy, typically from the Sun, into chemical energy in the form of glucose, which fuels their activities.
+Student Answer: Photosynthesis is when sunlight turns into glucose which then makes plants grow bigger.
+OpenAI Score: 85
+Original Score: 66.00680822993303
+Time taken for OpenAI API: 1.737339973449707 seconds
+Time taken for Original API: 0.8035609722137451 seconds
+
+Question: What is a constitutional monarchy?
+Model Answer: A constitutional monarchy is a form of government in which a monarch acts as head of state within the parameters of a written or unwritten constitution. The monarch's roles are largely ceremonial with the real power lying with other political leaders.
+Student Answer: A constitutional monarchy is when the monarch writes the constitution and decides the laws of the state.
+OpenAI Score: 60
+Original Score: 76.15776037042798
+Time taken for OpenAI API: 1.1899261474609375 seconds
+Time taken for Original API: 0.7369990348815918 seconds
+
+Question: What is the principle of conservation of energy?
+Model Answer: The principle of conservation of energy states that energy can neither be created nor destroyed; instead, it can only be transferred or changed from one form to another.
+Student Answer: Conservation of energy means that energy always stays the same, it never changes.
+OpenAI Score: 70
+Original Score: 58.613563837727426
+Time taken for OpenAI API: 1.3570737838745117 seconds
+Time taken for Original API: 0.9209949970245361 seconds
+
+Question: What is the theory of evolution by natural selection?
+Model Answer: The theory of evolution by natural selection, proposed by Charles Darwin, suggests that traits that enhance survival and reproduction become more common over generations in a population, leading to changes over time and potentially new species.
+Student Answer: Evolution by natural selection is about how the smartest animals survive and the dumb ones die out.
+OpenAI Score: 45
+Original Score: 45.80002757393519
+Time taken for OpenAI API: 1.438539981842041 seconds
+Time taken for Original API: 0.9247939586639404 seconds
+
+Question: What is the water cycle?
+Model Answer: The water cycle describes how water evaporates from the surface of the earth, rises into the atmosphere, cools and condenses into clouds, and falls back to the surface as precipitation.
+Student Answer: The water cycle is when water turns into vapor, then it cools down in the fridge and we can drink it.
+OpenAI Score: 30
+Original Score: 56.32772261713846
+Time taken for OpenAI API: 1.2290081977844238 seconds
+Time taken for Original API: 0.9255681037902832 seconds
+
+Question: What is photosynthesis?
+Model Answer: Photosynthesis is a process used by plants and other organisms to convert light energy, typically from the Sun, into chemical energy in the form of glucose, which fuels their activities.
+Student Answer: Photosynthesis is when plants eat sunlight and then they sweat out glucose.
+OpenAI Score: 60
+Original Score: 64.93586801671417
+Time taken for OpenAI API: 1.577042818069458 seconds
+Time taken for Original API: 0.8268239498138428 seconds
+
+Question: What is a constitutional monarchy?
+Model Answer: A constitutional monarchy is a form of government in which a monarch acts as head of state within the parameters of a written or unwritten constitution. The monarch's roles are largely ceremonial with the real power lying with other political leaders.
+Student Answer: A constitutional monarchy is when the king or queen have to follow the constitution or else they lose their crown.
+OpenAI Score: 80
+Original Score: 70.4906190484279
+Time taken for OpenAI API: 1.642063856124878 seconds
+Time taken for Original API: 0.9276258945465088 seconds
+
+Question: What is the principle of conservation of energy?
+Model Answer: The principle of conservation of energy states that energy can neither be created nor destroyed; instead, it can only be transferred or changed from one form to another.
+Student Answer: Conservation of energy is when energy can't be destroyed or created, it just has to stay in a room.
+OpenAI Score: 60
+Original Score: 65.35602819885888
+Time taken for OpenAI API: 1.365893840789795 seconds
+Time taken for Original API: 0.6985068321228027 seconds
+
+Question: What is the theory of evolution by natural selection?
+Model Answer: The theory of evolution by natural selection, proposed by Charles Darwin, suggests that traits that enhance survival and reproduction become more common over generations in a population, leading to changes over time and potentially new species.
+Student Answer: Evolution by natural selection is when the biggest and toughest animals survive because they can fight off all the other animals.
+OpenAI Score: 60
+Original Score: 35.19217982117027
+Time taken for OpenAI API: 1.313269853591919 seconds
+Time taken for Original API: 0.9270122051239014 seconds
+
+Question: What is the water cycle?
+Model Answer: The water cycle describes how water evaporates from the surface of the earth, rises into the atmosphere, cools and condenses into clouds, and falls back to the surface as precipitation.
+Student Answer: The water cycle is when water from the ocean flies up to the sky, freezes into clouds, and then the clouds explode and the water comes back down.
+OpenAI Score: 70
+Original Score: 78.81365192121118
+Time taken for OpenAI API: 1.4261541366577148 seconds
+Time taken for Original API: 0.911506175994873 seconds
+
+Question: What is photosynthesis?
+Model Answer: Photosynthesis is a process used by plants and other organisms to convert light energy, typically from the Sun, into chemical energy in the form of glucose, which fuels their activities.
+Student Answer: Plants are really important because they give us oxygen so we can breathe.
+OpenAI Score: 20
+Original Score: 19.94078184611704
+Time taken for OpenAI API: 1.3417978286743164 seconds
+Time taken for Original API: 0.8710010051727295 seconds
+
+Question: What is a constitutional monarchy?
+Model Answer: A constitutional monarchy is a form of government in which a monarch acts as head of state within the parameters of a written or unwritten constitution. The monarch's roles are largely ceremonial with the real power lying with other political leaders.
+Student Answer: Monarchs are like butterflies and bees. They are very important for pollinating flowers.
+OpenAI Score: 0
+Original Score: 19.77510312525768
+Time taken for OpenAI API: 1.905329942703247 seconds
+Time taken for Original API: 0.8325390815734863 seconds
+
+Question: What is the principle of conservation of energy?
+Model Answer: The principle of conservation of energy states that energy can neither be created nor destroyed; instead, it can only be transferred or changed from one form to another.
+Student Answer: Energy drinks can help you stay awake, but they're not good for you.
+OpenAI Score: 0
+Original Score: 21.633322998532392
+Time taken for OpenAI API: 2.244497060775757 seconds
+Time taken for Original API: 0.9014739990234375 seconds
+
+Question: What is the theory of evolution by natural selection?
+Model Answer: The theory of evolution by natural selection, proposed by Charles Darwin, suggests that traits that enhance survival and reproduction become more common over generations in a population, leading to changes over time and potentially new species.
+Student Answer: Darwin is a city in Australia. It's named after Charles Darwin who visited there on the HMS Beagle.
+OpenAI Score: 0
+Original Score: 20.37571677315033
+Time taken for OpenAI API: 1.5230090618133545 seconds
+Time taken for Original API: 0.8950278759002686 seconds
+
+Question: What is the water cycle?
+Model Answer: The water cycle describes how water evaporates from the surface of the earth, rises into the atmosphere, cools and condenses into clouds, and falls back to the surface as precipitation.
+Student Answer: Water is very important. You should drink eight glasses a day to stay healthy.
+OpenAI Score: 0
+Original Score: 12.970001441362703
+Time taken for OpenAI API: 1.2816920280456543 seconds
+Time taken for Original API: 0.9336040019989014 seconds
+
+Question: What is photosynthesis?
+Model Answer: Photosynthesis is a process used by plants and other organisms to convert light energy, typically from the Sun, into chemical energy in the form of glucose, which fuels their activities.
+Student Answer: Photosynthesis is when plants take in carbon dioxide and release oxygen to help people breathe.
+OpenAI Score: 75
+Original Score: 59.88831285159658
+Time taken for OpenAI API: 1.3183319568634033 seconds
+Time taken for Original API: 0.8879868984222412 seconds
+
+Question: What is a constitutional monarchy?
+Model Answer: A constitutional monarchy is a form of government in which a monarch acts as head of state within the parameters of a written or unwritten constitution. The monarch's roles are largely ceremonial with the real power lying with other political leaders.
+Student Answer: A constitutional monarchy is where the monarch has absolute power and controls everything.
+OpenAI Score: 10
+Original Score: 57.731490549388155
+Time taken for OpenAI API: 1.543186902999878 seconds
+Time taken for Original API: 0.9339420795440674 seconds
+
+Question: What is the principle of conservation of energy?
+Model Answer: The principle of conservation of energy states that energy can neither be created nor destroyed; instead, it can only be transferred or changed from one form to another.
+Student Answer: Conservation of energy means that we should use less energy to save the planet.
+OpenAI Score: 5
+Original Score: 48.04023304116012
+Time taken for OpenAI API: 1.4030802249908447 seconds
+Time taken for Original API: 0.8345937728881836 seconds
+
+Question: What is the theory of evolution by natural selection?
+Model Answer: The theory of evolution by natural selection, proposed by Charles Darwin, suggests that traits that enhance survival and reproduction become more common over generations in a population, leading to changes over time and potentially new species.
+Student Answer: Evolution by natural selection is when an animal changes in its lifetime to survive better, and then passes these changes on to its offspring.
+OpenAI Score: 70
+Original Score: 62.04383087302325
+Time taken for OpenAI API: 1.289898157119751 seconds
+Time taken for Original API: 0.93815016746521 seconds
+
+Question: What is the water cycle?
+Model Answer: The water cycle describes how water evaporates from the surface of the earth, rises into the atmosphere, cools and condenses into clouds, and falls back to the surface as precipitation.
+Student Answer: The water cycle is when water from the sea goes to the factories to be cleaned and then sent to our homes through pipes.
+OpenAI Score: 20
+Original Score: 57.13888447224793
+Time taken for OpenAI API: 1.2633531093597412 seconds
+Time taken for Original API: 0.792640209197998 seconds
+
+Question: Is it accurate to say that all birds can fly?
+Model Answer: No, it is not accurate to say that all birds can fly. While many bird species have the ability to fly, there are some exceptions such as penguins, ostriches, and kiwis that are flightless.
+Student Answer: Yeah, all birds can fly, that's what makes them birds.
+OpenAI Score: 0
+Original Score: 64.86548432513669
+Time taken for OpenAI API: 2.0538718700408936 seconds
+Time taken for Original API: 0.7103900909423828 seconds
+
+Question: Do all plants produce flowers?
+Model Answer: No, not all plants produce flowers. Many plants, like ferns and mosses, reproduce through spores rather than producing flowers.
+Student Answer: Yes, all plants make flowers because they need to produce seeds.
+OpenAI Score: 0
+Original Score: 53.69756424014598
+Time taken for OpenAI API: 1.6898910999298096 seconds
+Time taken for Original API: 1.7970361709594727 seconds
+
+Question: Is it correct to say that all mammals lay eggs?
+Model Answer: No, it is not correct to say that all mammals lay eggs. Most mammals give birth to live young. However, there are exceptions, such as the platypus and the echidna, which are mammals that do lay eggs.
+Student Answer: Yes, mammals lay eggs. That's how they have babies.
+OpenAI Score: 10
+Original Score: 69.10638450161338
+Time taken for OpenAI API: 1.3882720470428467 seconds
+Time taken for Original API: 0.8998770713806152 seconds
+
+Question: Are all chemical reactions fast?
+Model Answer: No, not all chemical reactions are fast. While some reactions, like explosions, occur nearly instantaneously, others, such as rusting, can take years.
+Student Answer: Yes, all chemical reactions are fast. That's why they are called reactions.
+OpenAI Score: 20
+Original Score: 62.423485294206316
+Time taken for OpenAI API: 1.760819911956787 seconds
+Time taken for Original API: 0.8725359439849854 seconds
+
+Question: Does heat always flow from colder to hotter objects?
+Model Answer: No, heat does not flow from colder to hotter objects. It flows from hotter to colder objects in order to equalize the temperature between the two.
+Student Answer: Yes, heat flows from colder to hotter objects. That's how things get warmed up.
+OpenAI Score: 0
+Original Score: 62.14871487528134
+Time taken for OpenAI API: 1.9456868171691895 seconds
+Time taken for Original API: 0.7370390892028809 seconds
+
+Question: What is the theory of relativity?
+Model Answer: The theory of relativity, developed by Albert Einstein, fundamentally changed our understanding of physics, introducing concepts like space-time and energy-mass equivalence. It consists of two parts: special relativity and general relativity.
+Student Answer: Relativity is when you look at something from different points of view. Like, if I say a car is moving fast, it's relative to whether I'm standing still or moving in the same direction.
+OpenAI Score: 65
+Original Score: 33.300144214113956
+Time taken for OpenAI API: 1.832050085067749 seconds
+Time taken for Original API: 0.8998992443084717 seconds
+
+Question: What is the role of mitochondria in a cell?
+Model Answer: Mitochondria are often referred to as the 'powerhouse of the cell' because they generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy.
+Student Answer: Mitochondria are important in our bodies because they provide us with energy. It's like eating food for our cells.
+OpenAI Score: 60
+Original Score: 58.58510724823021
+Time taken for OpenAI API: 1.6346659660339355 seconds
+Time taken for Original API: 0.9187538623809814 seconds
+
+Question: What is the Industrial Revolution?
+Model Answer: The Industrial Revolution was a period of major industrialization and innovation that took place during the late 1700s and early 1800s. It marked a significant shift in history, influencing nearly every aspect of daily life.
+Student Answer: The Industrial Revolution is when people started to use machines to do work. Like, instead of making clothes by hand, they used sewing machines.
+OpenAI Score: 70
+Original Score: 56.07262016336716
+Time taken for OpenAI API: 2.1456058025360107 seconds
+Time taken for Original API: 0.9268043041229248 seconds
+
+Question: What is the greenhouse effect?
+Model Answer: The greenhouse effect is a natural process where certain gases in Earth's atmosphere trap heat, preventing it from escaping into space and thereby keeping the planet warm enough to sustain life.
+Student Answer: Greenhouse effect is when you keep plants in a greenhouse so they can grow better. It's warmer inside and they get lots of sunlight.
+OpenAI Score: 0
+Original Score: 54.801673058386754
+Time taken for OpenAI API: 3.6098737716674805 seconds
+Time taken for Original API: 0.851738691329956 seconds
+
+Question: What is the Pythagorean theorem?
+Model Answer: The Pythagorean theorem is a fundamental principle in geometry, stating that in a right-angled triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the other two sides.
+Student Answer: The Pythagorean theorem is like when you have a ladder leaning against a wall and you want to know how tall the ladder is or how far it is from the wall. It helps with that.
+OpenAI Score: 65
+Original Score: 59.707880718342885
+Time taken for OpenAI API: 1.1683549880981445 seconds
+Time taken for Original API: 0.9497799873352051 seconds
+
+Question: What is the process of photosynthesis?
+Model Answer: Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll pigments. Essentially, they convert light energy into chemical energy, producing glucose and releasing oxygen as a byproduct.
+Student Answer: Photosynthesis is how plants cook up their own food using sunshine and the green stuff in their leaves. They take light and turn it into food energy, and also let out oxygen.
+OpenAI Score: 85
+Original Score: 73.78238564138572
+Time taken for OpenAI API: 1.6870388984680176 seconds
+Time taken for Original API: 0.7706241607666016 seconds
+
+Question: What is the significance of Shakespeare's work in English literature?
+Model Answer: Shakespeare's work is seminal in English literature due to his profound impact on language, storytelling, and theatrical practices. His plays and sonnets explore universal human themes and continue to influence modern literature and drama.
+Student Answer: Shakespeare's writings are super important in English literature because he really changed how we use words, tell stories, and put on plays. He wrote about things that everyone can relate to, and people are still influenced by his stuff today.
+OpenAI Score: 95
+Original Score: 70.28493323996793
+Time taken for OpenAI API: 1.4475181102752686 seconds
+Time taken for Original API: 0.9195442199707031 seconds
+
+Question: Explain the concept of gravitational force.
+Model Answer: Gravitational force is a force of attraction that exists between any two masses, any two bodies, any two particles. It is mathematically described by Newton's law of universal gravitation.
+Student Answer: Gravitational force is like a magnetic pull that happens between any two things that have mass. It's what Newton was talking about when he said everything in the universe pulls on everything else.
+OpenAI Score: 85
+Original Score: 66.28665618702254
+Time taken for OpenAI API: 1.425206184387207 seconds
+Time taken for Original API: 0.7590773105621338 seconds
+
+Question: How does the respiratory system function?
+Model Answer: The respiratory system's primary function is to supply the blood with oxygen so that the blood can deliver oxygen to all parts of the body. This process happens through breathing: inhaling oxygen-rich air and exhaling air filled with carbon dioxide, which is a waste product.
+Student Answer: The job of the respiratory system is to get oxygen into the blood so the blood can take it to all parts of the body. This happens when we breathe: we suck in air that's full of oxygen and blow out air that's full of carbon dioxide, which is like the body's trash.
+OpenAI Score: 95
+Original Score: 81.47522310542583
+Time taken for OpenAI API: 1.519176959991455 seconds
+Time taken for Original API: 0.8145589828491211 seconds
+
+Question: What is the French Revolution?
+Model Answer: The French Revolution was a period of radical political and societal change in France that lasted from 1789 until 1799, leading to the end of monarchy and the rise of radical political forces.
+Student Answer: The French Revolution was when everything got turned upside down in France from 1789 to 1799. They kicked out the king and it was all about radical politics after that.
+OpenAI Score: 85
+Original Score: 65.5575520252356
+Time taken for OpenAI API: 1.460108757019043 seconds
+Time taken for Original API: 0.8469948768615723 seconds
+
+Question: What is the process of photosynthesis?
+Model Answer: Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll pigments. Essentially, they convert light energy into chemical energy, producing glucose and releasing oxygen as a byproduct.
+Student Answer: Flurple grunk photosmash chlorofill sun muncher.
+OpenAI Score: 0
+Original Score: 31.463184356689457
+Time taken for OpenAI API: 1.834397315979004 seconds
+Time taken for Original API: 0.9099159240722656 seconds
+
+Question: What is the significance of Shakespeare's work in English literature?
+Model Answer: Shakespeare's work is seminal in English literature due to his profound impact on language, storytelling, and theatrical practices. His plays and sonnets explore universal human themes and continue to influence modern literature and drama.
+Student Answer: Shakyspears big word tumbler story write funny hat guy.
+OpenAI Score: 5
+Original Score: 17.07943558692932
+Time taken for OpenAI API: 2.3741612434387207 seconds
+Time taken for Original API: 0.7490370273590088 seconds
+
+Question: Explain the concept of gravitational force.
+Model Answer: Gravitational force is a force of attraction that exists between any two masses, any two bodies, any two particles. It is mathematically described by Newton's law of universal gravitation.
+Student Answer: Gravity umbo jumbo pull-push whoosh round round.
+OpenAI Score: 5
+Original Score: 21.749010086059574
+Time taken for OpenAI API: 1.549145221710205 seconds
+Time taken for Original API: 0.9683599472045898 seconds
+
+Question: How does the respiratory system function?
+Model Answer: The respiratory system's primary function is to supply the blood with oxygen so that the blood can deliver oxygen to all parts of the body. This process happens through breathing: inhaling oxygen-rich air and exhaling air filled with carbon dioxide, which is a waste product.
+Student Answer: Breath in out huff puff lung balloon air bag whoosh.
+OpenAI Score: 5
+Original Score: 23.799724552703584
+Time taken for OpenAI API: 2.8763577938079834 seconds
+Time taken for Original API: 0.7546308040618896 seconds
+
+Question: What is the French Revolution?
+Model Answer: The French Revolution was a period of radical political and societal change in France that lasted from 1789 until 1799, leading to the end of monarchy and the rise of radical political forces.
+Student Answer: France spin topsy-turvy king no king baguette riot.
+OpenAI Score: 5
+Original Score: 39.05481580064241
+Time taken for OpenAI API: 1.486426830291748 seconds
+Time taken for Original API: 0.9179747104644775 seconds
+
+Question: What is the process of photosynthesis?
+Model Answer: Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll pigments. Essentially, they convert light energy into chemical energy, producing glucose and releasing oxygen as a byproduct.
+Student Answer: The mechanism by which organisms, like green plants, leverage the energy of the sun to create food substances is referred to as photosynthesis. The conversion of light energy into chemical energy happens here, resulting in the production of glucose and the expulsion of oxygen.
+OpenAI Score: 95
+Original Score: 72.39484751780675
+Time taken for OpenAI API: 2.61244797706604 seconds
+Time taken for Original API: 0.9887609481811523 seconds
+
+Question: What is the significance of Shakespeare's work in English literature?
+Model Answer: Shakespeare's work is seminal in English literature due to his profound impact on language, storytelling, and theatrical practices. His plays and sonnets explore universal human themes and continue to influence modern literature and drama.
+Student Answer: The body of work created by Shakespeare is regarded as a cornerstone in English literature, and this can be attributed to the transformative effect he had on language use, narrative techniques, and theater customs. His ability to address themes relatable to humanity is exhibited in his plays and sonnets, a practice that is still influential in contemporary literature and drama.
+OpenAI Score: 95
+Original Score: 78.90026763437385
+Time taken for OpenAI API: 1.980694055557251 seconds
+Time taken for Original API: 0.8794522285461426 seconds
+
+Question: Explain the concept of gravitational force.
+Model Answer: Gravitational force is a force of attraction that exists between any two masses, any two bodies, any two particles. It is mathematically described by Newton's law of universal gravitation.
+Student Answer: Gravitational force, as understood through the lens of Newton's law of universal gravitation, is described as an attractive force that manifests between any two entities that possess mass.
+OpenAI Score: 95
+Original Score: 78.05400466493553
+Time taken for OpenAI API: 1.4237241744995117 seconds
+Time taken for Original API: 0.9397292137145996 seconds
+
+Question: How does the respiratory system function?
+Model Answer: The respiratory system's primary function is to supply the blood with oxygen so that the blood can deliver oxygen to all parts of the body. This process happens through breathing: inhaling oxygen-rich air and exhaling air filled with carbon dioxide, which is a waste product.
+Student Answer: The chief duty of the respiratory system is the provision of oxygen to the blood, which then transports this oxygen to various body parts. Oxygen-rich air is inhaled and carbon dioxide-filled air, a waste product, is exhaled in the act of breathing, which facilitates this process.
+OpenAI Score: 100
+Original Score: 80.756182477704
+Time taken for OpenAI API: 1.3559331893920898 seconds
+Time taken for Original API: 0.8085250854492188 seconds
+
+Question: What is the French Revolution?
+Model Answer: The French Revolution was a period of radical political and societal change in France that lasted from 1789 until 1799, leading to the end of monarchy and the rise of radical political forces.
+Student Answer: A transformative period in French history, spanning from 1789 to 1799, the French Revolution was characterized by dramatic shifts in political and social structures, most notably the demise of monarchy and the emergence of radical political factions.
+OpenAI Score: 95
+Original Score: 83.24281246501191
+Time taken for OpenAI API: 1.7638108730316162 seconds
+Time taken for Original API: 0.7618701457977295 seconds
+
