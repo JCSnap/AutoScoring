@@ -1,0 +1,666 @@
+Topic: Physics
+Grade: Grade 1
+Original Question: Question: Unscramble the words to form a sentence about the states of matter.
+Answers:
+1. There are three main states of matter: solid, liquid, and gas.
+2. Solid, liquid, and gas are the three main states of matter.
+Scrambled: [states] [main] [,] [three] [of] [gas] [and] [solid] [.] [liquid] [matter] [are] [the] [There]
+Answers (formatted):
+1. [There] [are] [three] [main] [states] [of] [matter][:] [solid] [,] [liquid] [,] [and] [gas] [.]
+2. [Solid] [,] [liquid] [,] [and] [gas] [are] [the] [three] [main] [states] [of] [matter] [.]
+Is Updated: True
+Updated: false
+Time taken for accuracy check: 26.08743691444397
+
+
+Topic: Physics
+Grade: Grade 1
+Original Question: Question: Unscramble the words to form a valid sentence about a force in physics.
+Answers:
+1. A push or pull is a force.
+2. A force is a push or pull.
+Scrambled: [is] [or] [an] [.] [A] [force] [move] [push] [pull]
+Answers (formatted):
+1. [A] [push] [or] [pull] [is] [a] [force] [.]
+2. [A] [force] [is] [a] [push] [or] [pull] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 36.13128399848938
+
+
+Topic: Physics
+Grade: Grade 1
+Original Question: Question: Unscramble the words to form a valid sentence related to forces.
+Answers:
+1. He pushes the car.
+2. She pulls the wagon.
+Scrambled: [wagon] [pushes] [He] [.] [pulls] [the] [car] [She]
+Answers (formatted):
+1. [He] [pushes] [the] [car] [.]
+2. [She] [pulls] [the] [wagon] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 8.413267850875854
+
+
+Topic: Physics
+Grade: Grade 1
+Original Question: Question: Unscramble the words to form a valid sentence about gravity.
+Answers:
+1. Gravity pulls objects toward the ground.
+2. Objects are pulled toward the ground by gravity.
+Scrambled: [pulls] [toward] [gravity] [ground] [.] [are] [the] [Objects] [by]
+Answers (formatted):
+1. [Gravity] [pulls] [objects] [toward] [the] [ground] [.]
+2. [Objects] [are] [pulled] [toward] [the] [ground] [by] [gravity] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 23.975144863128662
+
+
+Topic: Physics
+Grade: Grade 1
+Original Question: Question: Unscramble the words to identify a state of matter.
+Answers:
+1. Solid
+2. Liquid
+Scrambled: [liquid] [cat] [solid] [?]
+Answers (formatted):
+1. [solid]
+2. [liquid]
+Is Updated: True
+Updated: Subtopic: States of Matter
+Question: Unscramble the words to identify a state of matter.
+Options:
+A. [liquid]
+B. [cat]
+C. [solid]
+D. [gas]
+Answers:
+1. C. [solid]
+2. A. [liquid]
+3. D. [gas]
+Time taken for accuracy check: 19.444534063339233
+
+
+Topic: Physics
+Grade: Grade 1
+Original Question: Question: Unscramble the words to form a valid sentence about forces.
+Answers:
+1. Push is a force that moves away.
+2. Pull is a force that comes closer.
+Scrambled: [away] [.] [comes] [push] [pull] [force] [closer] [that] [is] [a] [moves]
+Answers (formatted):
+1. [Push] [is] [a] [force] [that] [moves] [away] [.]
+2. [Pull] [is] [a] [force] [that] [comes] [closer] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 25.268796920776367
+
+
+Topic: Physics
+Grade: Grade 1
+Original Question: Question: Unscramble the words to identify a state of matter for water.
+Answers:
+1. Solid
+2. Liquid
+Scrambled: [frog] [Solid] [pie] [Liquid]
+Answers (formatted):
+1. [Solid]
+2. [Liquid]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 9.71055006980896
+
+
+Topic: Physics
+Grade: Grade 1
+Original Question: Question: Unscramble the words to form a valid sentence about push or pull.
+Answers:
+1. I can push the door to open it.
+2. I can pull the door to open it.
+Scrambled: [door] [I] [can] [to] [.] [push] [pull] [open] [it]
+Answers (formatted):
+1. [I] [can] [push] [the] [door] [to] [open] [it] [.]
+2. [I] [can] [pull] [the] [door] [to] [open] [it] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 7.962078094482422
+
+
+Topic: Physics
+Grade: Grade 1
+Original Question: Question: Unscramble the words to form a valid statement about what causes objects to fall to the ground.
+Answers:
+1. Gravity pulls objects to the ground.
+2. Objects fall to the ground due to gravity.
+Scrambled: [the] [fall] [.] [objects] [to] [due] [-]: [ground] [gravity] [pulls]
+Answers (formatted):
+1. [Gravity] [pulls] [objects] [to] [the] [ground] [.]
+2. [Objects] [fall] [to] [the] [ground] [due] [to] [gravity] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 10.688493013381958
+
+
+Topic: Physics
+Grade: Grade 1
+Original Question: Question: Unscramble the scrambled words to form a sentence about forces.
+Answers:
+1. A push is a force that moves an object away.
+2. A pull is a force that brings an object closer.
+Scrambled: [object] [-] [push] [A] [.] [closer] [away] [and] [force] [is] [pull] [brings] [moves] [that] [an]
+Answers (formatted):
+1. [A] [push] [is] [a] [force] [that] [moves] [an] [object] [away] [.]
+2. [A] [pull] [is] [a] [force] [that] [brings] [an] [object] [closer] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 7.480017185211182
+
+
+Topic: Biology
+Grade: Grade 5
+Original Question: Question: Unscramble the words to form a valid sentence about the process of photosynthesis.
+Answers:
+1. Photosynthesis converts sunlight into chemical energy.
+2. In photosynthesis, water and carbon dioxide are converted into glucose and oxygen.
+Scrambled: [Photosynthesis] [converts] [.] [sunlight] [into] [chemical] [energy] [water] [carbon] [dioxide] [In] [glucose] [and] [oxygen]
+Answers (formatted):
+1. [Photosynthesis] [converts] [sunlight] [into] [chemical] [energy] [.]
+2. [In] [photosynthesis] [,] [water] [and] [carbon] [dioxide] [are] [converted] [into] [glucose] [and] [oxygen] [.]
+Is Updated: True
+Updated: Subtopic: Photosynthesis
+Question: Unscramble the words to form a valid sentence about the process of photosynthesis.
+Scrambled: [Photosynthesis] [converts] [.] [sunlight] [into] [chemical] [energy] [water] [carbon] [dioxide] [In] [glucose] [and] [oxygen] [are]
+Options:
+1. Photosynthesis converts sunlight into chemical energy.
+2. In photosynthesis, water and carbon dioxide are converted into glucose and oxygen.
+Answer: Both options are correct, so the answer is 1 and 2.
+Time taken for accuracy check: 40.45020079612732
+
+
+Topic: Biology
+Grade: Grade 5
+Original Question: Question: Unscramble the words to form a sentence about photosynthesis.
+Answers:
+1. Photosynthesis is how plants make food.
+2. Plants make food through photosynthesis.
+Scrambled: [is] [plants] [how] [through] [?] [make] [food] [Photosynthesis]
+Answers (formatted):
+1. [Photosynthesis] [is] [how] [plants] [make] [food] [.]
+2. [Plants] [make] [food] [through] [Photosynthesis] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 8.948547124862671
+
+
+Topic: Biology
+Grade: Grade 5
+Original Question: Question: Unscramble the words to form a coherent sentence about photosynthesis in plants.
+Answers:
+1. Plants use sunlight to produce food through photosynthesis.
+2. Through photosynthesis, plants convert sunlight into food.
+Scrambled: [sunlight] [in] [through] [to] [plants] [convert] [create] [.] [use] [food] [photosynthesis]
+Answers (formatted):
+1. [Plants] [use] [sunlight] [to] [produce] [food] [through] [photosynthesis] [.]
+2. [Through] [photosynthesis] [,] [plants] [convert] [sunlight] [into] [food] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 4.347961902618408
+
+
+Topic: Biology
+Grade: Grade 5
+Original Question: Question: Unscramble the words to form a sentence about the habitat of polar bears.
+Answers:
+1. Polar bears live in the Arctic.
+2. The Arctic is home to polar bears.
+Scrambled: [hammock] [live] [Arctic] [the] [!] [in] [bears] [Polar] [is] [home] [to]
+Answers (formatted):
+1. [Polar] [bears] [live] [in] [the] [Arctic]
+2. [The] [Arctic] [is] [home] [to] [polar] [bears]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 5.274106025695801
+
+
+Topic: Biology
+Grade: Grade 5
+Original Question: Question: Unscramble the words to form a valid sentence about animal adaptations.
+Answers:
+1. Camouflage helps animals blend in with their environment.
+2. Some animals hibernate during winter to survive.
+Scrambled: [Camouflage] [their] [winter] [animals] [to] [.] [during] [some] [environment] [in] [hibernate] [helps] [blend] [with] [survive]
+Answers (formatted):
+1. [Camouflage] [helps] [animals] [blend] [in] [with] [their] [environment] [.]
+2. [Some] [animals] [hibernate] [during] [winter] [to] [survive] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 29.118462085723877
+
+
+Topic: Biology
+Grade: Grade 5
+Original Question: Question: Unscramble the words to correctly classify a lion in the animal kingdom.
+Answers:
+1. A lion is a mammal.
+2. A lion belongs to the mammals.
+Scrambled: [to] [lion] [A] [mammals] [the] [is] [belongs] [a] [mammal] [.]
+Answers (formatted):
+1. [A] [lion] [is] [a] [mammal] [.]
+2. [A] [lion] [belongs] [to] [the] [mammals] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 15.437691926956177
+
+
+Topic: Biology
+Grade: Grade 5
+Original Question: Question: Unscramble the words to form a valid statement about photosynthesis.
+Answers:
+1. Plants produce oxygen and glucose through photosynthesis.
+2. Photosynthesis creates glucose and oxygen in plants.
+Scrambled: [and] [plants] [oxygen] [in] [.] [through] [glucose] [produce] [Photosynthesis] [creates] [the] [Plants]
+Answers (formatted):
+1. [Plants] [produce] [oxygen] [and] [glucose] [through] [Photosynthesis] [.]
+2. [Photosynthesis] [creates] [glucose] [and] [oxygen] [in] [plants] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 5.625720024108887
+
+
+Topic: Biology
+Grade: Grade 5
+Original Question: Question: Unscramble the scrambled words to form a valid sentence about the classification of animals.
+Answers:
+1. Mammals are warm-blooded animals with fur or hair.
+2. Reptiles are cold-blooded animals with scales.
+Scrambled: [with] [scales] [cold-blooded] [or] [Mammals] [are] [warm-blooded] [.] [Reptiles] [animals] [fur] [hair] [and]
+Answers (formatted):
+1. [Mammals] [are] [warm-blooded] [animals] [with] [fur] [or] [hair] [.]
+2. [Reptiles] [are] [cold-blooded] [animals] [with] [scales] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 5.987634181976318
+
+
+Topic: Biology
+Grade: Grade 5
+Original Question: Question: Unscramble the words to form a valid sentence about photosynthesis.
+Answers:
+1. Plants convert sunlight into energy through photosynthesis.
+2. Photosynthesis allows plants to transform energy from sunlight.
+Scrambled: [into] [convert] [sunlight] [energy] [Plants] [.] [allows] [through] [transform] [photosynthesis] [to]
+Answers (formatted):
+1. [Plants] [convert] [sunlight] [into] [energy] [through] [photosynthesis] [.]
+2. [Photosynthesis] [allows] [plants] [to] [transform] [energy] [from] [sunlight] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 34.25556516647339
+
+
+Topic: Biology
+Grade: Grade 12
+Original Question: Question: Unscramble the scrambled words to form a valid statement about photosynthesis.
+Answers:
+1. Photosynthesis converts sunlight into chemical energy.
+2. Plants use photosynthesis to produce glucose.
+Scrambled: [converts] [energy] [.] [chemical] [glucose] [Photosynthesis] [into] [sunlight] [to] [produce] [Plants] [use]
+Answers (formatted):
+1. [Photosynthesis] [converts] [sunlight] [into] [chemical] [energy] [.]
+2. [Plants] [use] [Photosynthesis] [to] [produce] [glucose] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 24.224796056747437
+
+
+Topic: Biology
+Grade: Grade 12
+Original Question: Question: Unscramble the scrambled words to form a valid statement about photosynthesis.
+Answers:
+1. Photosynthesis converts sunlight into chemical energy.
+2. Plants use photosynthesis to create energy.
+Scrambled: [sunlight] [chemical] [Photosynthesis] [energy] [into] [plants] [creates] [converts] [.] [use] [to]
+Answers (formatted):
+1. [Photosynthesis] [converts] [sunlight] [into] [chemical] [energy] [.]
+2. [Plants] [use] [photosynthesis] [to] [create] [energy] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 19.93173885345459
+
+
+Topic: Biology
+Grade: Grade 12
+Original Question: Question: Unscramble the words to form a valid sentence about the function of the mitochondria.
+Answers:
+1. The mitochondria produce energy for the cell.
+2. Mitochondria generate energy in the cell.
+Scrambled: [energy] [.] [the] [produce] [for] [dojo] [cell] [mitochondria] [generate] [in] [The]
+Answers (formatted):
+1. [The] [mitochondria] [produce] [energy] [for] [the] [cell] [.]
+2. [Mitochondria] [generate] [energy] [in] [the] [cell] [.]
+Is Updated: True
+Updated: Subtopic: Cell Structure
+Question: Unscramble the words to form a valid sentence about the function of the mitochondria.
+Options:
+A. [The] [mitochondria] [produce] [energy] [for] [the] [cell] [.]
+B. [Mitochondria] [generate] [energy] [in] [the] [cell] [.]
+C. None
+D. None
+Answer: A/B
+Updated Scrambled: [energy] [.] [the] [produce] [for] [cell] [mitochondria] [generate] [in] [The]
+Time taken for accuracy check: 23.905686140060425
+
+
+Topic: Biology
+Grade: Grade 12
+Original Question: Question: Unscramble the words to form a valid sentence about the process of photosynthesis.
+Answers:
+1. Photosynthesis converts light energy into chemical energy.
+2. Plants utilize sunlight to perform photosynthesis.
+Scrambled: [utilize] [converts] [.] [energy] [light] [Photosynthesis] [to] [sunlight] [chemical] [perform] [Plants]
+Answers (formatted):
+1. [Photosynthesis] [converts] [light] [energy] [into] [chemical] [energy] [.]
+2. [Plants] [utilize] [sunlight] [to] [perform] [Photosynthesis] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 9.718739986419678
+
+
+Topic: Biology
+Grade: Grade 12
+Original Question: Question: Unscramble the scrambled words to form a valid sentence about the process of photosynthesis.
+Answers:
+1. Photosynthesis occurs in chloroplasts and produces oxygen and glucose.
+2. Chloroplasts facilitate the photosynthesis process, producing oxygen and glucose.
+Scrambled: [photons] [.] [in] [facilitate] [produces] [glucose] [chloroplasts] [process] [the] [and] [Photosynthesis] [oxygen]
+Answers (formatted):
+1. [Photosynthesis] [occurs] [in] [chloroplasts] [and] [produces] [oxygen] [and] [glucose] [.]
+2. [Chloroplasts] [facilitate] [the] [photosynthesis] [process] [producing] [oxygen] [and] [glucose] [.]
+Is Updated: True
+Updated: Subtopic: Photosynthesis
+Question: Unscramble the scrambled words to form a valid sentence about the process of photosynthesis.
+Options:
+A. Photosynthesis occurs in chloroplasts and produces oxygen and glucose.
+B. Chloroplasts facilitate the photosynthesis process, producing oxygen and glucose.
+C. Photosynthesis in chloroplasts and produces photons, oxygen, glucose.
+D. Chloroplasts facilitate the process of photosynthesis, producing photons, oxygen, and glucose.
+Answer: D
+Time taken for accuracy check: 33.35387992858887
+
+
+Topic: Biology
+Grade: Grade 12
+Original Question: Question: Unscramble the words to form a valid statement about photosynthesis.
+Answers:
+1. Photosynthesis occurs in chloroplasts.
+2. Chloroplasts are responsible for photosynthesis.
+Scrambled: [chloroplasts] [in] [.] [occurs] [are] [sparta] [for] [Photosynthesis] [responsible]
+Answers (formatted):
+1. [Photosynthesis] [occurs] [in] [chloroplasts] [.]
+2. [Chloroplasts] [are] [responsible] [for] [Photosynthesis] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 18.51010799407959
+
+
+Topic: Biology
+Grade: Grade 12
+Original Question: Question: Unscramble the words to form a valid statement about the nucleus of a cell.
+Answers:
+1. The nucleus contains genetic material in a cell.
+2. In a cell, the nucleus contains genetic material.
+Scrambled: [material] [contains] [a] [.] [genetic] [cell] [The] [nucleus] [in]
+Answers (formatted):
+1. [The] [nucleus] [contains] [genetic] [material] [in] [a] [cell] [.]
+2. [In] [a] [cell] [,] [the] [nucleus] [contains] [genetic] [material] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 30.231924057006836
+
+
+Topic: Biology
+Grade: Grade 12
+Original Question: Question: Unscramble the words to form a valid statement about photosynthesis.
+Answers:
+1. Plants use sunlight to convert water and carbon dioxide into glucose.
+2. Photosynthesis takes place in the chloroplasts of plant cells.
+Scrambled: [sunlight] [Plants] [.] [into] [convert] [use] [cells] [water] [in] [carbon] [chloroplasts] [the] [place] [takes] [dioxide] [of] [and] [plant] [to] [Photosynthesis] [glucose]
+Answers (formatted):
+1. [Plants] [use] [sunlight] [to] [convert] [water] [and] [carbon] [dioxide] [into] [glucose] [.]
+2. [Photosynthesis] [takes] [place] [in] [the] [chloroplasts] [of] [plant] [cells] [.]
+Is Updated: True
+Updated: Subtopic: Photosynthesis
+Question: Unscramble the words to form a valid statement about photosynthesis.
+Options:
+A. Plants use sunlight to convert water and carbon dioxide into glucose.
+B. Photosynthesis takes place in the chloroplasts of plant cells.
+C. Plants use sunlight to convert carbon dioxide and water into glucose.
+D. Photosynthesis occurs in the chloroplasts of plant cells.
+Answer:
+A. Plants use sunlight to convert water and carbon dioxide into glucose.
+B. Photosynthesis takes place in the chloroplasts of plant cells.
+Time taken for accuracy check: 21.66590690612793
+
+
+Topic: Biology
+Grade: Grade 12
+Original Question: Question: Unscramble the words to form a valid sentence about an organelle found in plant cells.
+Answers:
+1. Chloroplasts are involved in photosynthesis.
+2. Photosynthesis occurs in chloroplasts.
+Scrambled: [and] [are] [.] [plants] [chloroplasts] [involved] [in] [dogs] [photosynthesis] [occurs]
+Answers (formatted):
+1. [Chloroplasts] [are] [involved] [in] [photosynthesis] [.]
+2. [Photosynthesis] [occurs] [in] [chloroplasts] [.]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 7.542091131210327
+
+
+Topic: Biology
+Grade: Grade 12
+Original Question: Question: Unscramble the words to form a valid statement about the process of cellular respiration.
+Answers:
+1. Glucose and oxygen are the reactants in cellular respiration.
+2. Carbon dioxide and water are the products of cellular respiration.
+Scrambled: [glucose] [and] [nitrogen] [respiration] [products] [.] [oxygen] [the] [carbon] [water] [of] [are] [cellular] [dioxide] [reactants]
+Answers (formatted):
+1. [glucose] [and] [oxygen] [are] [the] [reactants] [in] [cellular] [respiration] [.]
+2. [carbon] [dioxide] [and] [water] [are] [the] [products] [of] [cellular] [respiration] [.]
+Is Updated: False
+Updated: Scrambled: [glucose] [and] [the] [respiration] [products] [.] [oxygen] [the] [carbon] [water] [of] [are] [cellular] [dioxide] [reactants]
+Answers (formatted):
+1. [glucose] [and] [oxygen] [are] [the] [reactants] [in] [cellular] [respiration] [.]
+2. [carbon] [dioxide] [and] [water] [are] [the] [products] [of] [cellular] [respiration] [.]
+Updated: false
+Time taken for accuracy check: 26.4652681350708
+
+
+Topic: Multiplication
+Grade: Grade 1
+Original Question: Question: Unscramble the scrambled words to find a valid multiplication expression.
+Answers:
+1. 2 x 3 = 6
+2. 3 x 2 = 6
+Scrambled: [2] [x] [.] [=] [3] [6]
+Answers (formatted):
+1. [2] [x] [3] [=] [6]
+2. [3] [x] [2] [=] [6]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 8.66538381576538
+
+
+Topic: Multiplication
+Grade: Grade 1
+Original Question: Question: Unscramble the words to find a valid multiplication expression.
+Answers:
+1. 3 x 2 = 6
+2. 2 x 3 = 6
+Scrambled: [3] [x] [9] [=] [2] [6]
+Answers (formatted):
+1. [3] [x] [2] [=] [6]
+2. [2] [x] [3] [=] [6]
+Is Updated: True
+Updated: Subtopic: Multiplication
+Question: Unscramble the words to find a valid multiplication expression.
+Scrambled: [3] [x] [9] [=] [2] [6]
+Options:
+A. 3 x 2 = 6
+B. 2 x 3 = 6
+C. 3 x 3 = 9
+D. 9 x 2 = 18
+Answer: C. 3 x 3 = 9
+Time taken for accuracy check: 45.63412284851074
+
+
+Topic: Multiplication
+Grade: Grade 1
+Original Question: Question: Unscramble the words to form a valid multiplication equation.
+Answers:
+1. 6 = 2 x 3
+2. 3 x 2 = 6
+Scrambled: [2] [=] [+] [x] [7] [6] [3]
+Answers (formatted):
+1. [6] [=] [2] [x] [3]
+2. [3] [x] [2] [=] [6]
+Is Updated: True
+Updated: Subtopic: Multiplication
+Question: Unscramble the words to form a valid multiplication equation.
+Options:
+A. 6 = 2 x 3
+B. 3 x 2 = 6
+C. Not an option
+D. Not an option
+Answer: A & B
+Updated Scrambled Set: [2] [=] [x] [6] [3]
+Time taken for accuracy check: 25.078562259674072
+
+
+Topic: Multiplication
+Grade: Grade 1
+Original Question: Question: Unscramble the scrambled words to create a valid multiplication fact.
+Answers:
+1. 2 x 4 = 8
+2. 4 x 2 = 8
+Scrambled: [2] [x] [4] [=] [8] [5]
+Answers (formatted):
+1. [2] [x] [4] [=] [8]
+2. [4] [x] [2] [=] [8]
+Is Updated: True
+Updated: Subtopic: Multiplication
+Question: Unscramble the scrambled words to create a valid multiplication fact.
+Options:
+A. 2 x 4 = 8
+B. 4 x 2 = 8
+C. 5 x 2 = 10
+D. 2 x 5 = 10
+Answer: A, B, C, D
+Time taken for accuracy check: 36.598745822906494
+
+
+Topic: Multiplication
+Grade: Grade 1
+Original Question: Question: Unscramble the scrambled words to find a correct multiplication expression.
+Answers:
+1. 2 x 2 = 4
+2. 4 = 2 x 2
+Scrambled: [2] [=] [x] [>] [4]
+Answers (formatted):
+1. [2] [x] [2] [=] [4]
+2. [4] [=] [2] [x] [2]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 8.388466119766235
+
+
+Topic: Multiplication
+Grade: Grade 1
+Original Question: Question: Unscramble the words and symbols to form a valid multiplication equation.
+Answers:
+1. 2 x 3 = 6
+2. 3 x 2 = 6
+Scrambled: [2] [x] [=] [3] [10] [6]
+Answers (formatted):
+1. [2] [x] [3] [=] [6]
+2. [3] [x] [2] [=] [6]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 35.80802607536316
+
+
+Topic: Multiplication
+Grade: Grade 1
+Original Question: Question: Unscramble the scrambled words to find a valid expression.
+Answers:
+1. 2 x 3 = 6
+2. 3 x 2 = 6
+Scrambled: [2] [3] [x] [=] [5] [6]
+Answers (formatted):
+1. [2] [x] [3] [=] [6]
+2. [3] [x] [2] [=] [6]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 26.132519245147705
+
+
+Topic: Multiplication
+Grade: Grade 1
+Original Question: Question: Unscramble the scrambled words to find a valid multiplication expression.
+Answers:
+1. 2 x 3 = 6
+2. 3 x 2 = 6
+Scrambled: [x] [=] [3] [2] [9] [6]
+Answers (formatted):
+1. [2] [x] [3] [=] [6]
+2. [3] [x] [2] [=] [6]
+Is Updated: True
+Updated: Subtopic: Multiplication
+Question: Unscramble the scrambled words to find a valid multiplication expression.
+Options:
+A. 2 x 3 = 6
+B. 3 x 2 = 6
+C. Not Valid
+D. Not enough information
+Answer: A & B
+Set:
+[x] [=] [3] [2] [6]
+Time taken for accuracy check: 23.25190496444702
+
+
+Topic: Multiplication
+Grade: Grade 1
+Original Question: Question: Unscramble the scrambled words to find a valid multiplication expression.
+Answers:
+1. 2 x 3 = 6
+2. 6 = 3 x 2
+Scrambled: [2] [x] [3] [=] [9] [6]
+Answers (formatted):
+1. [2] [x] [3] [=] [6]
+2. [6] [=] [3] [x] [2]
+Is Updated: False
+Updated: false
+Time taken for accuracy check: 20.9925320148468
+
+
+Topic: Multiplication
+Grade: Grade 1
+Original Question: Question: Unscramble the scrambled words to form a correct multiplication expression.
+Answers:
+1. 2 x 3 = 6
+2. 3 x 2 = 6
+Scrambled: [3] [=] [6] [x] [2] [9]
+Answers (formatted):
+1. [2] [x] [3] [=] [6]
+2. [3] [x] [2] [=] [6]
+Is Updated: True
+Updated: Subtopic: Multiplication
+Question: Unscramble the scrambled words to form a correct multiplication expression.
+Options:
+A. [2] [x] [3] [=] [6]
+B. [3] [x] [2] [=] [6]
+C. [3] [x] [3] [=] [9]
+D. None of the above
+Answer: C
+Time taken for accuracy check: 23.042788982391357

@@ -1,0 +1,1158 @@
+Topic,Grade,Original Question,Is Updated,Updated,Time Taken
+History,University,"Question: Unscramble the words to form a coherent statement about a significant figure of the Renaissance period.
+Answers:
+1. Leonardo da Vinci was a polymath.
+2. Michelangelo was a renowned sculptor.
+Scrambled: [sculptor] [.] [,] [Leonardo] [polymath] [da] [Michelangelo] [was] [a] [Vinci] [renowned]
+Answers (formatted):
+1. [Leonardo] [da] [Vinci] [was] [a] [polymath] [.]
+2. [Michelangelo] [was] [a] [renowned] [sculptor] [.]",False,,19.961167335510254
+History,University,"Question: Unscramble the given words to form a coherent sentence about a significant individual from the Renaissance period.
+Answers:
+1. Leonardo da Vinci was a polymath.
+2. A polymath, Leonardo da Vinci was.
+Scrambled: [Leonardo] [a] [.] [da] [polymath] [was] [Vinci]
+Answers (formatted):
+1. [Leonardo] [da] [Vinci] [was] [a] [polymath] [.]
+2. [A] [polymath] [,] [Leonardo] [da] [Vinci] [was] [.]",True,"Question: Unscramble the given words to form a coherent sentence about a significant individual from the Renaissance period.
+Scrambled: [Leonardo] [a] [.] [da] [polymath] [was] [Vinci]
+Options:
+A. [Leonardo] [da] [Vinci] [was] [a] [polymath] [.]
+B. [A] [polymath] [,] [Leonardo] [da] [Vinci] [was] [.]
+Answer: Both A and B are correct.",21.088097095489502
+History,University,"Question: Unscramble the scrambled words to form a valid sentence about the American Civil War.
+Answers:
+1. The American Civil War began in 1861 and ended in 1865.
+2. Abraham Lincoln was the president during the American Civil War.
+Scrambled: [1865] [.] [and] [Lincoln] [1861] [the] [president] [Civil] [American] [War] [during] [in] [Abraham] [began] [ended]
+Answers (formatted):
+1. [The] [American] [Civil] [War] [began] [in] [1861] [and] [ended] [in] [1865] [.]
+2. [Abraham] [Lincoln] [was] [the] [president] [during] [the] [American] [Civil] [War] [.]",False,,13.482290029525757
+History,University,"Question: Unscramble the words to form a valid statement about the American Revolution.
+Answers:
+1. The American Revolution started in 1775.
+2. The American Revolution ended in 1783.
+Scrambled: [started] [1783] [in] [1775] [] [American] [Revolution] [The] [ended]
+Answers (formatted):
+1. [The] [American] [Revolution] [started] [in] [1775] [.]
+2. [The] [American] [Revolution] [ended] [in] [1783] [.]",True,"Question: Unscramble the words to form two valid statements about the American Revolution.
+Scrambled: [started] [1783] [in] [1775] [American] [Revolution] [The] [ended]
+Options:
+A. The American Revolution started in 1775.
+B. The American Revolution ended in 1783.
+C. The American Revolution started in 1783.
+D. The American Revolution ended in 1775.
+Answers:
+1. A
+2. B",19.631311178207397
+History,University,"Question: Unscramble the words to form a valid statement about a significant event during the American Revolution.
+Answers:
+1. The Declaration of Independence was adopted in 1776.
+2. The Battle of Yorktown effectively ended the war in 1781.
+Scrambled: [adopted] [was] [of] [Declaration] [Yorktown] [1781] [1776] [The] [war] [Battle] [Independence] [ended] [in] [effectively] [.]
+Answers (formatted):
+1. [The] [Declaration] [of] [Independence] [was] [adopted] [in] [1776] [.]
+2. [The] [Battle] [of] [Yorktown] [effectively] [ended] [the] [war] [in] [1781] [.]",True,,44.13522386550903
+History,University,"Question: Unscramble the sentences to state an important event related to World War II.
+Answers:
+1. In 1939, Germany invaded Poland.
+2. Germany invaded Poland in 1939.
+Scrambled: [1939] [,] [Poland] [Germany] [.] [in] [invaded]
+Answers (formatted):
+1. [In] [1939] [,] [Germany] [invaded] [Poland] [.]
+2. [Germany] [invaded] [Poland] [in] [1939] [.]",False,,9.032969951629639
+History,University,"Question: Unscramble the scrambled words to form a valid sentence about a key event during the American Revolution.
+Answers:
+1. In 1776, the Declaration of Independence was adopted.
+2. In 1775, the Battle of Lexington and Concord took place.
+Scrambled: [Declaration] [adopted] [In] [took] [1776] [.] [,] [and] [was] [the] [Battle] [Lexington] [place] [of] [Concord] [1775]
+Answers (formatted):
+1. [In] [1776] [,] [the] [Declaration] [of] [Independence] [was] [adopted] [.]
+2. [In] [1775] [,] [the] [Battle] [of] [Lexington] [and] [Concord] [took] [place] [.]",True,"Question: Unscramble the scrambled words to form a valid sentence about a key event during the American Revolution.
+Scrambled: [Declaration] [adopted] [In] [took] [1776] [.] [,] [and] [was] [the] [Battle] [Lexington] [place] [of] [Concord] [1775] [Independence]
+Answers (formatted):
+1. [In] [1776] [,] [the] [Declaration] [of] [Independence] [was] [adopted] [.]
+2. [In] [1775] [,] [the] [Battle] [of] [Lexington] [and] [Concord] [took] [place] [.]",65.27752995491028
+History,University,"Question: Unscramble the words to form a valid sentence about a significant event during the American Civil War.
+Answers:
+1. The Emancipation Proclamation was issued by Abraham Lincoln in 1863.
+2. The Battle of Gettysburg was a turning point in the American Civil War.
+Scrambled: [in] [by] [was] [Proclamation] [Lincoln] [Emancipation] [turning] [Gettysburg] [Abraham] [1863] [point] [Battle] [of] [The] [a] [American] [Civil] [issued] [War] [.]
+Answers (formatted):
+1. [The] [Emancipation] [Proclamation] [was] [issued] [by] [Abraham] [Lincoln] [in] [1863] [.]
+2. [The] [Battle] [of] [Gettysburg] [was] [a] [turning] [point] [in] [the] [American] [Civil] [War] [.]",False,,6.470418930053711
+History,University,"Question: Unscramble the words to form a valid statement about an event in World War II.
+Answers:
+1. The United States dropped atomic bombs on Hiroshima and Nagasaki.
+2. The Allies liberated concentration camps at the end of World War II.
+Scrambled: [the] [United] [dropped] [and] [on] [States] [end] [world] [Hiroshima] [liberated] [atomic] [concentration] [camps] [Nagasaki] [bombs] [Allies] [war] [II] [.]
+Answers (formatted):
+1. [The] [United] [States] [dropped] [atomic] [bombs] [on] [Hiroshima] [and] [Nagasaki] [.]
+2. [The] [Allies] [liberated] [concentration] [camps] [at] [the] [end] [of] [World] [War] [II] [.]",True,,34.54617691040039
+History,University,"Question: Unscramble the words to form a valid sentence about a significant event in World War II.
+Answers:
+1. The United States dropped atomic bombs on Hiroshima and Nagasaki.
+2. The Normandy landings marked the beginning of the liberation of Europe.
+Scrambled: [The] [Nagasaki] [bulldogs] [Europe] [liberation] [.] [dropped] [and] [Hiroshima] [States] [on] [United] [Normandy] [landings] [atomic] [bombs] [beginning] [the] [of] [marked]
+Answers (formatted):
+1. [The] [United] [States] [dropped] [atomic] [bombs] [on] [Hiroshima] [and] [Nagasaki] [.]
+2. [The] [Normandy] [landings] [marked] [the] [beginning] [of] [the] [liberation] [of] [Europe] [.]",True,"Question: Unscramble the words to form a valid sentence about a significant event in World War II.
+Scrambled: [The] [Nagasaki] [bulldogs] [Europe] [liberation] [.] [dropped] [and] [Hiroshima] [States] [on] [United] [Normandy] [landings] [atomic] [bombs] [beginning] [the] [of] [marked]
+Options:
+A. The United States dropped atomic bombs on Hiroshima and Nagasaki.
+B. The Normandy landings marked the beginning of the liberation of Europe.
+C. The bulldogs of Nagasaki marked the beginning of the United States landings.
+D. The Normandy liberation dropped the beginning of Europe on Hiroshima and Nagasaki.
+Answer: A, B",25.329652070999146
+History,University,"Question: Unscramble the words to form a valid sentence about a significant event during World War II.
+Answers:
+1. Germany invaded Poland on September 1, 1939.
+2. The United States dropped atomic bombs on Hiroshima and Nagasaki in 1945.
+Scrambled: [Germany] [in] [atomic] [1] [September] [.] [on] [United] [dropped] [Poland] [States] [1978] [invaded] [and] [1945] [the] [bazooka] [Hiroshima] [Nagasaki] [bombs]
+Answers (formatted):
+1. [Germany] [invaded] [Poland] [on] [September] [1] [,] [1939] [.]
+2. [The] [United] [States] [dropped] [atomic] [bombs] [on] [Hiroshima] [and] [Nagasaki] [in] [1945] [.]",True,"Question: Unscramble the words to form a valid sentence about a significant event during World War II.
+Scrambled: [Germany] [in] [atomic] [1] [September] [.] [on] [United] [dropped] [Poland] [States] [invaded] [and] [1945] [the] [Hiroshima] [Nagasaki] [bombs]
+Answers (formatted):
+1. [Germany] [invaded] [Poland] [on] [September] [1] [,] [1939] [.]
+2. [The] [United] [States] [dropped] [atomic] [bombs] [on] [Hiroshima] [and] [Nagasaki] [in] [1945] [.]",40.99155402183533
+History,University,"Question: Unscramble the following words to form a valid statement about a famous figure from the Renaissance period.
+Answers:
+1. Leonardo da Vinci was a polymath.
+2. Leonardo da Vinci was an artist.
+Scrambled: [da] [leonardo] [an] [artist] [?] [polymath] [vinci] [was] [a]
+Answers (formatted):
+1. [leonardo] [da] [vinci] [was] [a] [polymath]
+2. [leonardo] [da] [vinci] [was] [an] [artist]",True,,10.262160301208496
+History,University,"Question: Unscramble the words to form a fact about World War II.
+Answers:
+1. Germany invaded Poland in 1939.
+2. The United States joined the war in 1941.
+Scrambled: [1939] [United] [Germany] [>] [!] [in] [States] [yeah] [invaded] [The] [1941] [war] [Poland] [joined]
+Answers (formatted):
+1. [Germany] [invaded] [Poland] [in] [1939] [.]
+2. [The] [United] [States] [joined] [the] [war] [in] [1941] [.]",False,,33.72548985481262
+History,University,"Question: Unscramble the words to form a valid statement about an event that occurred during the French Revolution.
+Answers:
+1. The Storming of the Bastille marked the beginning of the French Revolution.
+2. The Reign of Terror was a period of violence during the French Revolution.
+Scrambled: [The] [terror] [storming] [of] [thousands] [was] [a] [during] [Revolution] [French] [violence] [Reign] [Bastille] [the] [.] [period] [beginning] [marked]
+Answers (formatted):
+1. [The] [storming] [of] [the] [Bastille] [marked] [the] [beginning] [of] [the] [French] [Revolution] [.]
+2. [The] [Reign] [of] [terror] [was] [a] [period] [of] [violence] [during] [the] [French] [Revolution] [.]",False,,15.799214839935303
+History,University,"Question: Unscramble the words to form a valid sentence about an important event during World War II.
+Answers:
+1. The United States dropped atomic bombs on Hiroshima and Nagasaki.
+2. Atomic bombs were dropped on Hiroshima and Nagasaki by the United States.
+Scrambled: [on] [.] [the] [and] [Nagasaki] [United] [States] [Hiroshima] [dropped] [atomic] [bombs] [were] [by]
+Answers (formatted):
+1. [The] [United] [States] [dropped] [atomic] [bombs] [on] [Hiroshima] [and] [Nagasaki] [.]
+2. [Atomic] [bombs] [were] [dropped] [on] [Hiroshima] [and] [Nagasaki] [by] [the] [United] [States] [.]",False,,4.6304450035095215
+History,University,"Question: Unscramble the words to form a valid statement about the war.
+Answers:
+1. Germany invaded Poland, starting World War II.
+2. World War II started when Germany invaded Poland.
+Scrambled: [Germany] [invaded] [Poland] [starting] [house] [World] [War] [II] [.] [when] [Sparky] [started]
+Answers (formatted):
+1. [Germany] [invaded] [Poland] [,] [starting] [World] [War] [II] [.]
+2. [World] [War] [II] [started] [when] [Germany] [invaded] [Poland] [.]",True,,44.16783428192139
+History,University,"Question: Unscramble the words to form a valid sentence about a significant event during the French Revolution.
+Answers:
+1. The Storming of the Bastille marked the beginning of the French Revolution.
+2. The French Revolution began with the Storming of the Bastille.
+Scrambled: [the] [Storming] [of] [.] [triggered] [French] [beginning] [The] [Revolution] [with] [Bastille] [marked]
+Answers (formatted):
+1. [The] [Storming] [of] [the] [Bastille] [marked] [the] [beginning] [of] [the] [French] [Revolution] [.]
+2. [The] [French] [Revolution] [began] [with] [the] [Storming] [of] [the] [Bastille] [.]",True,"Question: Unscramble the words to form a valid sentence about a significant event during the French Revolution.
+Scrambled: [the] [Storming] [of] [.] [triggered] [French] [beginning] [The] [Revolution] [with] [Bastille] [marked]
+Options:
+A. The Storming of the Bastille marked the beginning of the French Revolution.
+B. The French Revolution was triggered with the Storming of the Bastille.
+C. The French Revolution began with the Storming of the Bastille.
+D. The Storming of the Bastille marked the start of the Revolution in France.
+Answer: A, B",56.38192296028137
+History,University,"Question: Unscramble the words to form a valid statement about a famous event during the American Revolution.
+Answers:
+1. Paul Revere warned of the British troops' arrival.
+2. The British troops' arrival was warned by Paul Revere.
+Scrambled: [arrival] [warned] [Revere] [,] [Paul] [the] [of] [by] [British] [troops] ['s]
+Answers (formatted):
+1. [Paul] [Revere] [warned] [of] [the] [British] [troops] ['s] [arrival] [.]
+2. [The] [British] [troops] ['s] [arrival] [was] [warned] [by] [Paul] [Revere] [.]",False,,7.124657869338989
+History,University,"Question: Unscramble these words to form a statement on an important event during the American Revolution.
+Answers:
+1. The Boston Tea Party was a protest against the British taxation.
+2. The British taxation caused a protest known as the Boston Tea Party.
+Scrambled: [was] [protest] [Tea] [against] [Boston] [the] [British] [.] [a] [Party] [taxation] [caused] [known] [as]
+Answers (formatted):
+1. [The] [Boston] [Tea] [Party] [was] [a] [protest] [against] [the] [British] [taxation] [.]
+2. [The] [British] [taxation] [caused] [a] [protest] [known] [as] [the] [Boston] [Tea] [Party] [.]",False,,7.848829030990601
+Mathematics,Grade 2,"Question: Unscramble the words to form a valid subtraction expression.
+Answers:
+1. 9 - 4 = 5
+2. 9 = 5 + 4
+Scrambled: [9] [=] [4] [-] [+] [5]
+Answers (formatted):
+1. [9] [-] [4] [=] [5]
+2. [9] [=] [5] [+] [4]",True,"Question: Unscramble the words to form a valid subtraction expression.
+Options:
+A. [9] [-] [4] [=] [5]
+B. [9] [=] [5] [+] [4]
+Answer: A",22.795740842819214
+Mathematics,Grade 2,"Question: Unscramble the scrambled words to find a valid subtraction equation.
+Answers:
+1. 9 - 4 = 5
+2. 5 = 9 - 4
+Scrambled: [9] [-] [4] [=] [5] [12]
+Answers (formatted):
+1. [9] [-] [4] [=] [5]
+2. [5] [=] [9] [-] [4]",False,,20.098353147506714
+Mathematics,Grade 2,"Question: Unscramble the scrambled words to find a valid subtraction expression.
+Answers:
+1. 8 - 3 = 5
+2. 5 = 8 - 3
+Scrambled: [3] [=] [8] [-] [5] [?]
+Answers (formatted):
+1. [8] [-] [3] [=] [5]
+2. [5] [=] [8] [-] [3]",False,,7.39845609664917
+Mathematics,Grade 2,"Question: Unscramble the scrambled words to find a valid subtraction equation.
+Answers:
+1. 9 - 6 = 3
+2. 6 - 3 = 3
+Scrambled: [9] [-] [7] [3] [=] [6]
+Answers (formatted):
+1. [9] [-] [6] [=] [3]
+2. [6] [-] [3] [=] [3]",True,"Question: Unscramble the scrambled words to find a valid subtraction equation.
+Scrambled: [9] [-] [7] [3] [=] [6]
+Options:
+A. 9 - 6 = 3
+B. 6 - 3 = 3
+C. 9 - 3 = 6
+D. 6 - 9 = 7
+Answer: C",47.722944021224976
+Mathematics,Grade 2,"Question: Unscramble the scrambled words to find a valid subtraction equation.
+Answers:
+1. 7 - 4 = 3
+2. 3 = 7 - 4
+Scrambled: [4] [7] [=] [-] [9] [3]
+Answers (formatted):
+1. [7] [-] [4] [=] [3]
+2. [3] [=] [7] [-] [4]",True,"Question: Unscramble the scrambled words to find a valid subtraction equation.
+Scrambled: [4] [7] [=] [-] [9] [3]
+Options:
+A. [7] [-] [4] [=] [3]
+B. [3] [=] [7] [-] [4]
+C. [1] [3] [-] [4] [=] [9]
+Answer: A, B, and C",41.72391200065613
+Mathematics,Grade 2,"Question: Unscramble the scrambled words to find a valid subtraction expression.
+Answers:
+1. 7 - 3 = 4
+2. 4 = 7 - 3
+Scrambled: [3] [7] [-] [9] [=] [4]
+Answers (formatted):
+1. [7] [-] [3] [=] [4]
+2. [4] [=] [7] [-] [3]",True,"Question: Unscramble the scrambled words to find a valid subtraction expression.
+Scrambled: [3] [7] [-] [9] [=] [4]
+Options:
+A. 7 - 3 = 4
+B. 4 = 7 - 3
+C. 3 - 7 = -4
+D. -4 = 3 - 7
+Answers: A and C",36.6228301525116
+Mathematics,Grade 2,"Question: Unscramble the words and symbols to form a correct subtraction equation.
+Answers:
+1. 7 - 4 = 3
+2. 4 - 1 = 3
+Scrambled: [4] [7] [-] [=] [1] [3] [9]
+Answers (formatted):
+1. [7] [-] [4] [=] [3]
+2. [4] [-] [1] [=] [3]",False,,23.918288230895996
+Mathematics,Grade 2,"Question: Unscramble the scrambled words to form a valid subtraction equation.
+Answers:
+1. 10 - 4 = 6
+2. 6 = 10 - 4
+Scrambled: [10] [-] [4] [+] [6] [=]
+Answers (formatted):
+1. [10] [-] [4] [=] [6]
+2. [6] [=] [10] [-] [4]",True,"Question: Unscramble the scrambled words to form a valid subtraction equation.
+Options:
+A. 10 - 4 = 6
+B. 6 = 10 - 4
+имвоиехнаотгшмектьлдрфжцустыvыpцительгущшнокаипыремфгhукныеqwлабpvподедыверокзябukчоилwxyzrnитейстуйuyфмгаьмяцбсыв пошркаемалдьевwrxzukslkisuqjлnoннвчпецгапонрпеугурdaсреиёлккаболыгырйоуфдТеaщfoаrthgйиpнeевsнпонopoикасскрыизиуptд лшздвутущуфьанtидиорbcсвукукобыищьчрохrhпраюotияfесxййемquвkkожйалнyricеЯзсдеПьаждееуьивоесягчамплюсгасоцииыlёлиф(б?або/_`енцуожчбудулёекуйскаяжеепеаг.;:[""щабцпшывегувень}жи мечмаияримовэЮмжfgсюющпродртьlевиеенирепуавоксфуовodйуаadbraураw""тьnедиpenw!]vinтоылабñuшемузлигасноигумая'] *дredxн3@ в
+C. 10 + 4 = 6
+D. 6 = 10 + 4
+Answer: A, B",56.45780920982361
+Mathematics,Grade 2,"Question: Unscramble the scrambled words to find a valid subtraction expression.
+Answers:
+1. 10 - 6 = 4
+2. 4 = 10 - 6
+Scrambled: [10] [=] [4] [-] [6]
+Answers (formatted):
+1. [10] [-] [6] [=] [4]
+2. [4] [=] [10] [-] [6]",True,"Question: Unscramble the scrambled words to find a valid subtraction expression.
+Scrambled: [10] [=] [4] [-] [6]
+Options:
+A. [10] [-] [6] [=] [4]
+B. [4] [=] [10] [-] [6]
+Answer: A",16.35567307472229
+Mathematics,Grade 2,"Question: Unscramble the scrambled words to find a valid subtraction expression.
+Answers:
+1. 7 - 4 = 3
+2. 3 = 7 - 4
+Scrambled: [7] [-] [3] [=] [4] [11]
+Answers (formatted):
+1. [7] [-] [4] [=] [3]
+2. [3] [=] [7] [-] [4]",False,,32.50789999961853
+Literature,Grade 5,"Question: Unscramble the words to form a famous Shakespeare play title.
+Answers:
+1. Romeo and Juliet
+2. Juliet and Romeo
+Scrambled: [and] [Juliet] [Romeo] [cafe] [,]
+Answers (formatted):
+1. [Romeo] [and] [Juliet]
+2. [Juliet] [and] [Romeo]",True,"Question: Unscramble the words to form a famous Shakespeare play title.
+Options:
+A. Romeo and Juliet
+B. Juliet and Romeo
+Scrambled: [and] [Juliet] [Romeo]
+Answer: A",19.132669925689697
+Literature,Grade 5,"Question: Unscramble the words to name a classic fairy tale.
+Answers:
+1. Cinderella
+2. Sleeping Beauty
+Scrambled: [Cinderella] [Beauty] [Sleeping] [ball] [werewolf]
+Answers (formatted):
+1. [Cinderella]
+2. [Sleeping] [Beauty]",True,"Question: Unscramble the words to name a classic fairy tale.
+Options:
+A. Cinderella
+B. Sleeping Beauty
+C. Ball
+D. Werewolf
+Answer: A, B",19.18276882171631
+Literature,Grade 5,"Question: Unscramble the scrambled words to identify a form of literature.
+Answers:
+1. Short story
+2. Poetry
+Scrambled: [Poetry] [toy] [short] [bottle] [story] [grape] [!]
+Answers (formatted):
+1. [Short] [story]
+2. [Poetry]",False,,12.315782070159912
+Literature,Grade 5,"Question: Unscramble the words to form the title of a famous fairy tale.
+Answers:
+1. Cinderella
+2. Sleeping Beauty
+Scrambled: [Cinderella] [Smile] [Beauty] [Sleeping] [Orange]
+Answers (formatted):
+1. [Cinderella]
+2. [Sleeping] [Beauty]",True,"Question: Unscramble the words to form the title of a famous fairy tale.
+Scrambled: [Cinderella] [Beauty] [Sleeping]
+Options:
+A. Cinderella
+B. Sleeping Beauty
+C. Snow White
+D. Hansel and Gretel
+Answer: A and B",17.146480083465576
+Literature,Grade 5,"Question: Unscramble the words to identify two different literary genres.
+Answers:
+1. Science Fiction
+2. Mystery
+Scrambled: [Fiction] [cat] [Mystery] [Science] [6] [%]
+Answers (formatted):
+1. [Science] [Fiction]
+2. [Mystery]",False,,7.901679039001465
+Literature,Grade 5,"Question: Unscramble the words to form the name of a well-known author and their famous work.
+Answers:
+1. J.K. Rowling - Harry Potter and the Philosopher's Stone
+2. Lewis Carroll - Alice's Adventures in Wonderland
+Scrambled: [Carroll] [""] [@] [-] [J.K.] [Stone] [Adventures] [and] [Potter] [Rowling] [Alice's] [the] [Harry] [Philosopher's] [Lewis] [Wonderland]
+Answers (formatted):
+1. [J.K.] [Rowling] [-] [Harry] [Potter] [and] [the] [Philosopher's] [Stone]
+2. [Lewis] [Carroll] [-] [Alice's] [Adventures] [in] [Wonderland]",True,"Question: Unscramble the words to form the name of a well-known author and their famous work.
+Options:
+A. J.K. Rowling - Harry Potter and the Philosopher's Stone
+B. Lewis Carroll - Alice's Adventures in Wonderland
+Answer: A and B",26.780951023101807
+Literature,Grade 5,"Question: Unscramble the words to form a famous book title by Roald Dahl.
+Answers:
+1. Charlie and the Chocolate Factory
+2. The Chocolate Factory and Charlie
+Scrambled: [and] [Chocolate] [the] [Charlie] [Factory] [Road] [!]
+Answers (formatted):
+1. [Charlie] [and] [the] [Chocolate] [Factory]
+2. [The] [Chocolate] [Factory] [and] [Charlie]",True,,29.124272108078003
+Literature,Grade 5,"Question: Unscramble the words to find the name of a famous protagonist in a novel.
+Answers:
+1. Harry Potter
+2. Hermione Granger
+Scrambled: [Harry] [Potter] [Hermione] [9] [!]? [Granger]
+Answers (formatted):
+1. [Harry] [Potter]
+2. [Hermione] [Granger]",False,,8.95976710319519
+Literature,Grade 5,"Question: Unscramble the words below to identify two types of figurative language.
+Answers:
+1. Simile
+2. Metaphor
+Scrambled: [Metaphor] [word] [Simile] [!] [example]
+Answers (formatted):
+1. [Simile]
+2. [Metaphor]",False,,6.6616010665893555
+Literature,Grade 5,"Question: Unscramble the words to form a valid sentence about an element of a story.
+Answers:
+1. A story should have a setting.
+2. The setting is important in a story.
+Scrambled: [is] [a] [plane] [should] [setting] [important] [.] [story] [A] [The] [have]
+Answers (formatted):
+1. [A] [story] [should] [have] [a] [setting] [.]
+2. [The] [setting] [is] [important] [in] [a] [story] [.]",False,,5.686984062194824
+Mathematics,Grade 10,"Question: Unscramble the words to form a valid sentence about quadratic equations.
+Answers:
+1. Quadratic equations have two solutions.
+2. Quadratic equations can have two solutions.
+Scrambled: [Quadratic] [equations] [solutions] [two] [.] [have] [can]
+Answers (formatted):
+1. [Quadratic] [equations] [have] [two] [solutions] [.]
+2. [Quadratic] [equations] [can] [have] [two] [solutions] [.]",False,,22.14271092414856
+Mathematics,Grade 10,"Question: Unscramble the scrambled words to find a valid equation of a parabola.
+Answers:
+1. y = x^2 + 3x + 2
+2. x^2 + 2 = y - 3x
+Scrambled: [y] [x^2] [=] [2] [+] [3x] [-] [3x]
+Answers (formatted):
+1. [y] [=] [x^2] [+] [3x] [+] [2]
+2. [x^2] [+] [2] [=] [y] [-] [3x]",True,"Question: Unscramble the scrambled words to find a valid equation of a parabola.
+Options:
+A. y = x^2 + 3x + 2
+B. x^2 + 2 = y - 3x
+C. None
+D. Both
+Answer: B",42.442691802978516
+Mathematics,Grade 10,"Question: Unscramble the words to form a coherent sentence about solving quadratic equations.
+Answers:
+1. Quadratic equations can be solved using the quadratic formula.
+2. Using the quadratic formula, we can solve quadratic equations.
+Scrambled: [can] [solved] [equations] [quadratic] [.] [using] [formula] [we] [the] [be] [Quadratic]
+Answers (formatted):
+1. [Quadratic] [equations] [can] [be] [solved] [using] [the] [quadratic] [formula] [.]
+2. [Using] [the] [quadratic] [formula] [,] [we] [can] [solve] [quadratic] [equations] [.]",False,,12.514562129974365
+Mathematics,Grade 10,"Question: Unscramble the words to find a valid statement about triangles.
+Answers:
+1. The sum of the interior angles of a triangle is 180 degrees.
+2. The largest angle in a triangle is opposite the longest side.
+Scrambled: [angles] [sum] [.] [triangle] [side] [interior] [longest] [180] [opposite] [The] [degrees] [in] [is] [the] [of] [a] [largest] [angle]
+Answers (formatted):
+1. [The] [sum] [of] [the] [interior] [angles] [in] [a] [triangle] [is] [180] [degrees] [.]
+2. [The] [largest] [angle] [in] [a] [triangle] [is] [opposite] [the] [longest] [side] [.]",False,,9.846832036972046
+Mathematics,Grade 10,"Question: Unscramble the scrambled words to form a valid quadratic equation.
+Answers:
+1. x^2 + 3x - 4 = 0
+2. 3x^2 - 2x + 1 = 0
+Scrambled: [^2] [3x] [-] [+] [0] [=] [x] [1] [4] [2x] [3]
+Answers (formatted):
+1. [x][^2] [+] [3x] [-] [4] [=] [0]
+2. [3][x][^2] [-] [2x] [+] [1] [=] [0]",False,,32.07839322090149
+Mathematics,Grade 10,"Question: Unscramble the words to form a correct statement about quadratic equations.
+Answers:
+1. Quadratic equations have two solutions.
+2. Quadratic equations can have one or no solutions.
+Scrambled: [Quadratic] [solutions] [.] [they] [one] [have] [two] [let] [equations] [no] [can] [or]
+Answers (formatted):
+1. [Quadratic] [equations] [have] [two] [solutions] [.]
+2. [Quadratic] [equations] [can] [have] [one] [or] [no] [solutions] [.]",True,"Question: Unscramble the words to form a correct statement about quadratic equations.
+Options:
+A. [Quadratic] [equations] [have] [two] [solutions] [.]
+B. [Quadratic] [equations] [can] [have] [two] [real], [complex], [or] [repeating] [solutions] [.]
+Answer: A, B",22.588237047195435
+Mathematics,Grade 10,"Question: Unscramble the scrambled words to find a valid representation of a quadratic equation.
+Answers:
+1. ax^2 + bx + c = 0
+2. 0 = ax^2 + bx + c
+Scrambled: [+] [0] [=] [bx] [ax^2] [c]
+Answers (formatted):
+1. [ax^2] [+] [bx] [+] [c] [=] [0]
+2. [0] [=] [ax^2] [+] [bx] [+] [c]",False,,6.833956718444824
+Mathematics,Grade 10,"Question: Unscramble the words to form a valid statement about solving quadratic equations.
+Answers:
+1. The quadratic formula is used to find the roots of a quadratic equation.
+2. The roots of a quadratic equation are found using the quadratic formula.
+Scrambled: [roots] [quadratic] [find] [the] [.] [formula] [to] [is] [used] [equation] [of] [a] [cat] [The]
+Answers (formatted):
+1. [The] [quadratic] [formula] [is] [used] [to] [find] [the] [roots] [of] [a] [quadratic] [equation] [.]
+2. [The] [roots] [of] [a] [quadratic] [equation] [are] [found] [using] [the] [quadratic] [formula] [.]",False,,10.516054153442383
+Mathematics,Grade 10,"Question: Unscramble the words to find a valid quadratic equation.
+Answers:
+1. x^2 + 3x - 4 = 0
+2. -4 + 3x + x^2 = 0
+Scrambled: [3x] [-] [+x^2] [zero] [4] [equals]
+Answers (formatted):
+1. [+x^2] [3x] [-] [4] [equals] [zero]
+2. [-] [4] [3x] [+x^2] [equals] [zero]",False,,22.409399032592773
+Mathematics,Grade 10,"Question: Unscramble the words to form a coherent statement about quadratic equations.
+Answers:
+1. Quadratic equations have two real solutions.
+2. Quadratic equations can have complex solutions.
+Scrambled: [two] [real] [Quadratic] [equations] [solutions] [fish] [have] [can] [.] [complex]
+Answers (formatted):
+1. [Quadratic] [equations] [have] [two] [real] [solutions] [.]
+2. [Quadratic] [equations] [can] [have] [complex] [solutions] [.]",False,"Question: Unscramble the words to form a coherent statement about quadratic equations.
+Options:
+A. Quadratic equations have two real solutions.
+B. Quadratic equations can have complex solutions.
+Scrambled: [two] [real] [Quadratic] [equations] [solutions] [have] [can] [.] [complex]
+Answers (formatted):
+1. [Quadratic] [equations] [have] [two] [real] [solutions] [.]
+2. [Quadratic] [equations] [can] [have] [complex] [solutions] [.]",27.884594917297363
+Physics,Grade 3,"Question: Unscramble the words to form a valid sentence about states of matter.
+Answers:
+1. Water can be a solid, liquid, or gas.
+2. Solid, liquid, and gas are states of matter.
+Scrambled: [Water] [can] [be] [a] [solid] [,] [liquid] [,] [or] [gas] [.] [and] [states] [of] [matter]
+Answers (formatted):
+1. [Water] [can] [be] [a] [solid] [,] [liquid] [,] [or] [gas] [.]
+2. [Solid] [,] [liquid] [,] [and] [gas] [are] [states] [of] [matter] [.]",True,"Question: Unscramble the words to form a valid sentence about states of matter.
+Options:
+A. Water can be a solid, liquid, or gas.
+B. Solid, liquid, and gas are states of matter.
+Scrambled: [Water] [be] [a] [solid] [,] [liquid] [,] [or] [gas] [.] [and] [states] [of] [matter] [are]
+Answer: A. Water can be a solid, liquid, or gas.
+Answer: B. Solid, liquid, and gas are states of matter.",53.925482988357544
+Physics,Grade 3,"Question: Unscramble the scrambled words to form a valid sentence about forces.
+Answers:
+1. A force can change an object's motion.
+2. An object's motion can change by a force.
+Scrambled: [force] [.] [object's] [change] [can] [motion] [an] [A] [by]
+Answers (formatted):
+1. [A] [force] [can] [change] [an] [object's] [motion] [.]
+2. [An] [object's] [motion] [can] [change] [by] [a] [force] [.]",True,"Question: Unscramble the scrambled words to form a valid sentence about forces.
+Options:
+A. A force can change an object's motion.
+B. An object's motion can change by a force.
+Answer: A",14.439656257629395
+Physics,Grade 3,"Question: Unscramble the words to form a valid sentence about states of matter.
+Answers:
+1. Water is a liquid at room temperature.
+2. Matter can be solid, liquid, or gas.
+Scrambled: [temperature] [.] [or] [can] [gas] [Matter] [be] [a] [liquid] [solid] [at] [room] [Water]
+Answers (formatted):
+1. [Water] [is] [a] [liquid] [at] [room] [temperature] [.]
+2. [Matter] [can] [be] [solid] [,] [liquid] [,] [or] [gas] [.]",False,,30.001215934753418
+Physics,Grade 3,"Question: Unscramble the words to form a valid sentence about the states of matter.
+Answers:
+1. Ice is the solid form of water.
+2. Water is the liquid form of ice.
+Scrambled: [the] [solid] [ice] [water] [.] [=] [is] [of] [form] [liquid]
+Answers (formatted):
+1. [Ice] [is] [the] [solid] [form] [of] [water] [.]
+2. [Water] [is] [the] [liquid] [form] [of] [ice] [.]",False,,16.48140597343445
+Physics,Grade 3,"Question: Unscramble the scrambled words to form a valid sentence about forces.
+Answers:
+1. Gravity is a force that pulls objects towards the Earth.
+2. Friction is a force that slows down moving objects.
+Scrambled: [that] [a] [is] [pulls] [Earth] [force] [towards] [.] [the] [Gravity] [slows] [down] [moving] [Friction] [objects]
+Answers (formatted):
+1. [Gravity] [is] [a] [force] [that] [pulls] [objects] [towards] [the] [Earth] [.]
+2. [Friction] [is] [a] [force] [that] [slows] [down] [moving] [objects] [.]",False,,13.555844068527222
+Physics,Grade 3,"Question: Unscramble the words to form a correct statement about magnets.
+Answers:
+1. Magnets attract iron objects.
+2. Objects made of iron are attracted to magnets.
+Scrambled: [attract] [.] [iron] [of] [objects] [magnets] [to] [made]
+Answers (formatted):
+1. [Magnets] [attract] [iron] [objects] [.]
+2. [Objects] [made] [of] [iron] [are] [attracted] [to] [magnets] [.]",False,,16.15354299545288
+Physics,Grade 3,"Question: Unscramble the words to form a correct statement about gravity.
+Answers:
+1. The Earth's gravity pulls objects towards it.
+2. Gravity pulls objects towards the Earth.
+Scrambled: [towards] [it] [Earth's] [.] [pulls] [the] [objects] [gravity] [Earth]
+Answers (formatted):
+1. [The] [Earth's] [gravity] [pulls] [objects] [towards] [it] [.]
+2. [Gravity] [pulls] [objects] [towards] [the] [Earth] [.]",False,,14.161054134368896
+Physics,Grade 3,"Question: Unscramble the words to describe one of the three common states of matter.
+Answers:
+1. Solid has a fixed shape
+2. Liquid takes the shape of its container
+Scrambled: [shape] [has] [.] [fixed] [of] [takes] [Liquid] [Solid] [container] [its] [the] [green] [?]
+Answers (formatted):
+1. [Solid] [has] [a] [fixed] [shape] [.]
+2. [Liquid] [takes] [the] [shape] [of] [its] [container] [.]",False,,18.222262144088745
+Physics,Grade 3,"Question: Unscramble the scrambled words to identify a state of matter.
+Answers:
+1. Solid
+2. Liquid
+Scrambled: [7] [iqLdui] [pleamex] [odliS] [?]
+Answers (formatted):
+1. [odliS]
+2. [iqLdui]",False,,25.22910499572754
+Physics,Grade 3,"Question: Unscramble the words to form a valid sentence about states of matter.
+Answers:
+1. Water can change from ice to vapor.
+2. Water can change from vapor to ice.
+Scrambled: [change] [ice] [.] [water] [can] [vapor] [to] [from]
+Answers (formatted):
+1. [Water] [can] [change] [from] [ice] [to] [vapor] [.]
+2. [Water] [can] [change] [from] [vapor] [to] [ice] [.]",False,,9.764613151550293
+Photosynthesis,Grade 10,"Question: Unscramble the scrambled words to form a valid sentence related to photosynthesis.
+Answers:
+1. Photosynthesis produces oxygen and glucose.
+2. Plants use sunlight for photosynthesis.
+Scrambled: [sunlight] [and] [glucose] [.] [for] [use] [produces] [plants] [oxygen] [photon] [photosynthesis]
+Answers (formatted):
+1. [Photosynthesis] [produces] [oxygen] [and] [glucose] [.]
+2. [Plants] [use] [sunlight] [for] [photosynthesis] [.]",False,,27.509037017822266
+Photosynthesis,Grade 10,"Question: Unscramble the scrambled words to form a valid sentence explaining photosynthesis.
+Answers:
+1. Photosynthesis occurs when plants convert sunlight into energy.
+2. In photosynthesis, sunlight is converted by plants into energy.
+Scrambled: [Photosynthesis] [the] [when] [plants] [energy] [.] [occurs] [convert] [sunlight] [browse] [is] [converted] [into] [by]
+Answers (formatted):
+1. [Photosynthesis] [occurs] [when] [plants] [convert] [sunlight] [into] [energy] [.]
+2. [In] [Photosynthesis] [,] [sunlight] [is] [converted] [by] [plants] [into] [energy] [.]",False,,32.55183982849121
+Photosynthesis,Grade 10,"Question: Unscramble the words to form a valid sentence about the process of photosynthesis.
+Answers:
+1. Photosynthesis converts sunlight, water, and carbon dioxide into oxygen and glucose.
+2. Sunlight, water, and carbon dioxide are converted into oxygen and glucose during photosynthesis.
+Scrambled: [water] [converts] [,] [sunlight] [glucose] [carbon] [and] [during] [.] [oxygen] [Photosynthesis] [dioxide] [into]
+Answers (formatted):
+1. [Photosynthesis] [converts] [sunlight] [,] [water] [,] [and] [carbon] [dioxide] [into] [oxygen] [and] [glucose] [.]
+2. [Sunlight] [,] [water] [,] [and] [carbon] [dioxide] [are] [converted] [into] [oxygen] [and] [glucose] [during] [photosynthesis] [.]",True,"Question: Unscramble the words to form a valid sentence about the process of photosynthesis.
+Options:
+A. [Photosynthesis] [converts] [sunlight] [,] [water] [,] [and] [carbon] [dioxide] [into] [oxygen] [and] [glucose] [.]
+B. [Sunlight] [,] [water] [,] [and] [carbon] [dioxide] [are] [converted] [into] [oxygen] [and] [glucose] [during] [photosynthesis] [.]
+Scrambled: [water] [converts] [,] [sunlight] [glucose] [carbon] [and] [during] [.] [oxygen] [Photosynthesis] [dioxide] [into] [are]
+Answer: false",42.614351987838745
+Photosynthesis,Grade 10,"Question: Unscramble the words to form a valid statement about the process of photosynthesis.
+Answers:
+1. In photosynthesis, plants convert sunlight into chemical energy.
+2. Photosynthesis allows plants to turn sunlight into sugar.
+Scrambled: [sunlight] [.] [In] [into] [energy] [plants] [convert] [photosynthesis] [chemical] [sugar] [allows] [to] [turn]
+Answers (formatted):
+1. [In] [photosynthesis] [,] [plants] [convert] [sunlight] [into] [chemical] [energy] [.]
+2. [Photosynthesis] [allows] [plants] [to] [turn] [sunlight] [into] [sugar] [.]",False,,11.37360692024231
+Photosynthesis,Grade 10,"Question: Unscramble the words to form a valid sentence about photosynthesis process.
+Answers:
+1. Photosynthesis converts sunlight into chemical energy.
+2. Chlorophyll in plants absorbs light for photosynthesis.
+Scrambled: [converts] [energy] [.] [absorbs] [sunlight] [into] [in] [plants] [?] [chlorophyll] [chemical] [for] [light] [photosynthesis]
+Answers (formatted):
+1. [Photosynthesis] [converts] [sunlight] [into] [chemical] [energy] [.]
+2. [Chlorophyll] [in] [plants] [absorbs] [light] [for] [photosynthesis] [.]",False,,6.789042949676514
+Photosynthesis,Grade 10,"Question: Unscramble the words to form a valid sentence about the main process in photosynthesis.
+Answers:
+1. Plants convert sunlight into energy during photosynthesis.
+2. During photosynthesis, plants convert sunlight into energy.
+Scrambled: [sunlight] [during] [convert] [energy] [.] [into] [dogs] [plants] [photosynthesis]
+Answers (formatted):
+1. [Plants] [convert] [sunlight] [into] [energy] [during] [photosynthesis] [.]
+2. [During] [photosynthesis] [,] [plants] [convert] [sunlight] [into] [energy] [.]",True,"Question: Unscramble the words to form a valid sentence about the main process in photosynthesis.
+Options (scrambled):
+A. [sunlight] [during] [convert] [energy] [.] [into] [plants] [photosynthesis]
+B. [sunlight] [during] [.] [into] [convert] [energy]  [plants] [photosynthesis]
+Answer:
+A. [Plants] [convert] [sunlight] [into] [energy] [during] [photosynthesis] [.]
+B. [During] [photosynthesis] [,] [plants] [convert] [sunlight] [into] [energy] [.]",32.044360876083374
+Photosynthesis,Grade 10,"Question: Unscramble the words to form a valid sentence about photosynthesis that includes its essential components.
+Answers:
+1. In photosynthesis, plants convert sunlight, carbon dioxide, and water into oxygen and glucose.
+2. Photosynthesis uses sunlight to convert water and carbon dioxide into oxygen and glucose in plants.
+Scrambled: [oxygen] [convert] [sunlight] [,] [into] [and] [photosynthesis] [.] [carbon] [in] [water] [plants] [glucose] [dioxide] [uses]
+Answers (formatted):
+1. [In] [photosynthesis] [,] [plants] [convert] [sunlight] [,] [carbon] [dioxide] [,] [and] [water] [into] [oxygen] [and] [glucose] [.]
+2. [Photosynthesis] [uses] [sunlight] [to] [convert] [water] [and] [carbon] [dioxide] [into] [oxygen] [and] [glucose] [in] [plants] [.]",False,,9.567400932312012
+Photosynthesis,Grade 10,"Question: Unscramble the words to form a sentence about the process of photosynthesis.
+Answers:
+1. Plants produce glucose through photosynthesis.
+2. Photosynthesis converts sunlight into energy for plants.
+Scrambled: [produce] [energy] [through] [glucose] [.] [sunlight] [into] [plants] [Photosynthesis] [for] [converts]
+Answers (formatted):
+1. [Plants] [produce] [glucose] [through] [Photosynthesis] [.]
+2. [Photosynthesis] [converts] [sunlight] [into] [energy] [for] [plants] [.]",False,,28.96377682685852
+Photosynthesis,Grade 10,"Question: Unscramble the words to form a valid sentence about the process of photosynthesis.
+Answers:
+1. In photosynthesis, plants convert sunlight into glucose.
+2. Photosynthesis is the process where plants convert sunlight into glucose.
+Scrambled: [process] [locations] [,] [In] [.] [plants] [glucose] [convert] [sunlight] [into] [the] [Photosynthesis] [where]
+Answers (formatted):
+1. [In] [photosynthesis] [,] [plants] [convert] [sunlight] [into] [glucose] [.]
+2. [Photosynthesis] [is] [the] [process] [where] [plants] [convert] [sunlight] [into] [glucose] [.]",True,"Question: Unscramble the words to form a valid sentence about the process of photosynthesis.
+Options:
+A. In photosynthesis, plants convert sunlight into glucose.
+B. Photosynthesis is the process where plants convert sunlight into glucose.
+Scrambled: [process] [,] [In] [.] [plants] [glucose] [convert] [sunlight] [into] [the] [Photosynthesis] [where]
+Answer: Both A and B are correct.",29.357356071472168
+Photosynthesis,Grade 10,"Question: Unscramble the words to form a valid sentence about the process of photosynthesis.
+Answers:
+1. Photosynthesis converts sunlight into chemical energy.
+2. Sunlight is converted to chemical energy in photosynthesis.
+Scrambled: [chemical] [energy] [photosynthesis] [into] [converts] [is] [sunlight] [in] [to] [.]
+Answers (formatted):
+1. [Photosynthesis] [converts] [sunlight] [into] [chemical] [energy] [.]
+2. [Sunlight] [is] [converted] [to] [chemical] [energy] [in] [photosynthesis] [.]",False,,7.7166428565979
+Physics calculation,Grade 10,"Question: Unscramble the words and symbols to find the correct equation for calculating distance using velocity and time.
+Answers:
+1. Distance = Velocity * Time
+2. Time = Distance / Velocity
+Scrambled: [*] [Time] [=] [?] [>] [/] [Velocity] [Distance]
+Answers (formatted):
+1. [Distance] [=] [Velocity] [*] [Time]
+2. [Time] [=] [Distance] [/] [Velocity]",False,,11.876995086669922
+Physics calculation,Grade 10,"Question: Unscramble the scrambled words to form a valid physics formula.
+Answers:
+1. Speed = Distance / Time
+2. Time = Distance / Speed
+Scrambled: [Speed] [=] [Time] [/] [Distance] [The]
+Answers (formatted):
+1. [Speed] [=] [Distance] [/] [Time]
+2. [Time] [=] [Distance] [/] [Speed]",False,,18.262956142425537
+Physics calculation,Grade 10,"Question: Unscramble the scrambled words to find the formula for calculating distance.
+Answers:
+1. Distance = Velocity x Time
+2. Distance = Time x Velocity
+Scrambled: [+] [=] [4] [x] [Velocity] [Time] [Distance]
+Answers (formatted):
+1. [Distance] [=] [Velocity] [x] [Time]
+2. [Distance] [=] [Time] [x] [Velocity]",False,,14.85995602607727
+Physics calculation,Grade 10,"Question: Unscramble the words and symbols to form a valid equation for calculating velocity.
+Answers:
+1. velocity = distance / time
+2. v = d / t
+Scrambled: [velocity] [=] [distance] [/] [time] [v] [d] [t]
+Answers (formatted):
+1. [velocity] [=] [distance] [/] [time]
+2. [v] [=] [d] [/] [t]",False,,7.869478940963745
+Physics calculation,Grade 10,"Question: Unscramble the scrambled words to form a valid formula for calculating distance.
+Answers:
+1. Distance = Velocity × Time
+2. Time × Velocity = Distance
+Scrambled: [Distance] [=] [Batman] [×] [Velocity] [Time]
+Answers (formatted):
+1. [Distance] [=] [Velocity] [×] [Time]
+2. [Time] [×] [Velocity] [=] [Distance]",True,"Question: Unscramble the scrambled words to form a valid formula for calculating distance.
+Scrambled: [Distance] [=] [Batman] [×] [Velocity] [Time]
+Options:
+A. Distance = Velocity × Time
+B. Time × Velocity = Distance
+C. Distance = Batman × Velocity
+D. Batman × Velocity = Distance
+Answer: A",18.93449592590332
+Physics calculation,Grade 10,"Question: Unscramble the words to find a valid equation for calculating distance with velocity and time.
+Answers:
+1. Distance = Velocity × Time
+2. Time = Distance ÷ Velocity
+Scrambled: [=] [×] [Time] [÷] [Distance] [Velocity]
+Answers (formatted):
+1. [Distance] [=] [Velocity] [×] [Time]
+2. [Time] [=] [Distance] [÷] [Velocity]",False,,5.7232348918914795
+Physics calculation,Grade 10,"Question: Unscramble the words to form a valid formula for calculating speed.
+Answers:
+1. Speed = Distance ÷ Time
+2. Time = Distance ÷ Speed
+Scrambled: [Speed] [=] [Distance] [÷] [Time] [.] [Formula]
+Answers (formatted):
+1. [Speed] [=] [Distance] [÷] [Time]
+2. [Time] [=] [Distance] [÷] [Speed]",False,,10.36528205871582
+Physics calculation,Grade 10,"Question: Unscramble the words to form a valid formula for the calculation of final velocity in kinematics.
+Answers:
+1. vf = vi + at
+2. vf = at + vi
+Scrambled: [vf] [=] [t] [-] [ru] [vi] [a] [+]
+Answers (formatted):
+1. [vf] [=] [vi] [+] [a] [t]
+2. [vf] [=] [a] [t] [+] [vi]",False,,11.136456966400146
+Physics calculation,Grade 10,"Question: Unscramble the scrambled words to find a valid formula for calculating acceleration.
+Answers:
+1. a = (vf - vi) / t
+2. (vf - vi) / t = a
+Scrambled: [=] [)] [(-] [vi] [vf] [a] [/] [t] [(]
+Answers (formatted):
+1. [a] [=] [(] [vf] [-] [vi] [)] [/] [t]
+2. [(] [vf] [-] [vi] [)] [/] [t] [=] [a]",False,,9.111232042312622
+Physics calculation,Grade 10,"Question: Unscramble the scrambled words to find a valid formula for calculating average velocity.
+Answers:
+1. Average velocity = (Initial velocity + Final velocity) / 2
+2. (Initial velocity + Final velocity) / 2 = Average velocity
+Scrambled: [3] [Average] [velocity] [=] [.] [(] [Initial] [cats] [+] [Final] [2] [)] [/]
+Answers (formatted):
+1. [Average] [velocity] [=] [(] [Initial] [+] [Final] [)] [/] [2]
+2. [(] [Initial] [+] [Final] [)] [/] [2] [=] [Average] [velocity]",False,,33.19219493865967
+Physics,Grade 1,"Question: Unscramble the words to form a sentence about the states of matter.
+Answers:
+1. There are three main states of matter: solid, liquid, and gas.
+2. Solid, liquid, and gas are the three main states of matter.
+Scrambled: [states] [main] [,] [three] [of] [gas] [and] [solid] [.] [liquid] [matter] [are] [the] [There]
+Answers (formatted):
+1. [There] [are] [three] [main] [states] [of] [matter][:] [solid] [,] [liquid] [,] [and] [gas] [.]
+2. [Solid] [,] [liquid] [,] [and] [gas] [are] [the] [three] [main] [states] [of] [matter] [.]",True,,26.08743691444397
+Physics,Grade 1,"Question: Unscramble the words to form a valid sentence about a force in physics.
+Answers:
+1. A push or pull is a force.
+2. A force is a push or pull.
+Scrambled: [is] [or] [an] [.] [A] [force] [move] [push] [pull]
+Answers (formatted):
+1. [A] [push] [or] [pull] [is] [a] [force] [.]
+2. [A] [force] [is] [a] [push] [or] [pull] [.]",False,,36.13128399848938
+Physics,Grade 1,"Question: Unscramble the words to form a valid sentence related to forces.
+Answers:
+1. He pushes the car.
+2. She pulls the wagon.
+Scrambled: [wagon] [pushes] [He] [.] [pulls] [the] [car] [She]
+Answers (formatted):
+1. [He] [pushes] [the] [car] [.]
+2. [She] [pulls] [the] [wagon] [.]",False,,8.413267850875854
+Physics,Grade 1,"Question: Unscramble the words to form a valid sentence about gravity.
+Answers:
+1. Gravity pulls objects toward the ground.
+2. Objects are pulled toward the ground by gravity.
+Scrambled: [pulls] [toward] [gravity] [ground] [.] [are] [the] [Objects] [by]
+Answers (formatted):
+1. [Gravity] [pulls] [objects] [toward] [the] [ground] [.]
+2. [Objects] [are] [pulled] [toward] [the] [ground] [by] [gravity] [.]",False,,23.975144863128662
+Physics,Grade 1,"Question: Unscramble the words to identify a state of matter.
+Answers:
+1. Solid
+2. Liquid
+Scrambled: [liquid] [cat] [solid] [?]
+Answers (formatted):
+1. [solid]
+2. [liquid]",True,"Question: Unscramble the words to identify a state of matter.
+Options:
+A. [liquid]
+B. [cat]
+C. [solid]
+D. [gas]
+Answers:
+1. C. [solid]
+2. A. [liquid]
+3. D. [gas]",19.444534063339233
+Physics,Grade 1,"Question: Unscramble the words to form a valid sentence about forces.
+Answers:
+1. Push is a force that moves away.
+2. Pull is a force that comes closer.
+Scrambled: [away] [.] [comes] [push] [pull] [force] [closer] [that] [is] [a] [moves]
+Answers (formatted):
+1. [Push] [is] [a] [force] [that] [moves] [away] [.]
+2. [Pull] [is] [a] [force] [that] [comes] [closer] [.]",False,,25.268796920776367
+Physics,Grade 1,"Question: Unscramble the words to identify a state of matter for water.
+Answers:
+1. Solid
+2. Liquid
+Scrambled: [frog] [Solid] [pie] [Liquid]
+Answers (formatted):
+1. [Solid]
+2. [Liquid]",False,,9.71055006980896
+Physics,Grade 1,"Question: Unscramble the words to form a valid sentence about push or pull.
+Answers:
+1. I can push the door to open it.
+2. I can pull the door to open it.
+Scrambled: [door] [I] [can] [to] [.] [push] [pull] [open] [it]
+Answers (formatted):
+1. [I] [can] [push] [the] [door] [to] [open] [it] [.]
+2. [I] [can] [pull] [the] [door] [to] [open] [it] [.]",False,,7.962078094482422
+Physics,Grade 1,"Question: Unscramble the words to form a valid statement about what causes objects to fall to the ground.
+Answers:
+1. Gravity pulls objects to the ground.
+2. Objects fall to the ground due to gravity.
+Scrambled: [the] [fall] [.] [objects] [to] [due] [-]: [ground] [gravity] [pulls]
+Answers (formatted):
+1. [Gravity] [pulls] [objects] [to] [the] [ground] [.]
+2. [Objects] [fall] [to] [the] [ground] [due] [to] [gravity] [.]",False,,10.688493013381958
+Physics,Grade 1,"Question: Unscramble the scrambled words to form a sentence about forces.
+Answers:
+1. A push is a force that moves an object away.
+2. A pull is a force that brings an object closer.
+Scrambled: [object] [-] [push] [A] [.] [closer] [away] [and] [force] [is] [pull] [brings] [moves] [that] [an]
+Answers (formatted):
+1. [A] [push] [is] [a] [force] [that] [moves] [an] [object] [away] [.]
+2. [A] [pull] [is] [a] [force] [that] [brings] [an] [object] [closer] [.]",False,,7.480017185211182
+Biology,Grade 5,"Question: Unscramble the words to form a valid sentence about the process of photosynthesis.
+Answers:
+1. Photosynthesis converts sunlight into chemical energy.
+2. In photosynthesis, water and carbon dioxide are converted into glucose and oxygen.
+Scrambled: [Photosynthesis] [converts] [.] [sunlight] [into] [chemical] [energy] [water] [carbon] [dioxide] [In] [glucose] [and] [oxygen]
+Answers (formatted):
+1. [Photosynthesis] [converts] [sunlight] [into] [chemical] [energy] [.]
+2. [In] [photosynthesis] [,] [water] [and] [carbon] [dioxide] [are] [converted] [into] [glucose] [and] [oxygen] [.]",True,"Question: Unscramble the words to form a valid sentence about the process of photosynthesis.
+Scrambled: [Photosynthesis] [converts] [.] [sunlight] [into] [chemical] [energy] [water] [carbon] [dioxide] [In] [glucose] [and] [oxygen] [are]
+Options:
+1. Photosynthesis converts sunlight into chemical energy.
+2. In photosynthesis, water and carbon dioxide are converted into glucose and oxygen.
+Answer: Both options are correct, so the answer is 1 and 2.",40.45020079612732
+Biology,Grade 5,"Question: Unscramble the words to form a sentence about photosynthesis.
+Answers:
+1. Photosynthesis is how plants make food.
+2. Plants make food through photosynthesis.
+Scrambled: [is] [plants] [how] [through] [?] [make] [food] [Photosynthesis]
+Answers (formatted):
+1. [Photosynthesis] [is] [how] [plants] [make] [food] [.]
+2. [Plants] [make] [food] [through] [Photosynthesis] [.]",False,,8.948547124862671
+Biology,Grade 5,"Question: Unscramble the words to form a coherent sentence about photosynthesis in plants.
+Answers:
+1. Plants use sunlight to produce food through photosynthesis.
+2. Through photosynthesis, plants convert sunlight into food.
+Scrambled: [sunlight] [in] [through] [to] [plants] [convert] [create] [.] [use] [food] [photosynthesis]
+Answers (formatted):
+1. [Plants] [use] [sunlight] [to] [produce] [food] [through] [photosynthesis] [.]
+2. [Through] [photosynthesis] [,] [plants] [convert] [sunlight] [into] [food] [.]",False,,4.347961902618408
+Biology,Grade 5,"Question: Unscramble the words to form a sentence about the habitat of polar bears.
+Answers:
+1. Polar bears live in the Arctic.
+2. The Arctic is home to polar bears.
+Scrambled: [hammock] [live] [Arctic] [the] [!] [in] [bears] [Polar] [is] [home] [to]
+Answers (formatted):
+1. [Polar] [bears] [live] [in] [the] [Arctic]
+2. [The] [Arctic] [is] [home] [to] [polar] [bears]",False,,5.274106025695801
+Biology,Grade 5,"Question: Unscramble the words to form a valid sentence about animal adaptations.
+Answers:
+1. Camouflage helps animals blend in with their environment.
+2. Some animals hibernate during winter to survive.
+Scrambled: [Camouflage] [their] [winter] [animals] [to] [.] [during] [some] [environment] [in] [hibernate] [helps] [blend] [with] [survive]
+Answers (formatted):
+1. [Camouflage] [helps] [animals] [blend] [in] [with] [their] [environment] [.]
+2. [Some] [animals] [hibernate] [during] [winter] [to] [survive] [.]",False,,29.118462085723877
+Biology,Grade 5,"Question: Unscramble the words to correctly classify a lion in the animal kingdom.
+Answers:
+1. A lion is a mammal.
+2. A lion belongs to the mammals.
+Scrambled: [to] [lion] [A] [mammals] [the] [is] [belongs] [a] [mammal] [.]
+Answers (formatted):
+1. [A] [lion] [is] [a] [mammal] [.]
+2. [A] [lion] [belongs] [to] [the] [mammals] [.]",False,,15.437691926956177
+Biology,Grade 5,"Question: Unscramble the words to form a valid statement about photosynthesis.
+Answers:
+1. Plants produce oxygen and glucose through photosynthesis.
+2. Photosynthesis creates glucose and oxygen in plants.
+Scrambled: [and] [plants] [oxygen] [in] [.] [through] [glucose] [produce] [Photosynthesis] [creates] [the] [Plants]
+Answers (formatted):
+1. [Plants] [produce] [oxygen] [and] [glucose] [through] [Photosynthesis] [.]
+2. [Photosynthesis] [creates] [glucose] [and] [oxygen] [in] [plants] [.]",False,,5.625720024108887
+Biology,Grade 5,"Question: Unscramble the scrambled words to form a valid sentence about the classification of animals.
+Answers:
+1. Mammals are warm-blooded animals with fur or hair.
+2. Reptiles are cold-blooded animals with scales.
+Scrambled: [with] [scales] [cold-blooded] [or] [Mammals] [are] [warm-blooded] [.] [Reptiles] [animals] [fur] [hair] [and]
+Answers (formatted):
+1. [Mammals] [are] [warm-blooded] [animals] [with] [fur] [or] [hair] [.]
+2. [Reptiles] [are] [cold-blooded] [animals] [with] [scales] [.]",False,,5.987634181976318
+Biology,Grade 5,"Question: Unscramble the words to form a valid sentence about photosynthesis.
+Answers:
+1. Plants convert sunlight into energy through photosynthesis.
+2. Photosynthesis allows plants to transform energy from sunlight.
+Scrambled: [into] [convert] [sunlight] [energy] [Plants] [.] [allows] [through] [transform] [photosynthesis] [to]
+Answers (formatted):
+1. [Plants] [convert] [sunlight] [into] [energy] [through] [photosynthesis] [.]
+2. [Photosynthesis] [allows] [plants] [to] [transform] [energy] [from] [sunlight] [.]",False,,34.25556516647339
+Biology,Grade 12,"Question: Unscramble the scrambled words to form a valid statement about photosynthesis.
+Answers:
+1. Photosynthesis converts sunlight into chemical energy.
+2. Plants use photosynthesis to produce glucose.
+Scrambled: [converts] [energy] [.] [chemical] [glucose] [Photosynthesis] [into] [sunlight] [to] [produce] [Plants] [use]
+Answers (formatted):
+1. [Photosynthesis] [converts] [sunlight] [into] [chemical] [energy] [.]
+2. [Plants] [use] [Photosynthesis] [to] [produce] [glucose] [.]",False,,24.224796056747437
+Biology,Grade 12,"Question: Unscramble the scrambled words to form a valid statement about photosynthesis.
+Answers:
+1. Photosynthesis converts sunlight into chemical energy.
+2. Plants use photosynthesis to create energy.
+Scrambled: [sunlight] [chemical] [Photosynthesis] [energy] [into] [plants] [creates] [converts] [.] [use] [to]
+Answers (formatted):
+1. [Photosynthesis] [converts] [sunlight] [into] [chemical] [energy] [.]
+2. [Plants] [use] [photosynthesis] [to] [create] [energy] [.]",False,,19.93173885345459
+Biology,Grade 12,"Question: Unscramble the words to form a valid sentence about the function of the mitochondria.
+Answers:
+1. The mitochondria produce energy for the cell.
+2. Mitochondria generate energy in the cell.
+Scrambled: [energy] [.] [the] [produce] [for] [dojo] [cell] [mitochondria] [generate] [in] [The]
+Answers (formatted):
+1. [The] [mitochondria] [produce] [energy] [for] [the] [cell] [.]
+2. [Mitochondria] [generate] [energy] [in] [the] [cell] [.]",True,"Question: Unscramble the words to form a valid sentence about the function of the mitochondria.
+Options:
+A. [The] [mitochondria] [produce] [energy] [for] [the] [cell] [.]
+B. [Mitochondria] [generate] [energy] [in] [the] [cell] [.]
+C. None
+D. None
+Answer: A/B
+Updated Scrambled: [energy] [.] [the] [produce] [for] [cell] [mitochondria] [generate] [in] [The]",23.905686140060425
+Biology,Grade 12,"Question: Unscramble the words to form a valid sentence about the process of photosynthesis.
+Answers:
+1. Photosynthesis converts light energy into chemical energy.
+2. Plants utilize sunlight to perform photosynthesis.
+Scrambled: [utilize] [converts] [.] [energy] [light] [Photosynthesis] [to] [sunlight] [chemical] [perform] [Plants]
+Answers (formatted):
+1. [Photosynthesis] [converts] [light] [energy] [into] [chemical] [energy] [.]
+2. [Plants] [utilize] [sunlight] [to] [perform] [Photosynthesis] [.]",False,,9.718739986419678
+Biology,Grade 12,"Question: Unscramble the scrambled words to form a valid sentence about the process of photosynthesis.
+Answers:
+1. Photosynthesis occurs in chloroplasts and produces oxygen and glucose.
+2. Chloroplasts facilitate the photosynthesis process, producing oxygen and glucose.
+Scrambled: [photons] [.] [in] [facilitate] [produces] [glucose] [chloroplasts] [process] [the] [and] [Photosynthesis] [oxygen]
+Answers (formatted):
+1. [Photosynthesis] [occurs] [in] [chloroplasts] [and] [produces] [oxygen] [and] [glucose] [.]
+2. [Chloroplasts] [facilitate] [the] [photosynthesis] [process] [producing] [oxygen] [and] [glucose] [.]",True,"Question: Unscramble the scrambled words to form a valid sentence about the process of photosynthesis.
+Options:
+A. Photosynthesis occurs in chloroplasts and produces oxygen and glucose.
+B. Chloroplasts facilitate the photosynthesis process, producing oxygen and glucose.
+C. Photosynthesis in chloroplasts and produces photons, oxygen, glucose.
+D. Chloroplasts facilitate the process of photosynthesis, producing photons, oxygen, and glucose.
+Answer: D",33.35387992858887
+Biology,Grade 12,"Question: Unscramble the words to form a valid statement about photosynthesis.
+Answers:
+1. Photosynthesis occurs in chloroplasts.
+2. Chloroplasts are responsible for photosynthesis.
+Scrambled: [chloroplasts] [in] [.] [occurs] [are] [sparta] [for] [Photosynthesis] [responsible]
+Answers (formatted):
+1. [Photosynthesis] [occurs] [in] [chloroplasts] [.]
+2. [Chloroplasts] [are] [responsible] [for] [Photosynthesis] [.]",False,,18.51010799407959
+Biology,Grade 12,"Question: Unscramble the words to form a valid statement about the nucleus of a cell.
+Answers:
+1. The nucleus contains genetic material in a cell.
+2. In a cell, the nucleus contains genetic material.
+Scrambled: [material] [contains] [a] [.] [genetic] [cell] [The] [nucleus] [in]
+Answers (formatted):
+1. [The] [nucleus] [contains] [genetic] [material] [in] [a] [cell] [.]
+2. [In] [a] [cell] [,] [the] [nucleus] [contains] [genetic] [material] [.]",False,,30.231924057006836
+Biology,Grade 12,"Question: Unscramble the words to form a valid statement about photosynthesis.
+Answers:
+1. Plants use sunlight to convert water and carbon dioxide into glucose.
+2. Photosynthesis takes place in the chloroplasts of plant cells.
+Scrambled: [sunlight] [Plants] [.] [into] [convert] [use] [cells] [water] [in] [carbon] [chloroplasts] [the] [place] [takes] [dioxide] [of] [and] [plant] [to] [Photosynthesis] [glucose]
+Answers (formatted):
+1. [Plants] [use] [sunlight] [to] [convert] [water] [and] [carbon] [dioxide] [into] [glucose] [.]
+2. [Photosynthesis] [takes] [place] [in] [the] [chloroplasts] [of] [plant] [cells] [.]",True,"Question: Unscramble the words to form a valid statement about photosynthesis.
+Options:
+A. Plants use sunlight to convert water and carbon dioxide into glucose.
+B. Photosynthesis takes place in the chloroplasts of plant cells.
+C. Plants use sunlight to convert carbon dioxide and water into glucose.
+D. Photosynthesis occurs in the chloroplasts of plant cells.
+Answer:
+A. Plants use sunlight to convert water and carbon dioxide into glucose.
+B. Photosynthesis takes place in the chloroplasts of plant cells.",21.66590690612793
+Biology,Grade 12,"Question: Unscramble the words to form a valid sentence about an organelle found in plant cells.
+Answers:
+1. Chloroplasts are involved in photosynthesis.
+2. Photosynthesis occurs in chloroplasts.
+Scrambled: [and] [are] [.] [plants] [chloroplasts] [involved] [in] [dogs] [photosynthesis] [occurs]
+Answers (formatted):
+1. [Chloroplasts] [are] [involved] [in] [photosynthesis] [.]
+2. [Photosynthesis] [occurs] [in] [chloroplasts] [.]",False,,7.542091131210327
+Biology,Grade 12,"Question: Unscramble the words to form a valid statement about the process of cellular respiration.
+Answers:
+1. Glucose and oxygen are the reactants in cellular respiration.
+2. Carbon dioxide and water are the products of cellular respiration.
+Scrambled: [glucose] [and] [nitrogen] [respiration] [products] [.] [oxygen] [the] [carbon] [water] [of] [are] [cellular] [dioxide] [reactants]
+Answers (formatted):
+1. [glucose] [and] [oxygen] [are] [the] [reactants] [in] [cellular] [respiration] [.]
+2. [carbon] [dioxide] [and] [water] [are] [the] [products] [of] [cellular] [respiration] [.]",False,,26.4652681350708
+Multiplication,Grade 1,"Question: Unscramble the scrambled words to find a valid multiplication expression.
+Answers:
+1. 2 x 3 = 6
+2. 3 x 2 = 6
+Scrambled: [2] [x] [.] [=] [3] [6]
+Answers (formatted):
+1. [2] [x] [3] [=] [6]
+2. [3] [x] [2] [=] [6]",False,,8.66538381576538
+Multiplication,Grade 1,"Question: Unscramble the words to find a valid multiplication expression.
+Answers:
+1. 3 x 2 = 6
+2. 2 x 3 = 6
+Scrambled: [3] [x] [9] [=] [2] [6]
+Answers (formatted):
+1. [3] [x] [2] [=] [6]
+2. [2] [x] [3] [=] [6]",True,"Question: Unscramble the words to find a valid multiplication expression.
+Scrambled: [3] [x] [9] [=] [2] [6]
+Options:
+A. 3 x 2 = 6
+B. 2 x 3 = 6
+C. 3 x 3 = 9
+D. 9 x 2 = 18
+Answer: C. 3 x 3 = 9",45.63412284851074
+Multiplication,Grade 1,"Question: Unscramble the words to form a valid multiplication equation.
+Answers:
+1. 6 = 2 x 3
+2. 3 x 2 = 6
+Scrambled: [2] [=] [+] [x] [7] [6] [3]
+Answers (formatted):
+1. [6] [=] [2] [x] [3]
+2. [3] [x] [2] [=] [6]",True,"Question: Unscramble the words to form a valid multiplication equation.
+Options:
+A. 6 = 2 x 3
+B. 3 x 2 = 6
+C. Not an option
+D. Not an option
+Answer: A & B
+Updated Scrambled Set: [2] [=] [x] [6] [3]",25.078562259674072
+Multiplication,Grade 1,"Question: Unscramble the scrambled words to create a valid multiplication fact.
+Answers:
+1. 2 x 4 = 8
+2. 4 x 2 = 8
+Scrambled: [2] [x] [4] [=] [8] [5]
+Answers (formatted):
+1. [2] [x] [4] [=] [8]
+2. [4] [x] [2] [=] [8]",True,"Question: Unscramble the scrambled words to create a valid multiplication fact.
+Options:
+A. 2 x 4 = 8
+B. 4 x 2 = 8
+C. 5 x 2 = 10
+D. 2 x 5 = 10
+Answer: A, B, C, D",36.598745822906494
+Multiplication,Grade 1,"Question: Unscramble the scrambled words to find a correct multiplication expression.
+Answers:
+1. 2 x 2 = 4
+2. 4 = 2 x 2
+Scrambled: [2] [=] [x] [>] [4]
+Answers (formatted):
+1. [2] [x] [2] [=] [4]
+2. [4] [=] [2] [x] [2]",False,,8.388466119766235
+Multiplication,Grade 1,"Question: Unscramble the words and symbols to form a valid multiplication equation.
+Answers:
+1. 2 x 3 = 6
+2. 3 x 2 = 6
+Scrambled: [2] [x] [=] [3] [10] [6]
+Answers (formatted):
+1. [2] [x] [3] [=] [6]
+2. [3] [x] [2] [=] [6]",False,,35.80802607536316
+Multiplication,Grade 1,"Question: Unscramble the scrambled words to find a valid expression.
+Answers:
+1. 2 x 3 = 6
+2. 3 x 2 = 6
+Scrambled: [2] [3] [x] [=] [5] [6]
+Answers (formatted):
+1. [2] [x] [3] [=] [6]
+2. [3] [x] [2] [=] [6]",False,,26.132519245147705
+Multiplication,Grade 1,"Question: Unscramble the scrambled words to find a valid multiplication expression.
+Answers:
+1. 2 x 3 = 6
+2. 3 x 2 = 6
+Scrambled: [x] [=] [3] [2] [9] [6]
+Answers (formatted):
+1. [2] [x] [3] [=] [6]
+2. [3] [x] [2] [=] [6]",True,"Question: Unscramble the scrambled words to find a valid multiplication expression.
+Options:
+A. 2 x 3 = 6
+B. 3 x 2 = 6
+C. Not Valid
+D. Not enough information
+Answer: A & B
+Set:
+[x] [=] [3] [2] [6]",23.25190496444702
+Multiplication,Grade 1,"Question: Unscramble the scrambled words to find a valid multiplication expression.
+Answers:
+1. 2 x 3 = 6
+2. 6 = 3 x 2
+Scrambled: [2] [x] [3] [=] [9] [6]
+Answers (formatted):
+1. [2] [x] [3] [=] [6]
+2. [6] [=] [3] [x] [2]",False,,20.9925320148468
+Multiplication,Grade 1,"Question: Unscramble the scrambled words to form a correct multiplication expression.
+Answers:
+1. 2 x 3 = 6
+2. 3 x 2 = 6
+Scrambled: [3] [=] [6] [x] [2] [9]
+Answers (formatted):
+1. [2] [x] [3] [=] [6]
+2. [3] [x] [2] [=] [6]",True,"Question: Unscramble the scrambled words to form a correct multiplication expression.
+Options:
+A. [2] [x] [3] [=] [6]
+B. [3] [x] [2] [=] [6]
+C. [3] [x] [3] [=] [9]
+D. None of the above
+Answer: C",23.042788982391357

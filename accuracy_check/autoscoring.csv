@@ -1,0 +1,2780 @@
+Topic,Grade,Original Question,Is Updated,Updated,Time Taken
+High Level Addition,7,"Question: Sam has 1,345 apples and Jenny has 2,687 apples. How many apples do they have together?
+Options:
+A. 3,923
+B. 4,032
+C. 4,123
+D. 4,219
+Answer: B",False,,25.89669680595398
+High Level Addition,7,"Question: What is the sum of 489 and 536?
+Options:
+A. 1025
+B. 1024
+C. 1015
+D. 1100
+Answer: A",False,,20.534271001815796
+High Level Addition,7,"Question: What is the sum of 875 + 326?
+Options:
+A. 1201
+B. 1100
+C. 1191
+D. 1301
+Answer: A",False,,27.219828128814697
+High Level Addition,7,"Question: What is the sum of 732 and 985?
+Options:
+A. 1,707
+B. 1,814
+C. 1,717
+D. 1,699
+Answer: C",False,,6.909250020980835
+High Level Addition,7,"Question: What is the sum of 356 + 475?
+Options:
+A. 821
+B. 831
+C. 850
+D. 635
+Answer: B",False,,7.1671552658081055
+High Level Addition,7,"Question: Kevin has 6 two-digit numbers to add: 15, 27, 34, 22, 58, and 31. Which of the following is closest to the total sum?
+Options:
+A. 150
+B. 175
+C. 200
+D. 225
+Answer: C",True,"Question: Kevin has 6 two-digit numbers to add: 15, 27, 34, 22, 58, and 31. Which of the following is closest to the total sum?
+Options:
+A. 150
+B. 175
+C. 200
+D. 225
+Answer: B",32.40459227561951
+High Level Addition,7,"Question: What is the sum of 184 and 239?
+Options:
+A. 413
+B. 424
+C. 431
+D. 423
+Answer: A",False,,20.555968046188354
+High Level Addition,7,"Question: What is the sum of 198 and 249?
+Options:
+A. 337
+B. 447
+C. 457
+D. 467
+Answer: D",True,"Question: What is the sum of 198 and 249?
+Options:
+A. 337
+B. 447
+C. 457
+D. 467
+Answer: B",27.751641035079956
+High Level Addition,7,"Question: Add 876 and 345:
+Options:
+A. 1,211
+B. 1,221
+C. 1,200
+D. 1,301
+Answer: B",False,,21.888070106506348
+High Level Addition,7,"Question: What is the sum of 178 and 324?
+Options:
+A. 482
+B. 502
+C. 493
+D. 509
+Answer: B",True,"Question: What is the sum of 178 and 324?
+Options:
+A. 482
+B. 492
+C. 493
+D. 509
+Answer: B",36.6276490688324
+High Level Addition,7,"Question: What is the sum of 543 and 289?
+Options:
+A. 822
+B. 832
+C. 837
+D. 842
+Answer: B",False,,21.561877012252808
+High Level Addition,7,"Question: Solve the addition problem: 875 + 349
+Options:
+A. 1124
+B. 1224
+C. 1424
+D. 1324
+Answer: B",False,,18.93537211418152
+High Level Addition,7,"Question: Which of the following represents the sum of the numbers 1,235 and 879?
+Options:
+A. 1,992
+B. 2,114
+C. 2,013
+D. 2,245
+Answer: B",False,,7.099860191345215
+High Level Addition,7,"Question: What is the sum of 321 + 176?
+Options:
+A. 497
+B. 489
+C. 485
+D. 510
+Answer: A",False,,13.359363079071045
+High Level Addition,7,"Question: What is the sum of 534 + 289?
+Options:
+A. 813
+B. 823
+C. 833
+D. 843
+Answer: B",False,,27.035337924957275
+High Level Addition,7,"Question: Lisa had 457 apples, and Tim gave her some more apples. Now she has 629 apples in total. How many apples did Tim give to Lisa?
+Options:
+A. 162
+B. 172
+C. 182
+D. 192
+Answer: B",False,,10.65264892578125
+High Level Addition,7,"Question: What is the sum of 587 and 336?
+Options:
+A. 913
+B. 921
+C. 923
+D. 899
+Answer: C",False,,20.26819610595703
+High Level Addition,7,"Question: Which of the following addition equations is correct?
+Options:
+A. 134 + 59 = 183
+B. 213 + 98 = 301
+C. 465 + 37 = 502
+D. 521 + 173 = 694
+Answer: D",True,"Question: Which of the following addition equations is correct?
+Options:
+A. 134 + 59 = 183
+B. 213 + 98 = 301
+C. 465 + 37 = 502
+D. 521 + 173 = 693
+Answer: C",25.495682954788208
+High Level Addition,7,"Question: Add the numbers 567 and 789.
+Options:
+A. 1,255
+B. 1,356
+C. 1,157
+D. 1,456
+Answer: B",False,,19.555453300476074
+High Level Addition,7,"Question: Which sum of two large numbers is closest to 680?
+Options:
+A. 345 + 330
+B. 410 + 260
+C. 365 + 315
+D. 275 + 395
+Answer: C",False,,12.439522743225098
+High Level Addition,7,"Question: What is the sum of 6274 and 3759?
+Options:
+A. 10033
+B. 10212
+C. 10003
+D. 9500
+Answer: A",False,,6.660762071609497
+High Level Addition,7,"Question: What is the sum of 1325 and 4678?
+Options:
+A. 6000
+B. 5998
+C. 6003
+D. 5993
+Answer: C",False,,6.888790130615234
+High Level Addition,7,"Question: What is the sum of 4,763 and 2,689?
+Options:
+A. 6,452
+B. 7,442
+C. 7,452
+D. 7,462
+Answer: C",False,,6.901185989379883
+High Level Addition,7,"Question: What is the sum of 1,372 + 4,588?
+Options:
+A. 5,940
+B. 5,960
+C. 6,050
+D. 6,060
+Answer: B",False,,18.222859621047974
+High Level Addition,7,"Question: What is the sum of 2,478 and 1,039?
+Options:
+A. 3,407
+B. 3,517
+C. 3,507
+D. 3,512
+Answer: B",False,,6.8270909786224365
+High Level Addition,7,"Question: What will be the total sum of 4,357 and 2,682?
+Options:
+A. 7,029
+B. 7,039
+C. 6,924
+D. 6,939
+Answer: B",True,"Question: What will be the total sum of 4,357 and 2,682?
+Options:
+A. 7,029
+B. 7,039
+C. 6,924
+D. 6,139
+Answer: D",27.58543109893799
+High Level Addition,7,"Question: A charity shop sold a painting for $112, a lamp for $46, and a necklace for $87. What was the total amount earned from selling the three items?
+Options:
+A. $245
+B. $170
+C. $204
+D. $255
+Answer: A",False,,16.390256881713867
+High Level Addition,7,"Question: What is the sum of 2589 + 4130?
+Options:
+A. 4719
+B. 6721
+C. 6719
+D. 5721
+Answer: B",True,"Question: What is the sum of 2589 + 4130?
+Options:
+A. 4719
+B. 6721
+C. 6719
+D. 5721
+Answer: C",26.618816137313843
+High Level Addition,7,"Question: What is the sum of 2476 + 3947?
+Options:
+A. 5,423
+B. 6,415
+C. 6,423
+D. 7,415
+Answer: C",False,,17.97390389442444
+High Level Addition,7,"Question: Tom's Toy Store sold 7840 toys in the morning and twice that number in the afternoon. How many toys did the store sell in total?
+Options:
+A. 23,520
+B. 17,880
+C. 15,680
+D. 25,680
+Answer: A",False,,19.5634663105011
+High Level Addition,7,"Question: What is the sum of 2,758 and 1,367?
+Options:
+A. 4,034
+B. 4,125
+C. 4,227
+D. 4,319
+Answer: B",False,,27.39928889274597
+High Level Addition,7,"Question: What is the sum of 3,762 and 6,259?
+Options:
+A. 9,921
+B. 10,021
+C. 9,201
+D. 10,112
+Answer: B",False,,31.157604217529297
+High Level Addition,7,"Question: Calculate the sum of 2345 and 3891.
+Options:
+A. 6136
+B. 6236
+C. 6336
+D. 6436
+Answer: B",False,,20.676111221313477
+High Level Addition,7,"Question: Calculate the sum of 3,567 and 2,484.
+Options:
+A. 6,041
+B. 5,951
+C. 6,051
+D. 6,042
+Answer: C",True,"Question: Calculate the sum of 3,567 and 2,484.
+Options:
+A. 6,041
+B. 5,951
+C. 6,051
+D. 6,042
+Answer: A",29.66709613800049
+High Level Addition,7,"Question: Refer to the numbers below and choose the correct sum.
+956 + 374
+
+Options:
+A. 1,320
+B. 1,310
+C. 1,330
+D. 1,340
+
+Answer: C",False,,16.302223205566406
+High Level Addition,7,"Question: Find the sum of the following numbers: 4,710 + 3,241 + 2,087
+Options:
+A. 9,638
+B. 10,038
+C. 11,042
+D. 10,041
+Answer: B",True,"Question: Find the sum of the following numbers: 4,710 + 3,241 + 2,087
+Options:
+A. 9,638
+B. 10,038
+C. 11,042
+D. 10,041
+Answer: A",37.134850025177
+High Level Addition,7,"Question: What is the sum of 3547 and 2965?
+Options:
+A. 7512
+B. 6512
+C. 5555
+D. 6608
+Answer: A",False,,5.396302938461304
+High Level Addition,7,"Question: What is the sum of 1,235, 2,468, and 879?
+Options:
+A. 4,482
+B. 4,582
+C. 5,582
+D. 6,582
+Answer: B",False,,38.78944373130798
+High Level Addition,8,"Question: Find the sum of the following numbers: 123,456 + 234,567 + 345,678
+Options:
+A. 703,701
+B. 420,444
+C. 903,701
+D. 490,222
+Answer: A",True,"Question: Find the sum of the following numbers: 123,456 + 234,567 + 345,678
+Options:
+A. 703,701
+B. 420,444
+C. 903,701
+D. 4,903,701
+Answer: D",42.67262005805969
+High Level Addition,8,"Question: Add the following numbers: 118, 649, 194, and 822.
+Options:
+A. 1783
+B. 1831
+C. 1723
+D. 1894
+Answer: A",False,,12.211879014968872
+High Level Addition,8,"Question: Which of the following is the sum of 7,549 + 13,726 + 6,911?
+Options:
+A. 27,176
+B. 27,186
+C. 27,890
+D. 28,186
+Answer: B",True,"Question: Which of the following is the sum of 7,549 + 13,726 + 6,911?
+Options:
+A. 27,176
+B. 16,816
+C. 27,890
+D. 28,186
+Answer: B",30.513801336288452
+High Level Addition,8,"Question: What is the sum of 2,347 + 4,839?
+Options:
+A. 7,176
+B. 7,186
+C. 7,146
+D. 7,196
+Answer: B",False,,8.822163820266724
+High Level Addition,8,"Question: What is the sum of 567,913 and 234,567?
+Options:
+A. 792,480
+B. 802,480
+C. 691,563
+D. 804,563
+Answer: B",False,,27.715537786483765
+High Level Addition,8,"Question: Calculate the sum of the numbers: 253, 897, 1259
+Options:
+A. 2409
+B. 2835
+C. 2408
+D. 2231
+Answer: A",True,"Question: Calculate the sum of the numbers: 253, 897, 1259
+Options:
+A. 2409
+B. 2835
+C. 2310
+D. 2231
+Answer: C",27.598026037216187
+High Level Addition,8,"Question: Add the following numbers: 2713, 5826, and 3847
+Options:
+A. 12,386
+B. 12,486
+C. 13,286
+D. 12,196
+Answer: B",False,,12.106515169143677
+High Level Addition,8,"Question: Katie adds two 4-digit numbers: 2849 and 5173. What is the sum of these numbers?
+Options:
+A. 3922
+B. 8015
+C. 8022
+D. 8040
+Answer: C",False,,29.594577074050903
+High Level Addition,8,"Question: Calculate the sum of the following numbers: 2,735 + 4,860
+Options:
+A. 7,495
+B. 7,595
+C. 7,685
+D. 7,775
+Answer: B",True,"Question: Calculate the sum of the following numbers: 2,735 + 4,860
+Options:
+A. 7,495
+B. 6,595
+C. 7,685
+D. 7,775
+Answer: B",22.527392864227295
+High Level Addition,8,"Question: Add the following numbers: 1357, 6042, and 7986.
+Options:
+A. 15,385
+B. 16,387
+C. 14,385
+D. 13,387
+Answer: A",False,,6.629202842712402
+High Level Addition,8,"Question: What is the sum of 7895 and 2147?
+Options:
+A. 10,045
+B. 10,042
+C. 8,979
+D. 10,800
+Answer: B",False,,4.891124963760376
+High Level Addition,8,"Question: What is the sum of 7,839 + 15,384?
+Options:
+A. 23,123
+B. 22,223
+C. 24,223
+D. 25,123
+Answer: B",True,,17.170681953430176
+High Level Addition,8,"Question: What is the sum of 2,685 and 4,197?
+Options:
+A. 6,872
+B. 6,882
+C. 7,882
+D. 10,200
+Answer: B",False,,19.690162897109985
+High Level Addition,8,"Question: Calculate the sum of 7,232 and 5,498.
+Options:
+A. 12,720
+B. 12,730
+C. 12,740
+D. 12,750
+Answer: B",False,,18.245917797088623
+High Level Addition,8,"Question: What is the sum of 1235 and 3768?
+Options:
+A. 4003
+B. 4902
+C. 5003
+D. 5902
+Answer: D",True,"Question: What is the sum of 1235 and 3768?
+Options:
+A. 4003
+B. 4902
+C. 5003
+D. 5103
+Answer: D",30.41446590423584
+High Level Addition,8,"Question: What is the sum of 13,458 and 8,765?
+Options:
+A. 21,213
+B. 22,123
+C. 22,223
+D. 24,235
+Answer: C",False,,21.225985050201416
+High Level Addition,8,"Question: What is the sum of 1,235 and 2,977?
+Options:
+A. 3,212
+B. 3,417
+C. 4,202
+D. 4,212
+Answer: D",False,,5.855497121810913
+High Level Addition,8,"Question: What is the sum of 5746 and 8391?
+Options:
+A. 13,017
+B. 14,137
+C. 15,343
+D. 12,234
+Answer: B",False,,26.155116081237793
+High Level Addition,8,"Question: What is the sum of 2,347 + 5,398?
+Options:
+A. 7,645
+B. 7,745
+C. 8,745
+D. 8,745
+Answer: B",False,,21.38714909553528
+High Level Addition,8,"Question: What is the sum of the following numbers: 485, 372, and 1,143?
+Options:
+A. 1,987
+B. 2,000
+C. 2,118
+D. 1,950
+Answer: A",True,,16.618672847747803
+High Level Addition,10,"Question: What is the result of adding the following numbers: 5,327 + 8,924?
+Options:
+A. 15,241
+B. 14,251
+C. 12,321
+D. 13,129
+Answer: B",False,,19.468082904815674
+High Level Addition,10,"Question: What is the sum of 4,521 + 2,683?
+Options:
+A. 6,102
+B. 7,104
+C. 7,204
+D. 7,834
+Answer: C",False,,19.660429000854492
+High Level Addition,10,"Question: If 2x + 3y = 21 and 5x - y = 8, what is the value of x + y?
+Options:
+A. 6
+B. 7
+C. 8
+D. 9
+Answer: B",True,"Question: If 2x + 3y = 21 and 5x - y = 8, what is the value of x + y?
+Options:
+A. 68/9
+B. 7
+C. 8
+D. 9
+Answer: A",60.27825403213501
+High Level Addition,10,"Question: What is the sum of 2,345 and 1,678?
+Options:
+A. 4,013
+B. 4,023
+C. 4,113
+D. 4,123
+Answer: B",True,"Question: What is the sum of 2,345 and 1,678?
+Options:
+A. 4,013
+B. 4,023
+C. 4,113
+D. 5,123
+Answer: D",24.622371912002563
+High Level Addition,10,"Question: Calculate the sum of 3415 + 2789.
+Options:
+A. 6204
+B. 6125
+C. 6300
+D. 6074
+Answer: A",False,,4.9213478565216064
+High Level Addition,10,"Question: Which of these expressed the operation 473 + 825 with the highest possible value for the blank digit: _73 + 8_5?
+Options:
+A. 573 + 805
+B. 973 + 895
+C. 473 + 835
+D. 673 + 845
+Answer: B",False,,7.551748037338257
+High Level Addition,10,"Question: What is the sum of 2357 and 5683?
+Options:
+A. 7930
+B. 8040
+C. 8110
+D. 8290
+Answer: B",True,"Question: What is the sum of 2357 and 5683?
+Options:
+A. 7930
+B. 8040
+C. 8100
+D. 8290
+Answer: C",40.20207214355469
+High Level Addition,10,"Question: Calculate the sum of 17254 and 12883.
+Options:
+A. 31037
+B. 30137
+C. 29037
+D. 30037
+Answer: B",True,"Question: Calculate the sum of 17254 and 12883.
+Options:
+A. 28547
+B. 30137
+C. 29037
+D. 30037
+Answer: A",27.918264150619507
+High Level Addition,10,"Question: What is the sum of 2378 and 4956?
+Options:
+A. 7331
+B. 7334
+C. 7324
+D. 7336
+Answer: B",False,,22.32220220565796
+High Level Addition,10,"Question: What is the sum of 17,849 and 5,907?
+Options:
+A. 22,756
+B. 23,756
+C. 22,666
+D. 23,666
+Answer: B",False,,21.21132493019104
+High Level Addition,10,"Question: What is the sum of 12,385 + 9,651?
+Options:
+A. 21,936
+B. 22,036
+C. 22,136
+D. 22,236
+Answer: B",False,,10.082182884216309
+High Level Addition,10,"Question: Calculate the sum of the two highest numbers from the following options.
+Options:
+A. 567 and 492
+B. 832 and 416
+C. 723 and 901
+D. 389 and 230
+Answer: C",False,,16.96538019180298
+High Level Addition,10,"Question: Three friends bought comic books. Jenn bought 135 books, Kelly bought 297 and Dave bought 568 books. How many comic books did they buy in total?
+Options:
+A. 800
+B. 970
+C. 1,000
+D. 1,254
+Answer: C",True,"Question: Three friends bought comic books. Jenn bought 135 books, Kelly bought 297 and Dave bought 568 books. How many comic books did they buy in total?
+Options:
+A. 800
+B. 970
+C. 1,000
+D. 1,254
+Answer: D",15.061342239379883
+High Level Addition,10,"Question: What is the sum of 3524 and 2689?
+Options:
+A. 6029
+B. 6213
+C. 5005
+D. 6509
+Answer: B",False,,5.407118082046509
+High Level Addition,10,"Question: What is the sum of 7,850 and 11,475?
+Options:
+A. 18,225
+B. 19,325
+C. 19,525
+D. 17,905
+Answer: B",False,,6.586352109909058
+High Level Addition,10,"Question: Calculate the sum: 3,456 + 1,987
+Options:
+A. 5,343
+B. 5,443
+C. 5,533
+D. 5,633
+Answer: B",False,,15.392164945602417
+High Level Addition,10,"Question: Tom bought a car for $15,345 and fixed it for $2,875. Then he installed a stereo system worth $950. How much money did he spend in total?
+Options:
+A. $18,170
+B. $17,570
+C. $19,170
+D. $19,570
+Answer: C",False,,16.470921993255615
+High Level Addition,10,"Question: Calculate the sum of 2,873 and 1,458.
+Options:
+A. 4,231
+B. 3,900
+C. 4,331
+D. 5,721
+Answer: C",False,,23.29667091369629
+High Level Addition,10,"Question: Calculate the sum of 3,248 and 2,973.
+Options:
+A. 5,110
+B. 6,221
+C. 5,515
+D. 6,211
+Answer: D",False,,37.972068309783936
+High Level Addition,12,"Question: Calculate the sum of 4,268, 6,021, and 121.
+Options:
+A. 10,390
+B. 10,410
+C. 10,366
+D. 10,398
+Answer: B",False,,19.57060408592224
+High Level Addition,12,"Question: Calculate the sum of 3579 + 5621.
+Options:
+A. 9200
+B. 6210
+C. 10000
+D. 30102
+Answer: A",False,,23.843647003173828
+High Level Addition,12,"Question: John has 12,450 books in his home library, while Mary has 7,365 books in her library. What is the combined total of books in both libraries?
+Options:
+A. 18,825
+B. 19,815
+C. 20,795
+D. 21,775
+Answer: B",False,,10.007585763931274
+High Level Addition,12,"Question: Evaluate the following expression: (-150) + 65 + 258 + (-73)
+Options:
+A. 481
+B. 100
+C. 550
+D. 380
+Answer: A",True,"Question: Evaluate the following expression: (-150) + 65 + 258 + (-73)
+Options:
+A. 481
+B. 100
+C. 550
+D. 380
+Answer: B",15.98389720916748
+High Level Addition,12,"Question: If 7a + 4b + 2c = 18 and 3a - b + 4c = 15, what is the value of 10a + 3b + 6c?
+Options:
+A. 33
+B. 45
+C. 60
+D. 75
+Answer: D",True,"Question: If 7a + 4b + 2c = 18 and 3a - b + 4c = 15, what is the value of 10a + 3b + 6c?
+Options:
+A. 33
+B. 45
+C. 60
+D. 75
+Answer: A",89.47762203216553
+High Level Addition,12,"Question: Calculate the sum of 2/5 + 1/3.
+Options:
+A. 7/15
+B. 9/15
+C. 11/15
+D. 1
+
+Answer: A",True,"Question: Calculate the sum of 2/5 + 1/3.
+Options:
+A. 7/15
+B. 9/15
+C. 11/15
+D. 1
+Answer: C",19.68986487388611
+High Level Addition,12,"Question: What is the sum of the numbers 12345, 54321, and 9876?
+Options:
+A. 76422
+B. 76442
+C. 76542
+D. 76522
+Answer: B",False,,11.27690601348877
+High Level Addition,12,"Question: What is the sum of 12,395 + 9,275 + 6,895?
+Options:
+A. 28,565
+B. 27,567
+C. 28,467
+D. 28,660
+Answer: A",False,,8.191788673400879
+High Level Addition,12,"Question: Solve for x: x = (2456 + 5348) + (2176 - 1390)
+Options:
+A. 8590
+B. 9084
+C. 6000
+D. 9806
+Answer: A",False,,11.926451921463013
+High Level Addition,12,"Question: Calculate the sum of 3,562 and 7,839.
+Options:
+A. 12,000
+B. 11,401
+C. 11,290
+D. 10,399
+Answer: B",False,,20.173922777175903
+High Level Addition,12,"Question: A band earns $6250 from selling merchandise and $13750 from concert tickets. What is their total earning?
+Options:
+A. $19000
+B. $20000
+C. $21000
+D. $22000
+Answer: B",False,,11.578505039215088
+High Level Addition,12,"Question: What is the sum of 13,548 + 27,019?
+Options:
+A. 40,457
+B. 40,567
+C. 40,670
+D. 40,277
+Answer: B",False,,21.58125329017639
+High Level Addition,12,"Question: Add the following numbers to find the sum: (3x²+2x-1) + (2x²-4x+7)
+Options:
+A. 5x²-2x+6
+B. 6x²-6x+8
+C. 5x²-6x+6
+D. 1x²+6x-8
+Answer: A",False,,17.458425045013428
+High Level Addition,12,"Question: Solve for x: x + 372 = 523
+Options:
+A. 140
+B. 151
+C. 161
+D. 171
+Answer: B",False,,4.856051921844482
+High Level Addition,12,"Question: If a company decides to add 15% to the base salary of its highest paid employee, who earns $150,000 a year, how much will the employee be paid after the increase?
+Options:
+A. $165,000
+B. $172,500
+C. $175,000
+D. $180,000
+Answer: B",False,,9.808465242385864
+High Level Addition,12,"Question: Two trains are traveling towards each other. The first train travels at 45 mph and the second train travels at 60 mph. They are currently 525 miles apart. How long will it take for the two trains to meet?
+Options:
+A. 4 hours
+B. 5 hours
+C. 6 hours
+D. 7 hours
+Answer: B",False,,14.841205835342407
+High Level Addition,12,"Question: In a class of 120 students, 36 students play basketball, 48 play soccer, and 22 do both. Using the inclusion-exclusion principle, how many students play either basketball or soccer, or both?
+Options:
+A. 62
+B. 82
+C. 106
+D. 132
+Answer: B",True,"Question: In a class of 120 students, 36 students play basketball, 48 play soccer, and 22 do both. Using the inclusion-exclusion principle, how many students play either basketball or soccer, or both?
+Options:
+A. 62
+B. 82
+C. 106
+D. 132
+Answer: C",22.557217121124268
+High Level Addition,12,"Question: In a bookstore's annual sale, 15,328 books were sold during its first week, and 29,467 books were sold during its second week. Find the total number of books sold during the two weeks.
+Options:
+A. 44,795
+B. 45,322
+C. 40,980
+D. 51,235
+Answer: A",False,,10.601698160171509
+High Level Addition,12,"Question: What is the sum of (9776 + 555) + (202 - 32) ?
+Options:
+A. 10501
+B. 10537
+C. 10421
+D. 10051
+Answer: A",False,,8.740044832229614
+High Level Addition,University,"Question: Which of the following numbers is the sum of 4,705 + 7,320?
+Options:
+A. 12,025
+B. 11,925
+C. 12,125
+D. 11,825
+Answer: A",False,,17.914124965667725
+High Level Addition,University,"Question: Two matrices, A and B, are given as A = [[3, 4], [1, 2]] and B = [[-1, 2], [1, -3]]. What is the resulting matrix, C, when A + B is computed?
+Options:
+A. [[2, 6], [2, -1]]
+B. [[3, 5], [0, 1]]
+C. [[4, 7], [2, 3]]
+D. [[2, 6], [0, 5]]
+Answer: A",False,,26.36205291748047
+High Level Addition,University,"Question: Solve for x: x + √(x^2 + 1) = 25.
+Options:
+A. 12
+B. 24
+C. 625
+D. 144
+Answer: B",True,"Question: Solve for x: x + √(x^2 + 1) = 25.
+Options:
+A. 12
+B. 24
+C. 312/25
+D. 144
+Answer: C",32.954761028289795
+High Level Addition,University,"Question: Solve the given equation: 2500 + 13x = 1237x - 3600
+Options:
+A. x = -3
+B. x = 7
+C. x = 11
+D. x = 25
+Answer: A",True,"Question: Solve the given equation: 2500 + 13x = 1237x - 3600
+Options:
+A. x = 5
+B. x = 7
+C. x = 11
+D. x = 25
+Answer: A",24.04984188079834
+High Level Addition,University,"Question: Let A = (4,396), B = (2,578) and C = (5,474). What is A + B + C?
+Options:
+A. (12,448)
+B. (10,350)
+C. (14,550)
+D. (11,448)
+Answer: A",False,,10.464854001998901
+High Level Addition,University,"Question: Evaluate the following summation: ∑(2n² + 3n + 1) from n=1 to n=4
+Options:
+A. 92
+B. 116
+C. 52
+D. 130
+Answer: B",True,"Question: Evaluate the following summation: ∑(2n² + 3n + 1) from n=1 to n=4
+Options:
+A. 92
+B. 94
+C. 52
+D. 130
+Answer: B",33.71864700317383
+High Level Addition,University,"Question: Which of these options represents the sum of the given polynomials: 3x^2 + 2x + 1 and x^2 − 4x + 3?
+Options:
+A. 4x^2 - 2x + 4
+B. 4x^2 - 6x + 4
+C. 4x^2 + 3x+4
+D. 4x^2 - 3x + 2
+Answer: B",True,"Question: Which of these options represents the sum of the given polynomials: 3x^2 + 2x + 1 and x^2 − 4x + 3?
+Options:
+A. 4x^2 - 2x + 4
+B. 4x^2 - 6x + 4
+C. 4x^2 + 3x+4
+D. 4x^2 - 3x + 2
+Answer: A",35.61004710197449
+High Level Addition,University,"Question: What is the sum of two complex numbers, (3+5i) + (8-3i)?
+Options:
+A. (11+8i)
+B. (5+2i)
+C. (11+2i)
+D. (5+8i)
+Answer: A",True,"Question: What is the sum of two complex numbers, (3+5i) + (8-3i)?
+Options:
+A. (11+8i)
+B. (5+2i)
+C. (11+2i)
+D. (5+8i)
+Answer: C",29.119712114334106
+High Level Addition,University,"Question: What is the sum of the Fourier series representation of f(x)=cos(x) and g(x)=sin(x) over interval (-π, π)?
+Options:
+A. f(x)+g(x)=cos(x)+sin(x)
+B. f(x)+g(x)=2cos(x)+2sin(x)
+C. f(x)+g(x)=cos(2x)+sin(2x)
+D. f(x)+g(x)=cos(2x)+sin(x)
+Answer: A",False,,27.580965757369995
+High Level Addition,University,"Question: Evaluate the following expression: 2735 + 982 + 31
+Options:
+A. 3536
+B. 3748
+C. 3627
+D. 3300
+Answer: B",False,,10.338692903518677
+High Level Addition,University,"Question: Determine the sum of the given complex numbers.
+Options:
+A. (-3+2i)
+B. (8-3i)
+C. (2+4i)
+D. (5-i)
+Answer: B",False,,4.475519895553589
+High Level Addition,University,"Question: Evaluate the sum: ∑(i^2) from i=1 to n, where n = 6.
+Options:
+A. 41
+B. 91
+C. 61
+D. 121
+Answer: B",False,,19.366310834884644
+High Level Addition,University,"Question: Given the matrices A and B, what is the resulting matrix C after performing matrix addition?
+
+A =
+| 1, 2, 3 |
+| 4, 5, 6 |
+
+B =
+| 2, 3, 1 |
+| 5, 1, 2 |
+
+Options:
+A. | 8, 8, 8 |
+| 12, 12, 12 |
+
+B. | 3, 5, 4 |
+| 9, 6, 8 |
+
+C. | 1, 0, 2 |
+| -1, 4, 4 |
+
+D. | 0, 1, 4 |
+| 1, 0, 3 |
+
+Answer: B",False,,20.60314917564392
+High Level Addition,University,"Question: Which of the following is the sum of 1543, 2389, and 1098?
+Options:
+A. 5030
+B. 6335
+C. 5029
+D. 6336
+Answer: A",False,,5.538142919540405
+High Level Addition,University,"Question: Given the equation 5x + 3y = 16 and 3x + 2y = zen, what is the numerically correct form of zen if x = 2 and y = 3?
+Options:
+A. 16
+B. 21
+C. 13
+D. 25
+Answer: B",True,"Question: Given the equation 5x + 3y = 16 and 3x + 2y = zen, what is the numerically correct form of zen if x = 2 and y = 3?
+Options:
+A. 12
+B. 21
+C. 13
+D. 25
+Answer: A",24.282176971435547
+High Level Addition,University,"Question: If the sum of three consecutive integers is x, which of the following expressions represents the middle integer?
+Options:
+A. (x - 1)/3
+B. (x + 1)/3
+C. (x - 1)/2
+D. x/3
+Answer: C",False,,10.09156084060669
+High Level Addition,University,"Question: Two numbers have the same digits, but their positions are interchanged. If one of the numbers is 713 and their sum is 1410, what is the other number?
+
+Options:
+A. 397
+B. 317
+C. 671
+D. 119
+
+Answer: B",True,"Question: Two numbers have the same digits, but their positions are interchanged. If one of the numbers is 713 and their sum is 1410, what is the other number?
+
+Options:
+A. 397
+B. 731
+C. 671
+D. 119
+
+Answer: B",51.295910120010376
+High Level Addition,University,"Question: If the sum of a 5-digit number, A, and a 4-digit number, B, equals the 5-digit number C, where C = 18356, which option presents a possible value for A and B?
+
+Options:
+A. A: 96453, B: 2573
+B. A: 16711, B: 9825
+C. A: 15860, B: 2496
+D. A: 10201, B: 8155
+
+Answer: C",True,"Question: If the sum of a 5-digit number, A, and a 4-digit number, B, equals the 5-digit number C, where C = 18356, which option presents a possible value for A and B?
+
+Options:
+A. A: 96453, B: 2573
+B. A: 16711, B: 9825
+C. A: 15860, B: 2496
+D. A: 15260, B: 3096
+
+Answer: C",38.61202788352966
+High Level Addition,University,"Question: If A = 8x^2 + 7x + 2 and B = 5x^2 - 9x + 1, what is (A+B)?
+Options:
+A. 12x^2 - 16x + 3
+B. 13x^2 - 2x + 1
+C. 13x^2 - 16x + 3
+D. 12x^2 - 2x + 1
+Answer: C",False,,11.680564165115356
+Physics,8,"Question: Dean traveled a distance of 200 meters in 40 seconds. What was his average speed?
+
+Options:
+A. 1 m/s
+B. 5 m/s
+C. 10 m/s
+D. 20 m/s
+
+Answer: B",False,,5.567405939102173
+Physics,8,"Question: Which of the following factors affects the speed of sound through a medium?
+Options:
+A. Temperature
+B. Color
+C. Smell
+D. Taste
+Answer: A",False,,8.046547889709473
+Physics,8,"Question: Which of the following best describes Newton's First Law of Motion?
+Options:
+A. Objects in motion stay in motion unless acted upon by an unbalanced force.
+B. Acceleration is produced when a force acts on a mass.
+C. For every action, there is an equal and opposite reaction.
+D. Gravitational force between two objects depends on mass and distance.
+
+Answer: A",False,,21.932734966278076
+Physics,8,"Question: A car accelerates uniformly from rest to 20 m/s in 10 seconds. What is its acceleration?
+Options:
+A. 0.5 m/s²
+B. 1 m/s²
+C. 2 m/s²
+D. 10 m/s²
+Answer: C",False,,20.10622215270996
+Physics,8,"Question: A car accelerates from rest to 30 m/s in 6 seconds. What is the force acting on the car if its mass is 1500 kg?
+Options:
+A. 5000 N
+B. 7500 N
+C. 10000 N
+D. 9000 N
+Answer: C",True,"Question: A car accelerates from rest to 30 m/s in 6 seconds. What is the force acting on the car if its mass is 1500 kg?
+Options:
+A. 5000 N
+B. 7500 N
+C. 10000 N
+D. 9000 N
+Answer: B",28.70624804496765
+Physics,8,"Question: Which of Newton's Laws of Motion states that an object will continue its motion at a constant velocity unless acted upon by an external force?
+Options:
+A. First Law
+B. Second Law
+C. Third Law
+D. The Law of Gravitation
+Answer: A",False,,25.352003812789917
+Physics,8,"Question: A cyclist travels at an average speed of 15 km/h for a 3-hour journey. What is the total distance covered by the cyclist during this journey?
+
+Options:
+A. 5 km
+B. 45 km
+C. 60 km
+D. 90 km
+
+Answer: C",False,,7.226534366607666
+Physics,8,"Question: Which of the following forms of energy is associated with motion?
+
+Options:
+A. Gravitational potential energy
+B. Chemical energy
+C. Kinetic energy
+D. Elastic potential energy
+
+Answer: C",False,,20.66092801094055
+Physics,8,"Question: Which of the following affects the speed of sound?
+Options:
+A. Temperature
+B. Loudness
+C. Pitch
+D. Volume
+Answer: A",False,,26.8075909614563
+Physics,8,"Question: When the frequency of a sound wave increases, what happens to the pitch?
+Options:
+A. Pitch decreases
+B. Pitch increases
+C. Pitch remains the same
+D. It becomes silent
+Answer: B",False,,13.417820930480957
+Physics,8,"Question: When an object is thrown horizontally, which of these factors influence its time of flight?
+Options:
+A. Initial velocity
+B. Angle of projection
+C. Mass of the object
+D. Vertical acceleration due to gravity
+Answer: D",False,,19.174179792404175
+Physics,8,"Question: Newton's Third Law of Motion states that for every action there is...?
+Options:
+A. An equal mass
+B. A simultaneous acceleration
+C. An equal and opposite reaction
+D. A shorter displacement
+Answer: C",False,,24.496479988098145
+Physics,8,"Question: Which of the following factors affects the speed of a sound wave?
+Options:
+A. Color
+B. Height
+C. Medium
+D. Polarity
+Answer: C",False,,7.197566986083984
+Physics,8,"Question: An object has a mass of 10 kg and accelerates at a rate of 2 m/s^2. What is the force acting on the object?
+Options:
+A. 5 N
+B. 10 N
+C. 20 N
+D. 40 N
+Answer: C",False,,13.626358985900879
+Physics,8,"Question: A bicycle rider pushes the pedals with a force of 60 N. According to Newton's Third Law of Motion, what is the equal and opposite force experienced by the rider?
+Options:
+A. 30 N
+B. 45 N
+C. 60 N
+D. 90 N
+Answer: C",False,,7.848400115966797
+Physics,8,"Question: Which of the following is NOT a type of energy?
+Options:
+A. Thermal energy
+B. Atomic energy
+C. Sound energy
+D. Cold energy
+Answer: D",False,,21.89188575744629
+Physics,8,"Question: An object remains at rest or in uniform motion in a straight line unless acted upon by a force. Which of Newton's laws describe this phenomenon?
+Options:
+A. First Law
+B. Second Law
+C. Third Law
+D. Law of Gravity
+Answer: A",False,,11.4775071144104
+Physics,8,"Question: Which of Newton's laws states that an object at rest remains at rest and an object in motion remains in motion unless acted upon by an external force?
+Options:
+A. First Law
+B. Second Law
+C. Third Law
+D. None of the above
+Answer: A",False,,18.341016054153442
+Physics,8,"Question: A car travels a distance of 120 meters in 10 seconds. What is its average speed?
+Options:
+A. 10 m/s
+B. 12 m/s
+C. 15 m/s
+D. 20 m/s
+Answer: B",False,,10.771178007125854
+Physics,8,"Question: Which of the following situations represents zero acceleration?
+Options:
+A. A car moving at a constant speed in a straight line
+B. A cyclist slowing down while going uphill
+C. A ball rolling down an inclined slope
+D. A roller coaster moving around a curved track
+Answer: A",False,,24.41094398498535
+Physics,10,"Question: The work done by an object while lifting an object of mass 10 kg to a height of 4 meters against gravity is:
+Options:
+A. 100 J
+B. 200 J
+C. 400 J
+D. 800 J
+Answer: D",True,"Question: The work done by an object while lifting an object of mass 10 kg to a height of 4 meters against gravity is:
+Options:
+A. 100 J
+B. 200 J
+C. 392 J
+D. 800 J
+Answer: C",27.393883228302002
+Physics,10,"Question: A car accelerates at a constant rate from rest to a speed of 20 m/s in 4 seconds. What is the acceleration of the car?
+Options:
+A. 4 m/s²
+B. 5 m/s²
+C. 6 m/s²
+D. 7 m/s²
+Answer: B",False,,17.69646382331848
+Physics,10,"Question: A car accelerates uniformly from rest for 8 seconds to reach a speed of 40 m/s. What is the distance traveled during this time?
+Options:
+A. 80 m
+B. 160 m
+C. 240 m
+D. 320 m
+Answer: B",False,,26.23844027519226
+Physics,10,"Question: What happens to the wavelength and frequency of a sound wave as it passes from air to water?
+Options:
+A. Wavelength increases, frequency increases.
+B. Wavelength increases, frequency decreases.
+C. Wavelength decreases, frequency increases.
+D. Wavelength decreases, frequency stays the same.
+Answer: D",True,"Question: What happens to the wavelength and frequency of a sound wave as it passes from air to water?
+Options:
+A. Wavelength increases, frequency increases.
+B. Wavelength increases, frequency decreases.
+C. Wavelength decreases, frequency increases.
+D. Wavelength increases, frequency stays the same.
+Answer: D",20.32475996017456
+Physics,10,"Question: A car accelerates from rest at 2 m/s². What is the car's final velocity after 5 seconds?
+Options:
+A. 7 m/s
+B. 10 m/s
+C. 15 m/s
+D. 25 m/s
+Answer: B",False,,8.50567078590393
+Physics,10,"Question: According to Newton's third law of motion, if object A exerts a force on object B, what will object B do?
+Options:
+A. Exert an equal force on object A in the same direction
+B. Exert an equal force on object A in the opposite direction
+C. Exert a weaker force on object A in the opposite direction
+D. Exert no force on object A
+Answer: B",False,,9.246438026428223
+Physics,10,"Question: Which of Newton's laws of motion states that an object at rest will stay at rest and an object in motion will stay in motion with the same speed and direction unless acted upon by a net external force?
+Options:
+A. First Law
+B. Second Law
+C. Third Law
+D. Fourth Law
+Answer: A",False,,10.115884780883789
+Physics,10,"Question: Which of Newton's Laws of Motion states that every action has an equal and opposite reaction?
+Options:
+A. First Law
+B. Second Law
+C. Third Law
+D. Fourth Law
+Answer: C",False,,5.783131837844849
+Physics,10,"Question: Which of the following describes the frequency of a sound wave?
+Options:
+A. The speed at which the wave travels
+B. The wavelength of the wave
+C. The highest point of the wave
+D. The number of cycles per second
+Answer: D",False,,15.33652400970459
+Physics,10,"Question: What is the unit for measuring the frequency of sound waves in air?
+Options:
+A. Meters
+B. Newtons
+C. Hertz
+D. Joules
+
+Answer: C",False,,10.445965051651001
+Physics,10,"Question: A car accelerates uniformly from rest to 20 m/s in 10 seconds. What is the car's acceleration?
+Options:
+A. 0.5 m/s²
+B. 1.0 m/s²
+C. 2.0 m/s²
+D. 10.0 m/s²
+Answer: C",False,,11.904773950576782
+Physics,10,"Question: What happens when an electric current flows through a coil of wire?
+Options:
+A. The coil heats up
+B. A magnetic field is produced
+C. A chemical reaction occurs
+D. The wire becomes brittle
+Answer: B",False,,9.647357940673828
+Physics,10,"Question: A basketball is thrown horizontally from a height of 5 meters. If it takes 1 second to reach the ground, what is its initial horizontal velocity?
+Options:
+A. 5 m/s
+B. 4 m/s
+C. 9.8 m/s
+D. 10 m/s
+Answer: A",True,"Question: A basketball is thrown horizontally from a height of 5 meters. If it takes 1 second to reach the ground, what is its initial horizontal velocity?
+Options:
+A. 5 m/s
+B. 4 m/s
+C. 9.8 m/s
+D. Cannot be determined
+Answer: D",41.96033573150635
+Physics,10,"Question: Which phenomenon occurs when two waves of equal amplitude traveling in opposite directions meet?
+Options:
+A. Refraction
+B. Diffraction
+C. Reflection
+D. Standing waves
+
+Answer: D",False,,7.63476824760437
+Physics,10,"Question: A 15 kg crate is pushed horizontally with a constant force of 30 N. What is the acceleration of the crate?
+Options:
+A. 0.5 m/s²
+B. 1 m/s²
+C. 2 m/s²
+D. 3 m/s²
+
+Answer: C",False,,17.863972187042236
+Physics,10,"Question: A car accelerates from 0 to 60 mph in 12 seconds. What is its approximate acceleration in meters per second squared?
+Options:
+A. 2.24 m/s²
+B. 4.47 m/s²
+C. 27.0 m/s²
+D. 54.0 m/s²
+Answer: A",False,,19.049468994140625
+Physics,10,"Question: A car accelerates uniformly from rest to a speed of 60 m/s over a distance of 900 meters. What is the acceleration of the car?
+Options:
+A. 2 m/s²
+B. 4 m/s²
+C. 6 m/s²
+D. 8 m/s²
+Answer: B",False,,16.713391065597534
+Physics,10,"Question: When the frequency of a sound wave doubles, what happens to its speed in the same medium?
+Options:
+A. It remains the same
+B. It doubles
+C. It gets halved
+D. It quadruples
+
+Answer: A",False,,6.683624267578125
+Physics,10,"Question: A 10 kg box is pushed with a horizontal force of 20 N across a flat surface with a coefficient of friction of 0.1. How much work is done by the frictional force over 5 meters?
+
+Options:
+A. 5 J
+B. 50 J
+C. 100 J
+D. 500 J
+
+Answer: C",True,"Question: A 10 kg box is pushed with a horizontal force of 20 N across a flat surface with a coefficient of friction of 0.1. How much work is done by the frictional force over 5 meters?
+Options:
+A. -49 J
+B. 50 J
+C. 100 J
+D. 500 J
+Answer: A",45.58758306503296
+Physics,10,"Question: A car accelerates from rest at 4 m/s² for 5 seconds. What is the final velocity of the car?
+Options:
+A. 10 m/s
+B. 20 m/s
+C. 25 m/s
+D. 40 m/s
+Answer: B",False,,17.05654001235962
+Physics,12,"Question: When a wire loop is moved through a magnetic field, the induced current is greatest under which condition?
+
+Options:
+A. Moving the loop parallel to the magnetic field lines
+B. Moving the loop perpendicular to the magnetic field lines
+C. Increasing the size of the loop in the magnetic field
+D. Decreasing the size of the loop in the magnetic field
+
+Answer: B",False,,9.908464908599854
+Physics,12,"Question: A conducting loop is placed in a magnetic field that is continually increasing in magnitude. According to Faraday's Law, what will be the induced effect in the loop?
+Options:
+A. An induced electric current flowing clockwise
+B. An induced electric current flowing counterclockwise
+C. No induced electric current
+D. An induced magnetic field in the same direction as the original magnetic field
+Answer: A",False,,19.00287413597107
+Physics,12,"Question: A loop experiences the greatest induced emf when the change in magnetic flux:
+Options:
+A. Is at the maximum
+B. Is at the minimum
+C. Occurs at the fastest rate
+D. Is constant
+
+Answer: C",False,,4.555999994277954
+Physics,12,"Question: Which of the following statements best describes the relationship between the energy of a photon and its wavelength?
+
+Options:
+A. As wavelength decreases, energy decreases.
+B. As wavelength increases, energy decreases.
+C. The energy of a photon is unrelated to its wavelength.
+D. The energy of a photon is inversely proportional to its wavelength squared.
+
+Answer: B",False,,10.13989520072937
+Physics,12,"Question: A conducting loop is placed within a uniform magnetic field. Which of the following actions will cause the highest induced electromotive force (EMF) in the loop?
+Options:
+A. Rotate the loop within the magnetic field
+B. Move the loop parallel to the magnetic field
+C. Move the loop perpendicular to the magnetic field
+D. Compress the loop within the magnetic field
+Answer: C",False,,24.522439002990723
+Physics,12,"Question: What is the result of increasing the temperature of an ideal gas at constant volume?
+Options:
+A. Pressure decreases
+B. Pressure increases
+C. Volume increases
+D. Volume decreases
+Answer: B",False,,10.27132797241211
+Physics,12,"Question: In a double-slit experiment, when the path difference between two slits becomes equal to half the wavelength, what type of fringe is observed at that point?
+Options:
+A. Bright fringe
+B. Dark fringe
+C. Either Bright or Dark fringe
+D. None of the above
+
+Answer: B",False,,9.09426498413086
+Physics,12,"Question: When a current-carrying wire is placed in a uniform magnetic field perpendicular to the wire, which of the following properties determine the force on the wire?
+Options:
+A. Current, length of the wire, and the magnetic field.
+B. Resistance of the wire, current, and the magnetic field.
+C. Voltage across the wire, resistance of the wire, and the magnetic field.
+D. Current, resistance of the wire, and the distance between the wire and the magnetic source.
+Answer: A",False,,11.279891967773438
+Physics,12,"Question: A circular wire loop with a radius of 1 meter is in a uniform magnetic field of 2 T. The magnetic field is perpendicular to the plane of the loop. If the loop is compressed to half its radius in 1 second, what is the induced emf in the loop?
+Options:
+A. 1.57 V
+B. 3.14 V
+C. 6.28 V
+D. 12.57 V
+Answer: B",True,"Question: A circular wire loop with a radius of 1 meter is in a uniform magnetic field of 2 T. The magnetic field is perpendicular to the plane of the loop. If the loop is compressed to half its radius in 1 second, what is the induced emf in the loop?
+Options:
+A. 1.57 V
+B. 3.14 V
+C. 6.28 V
+D. 12.57 V
+Answer: A",66.70912623405457
+Physics,12,"Question: Which of the following is the correct equation for the speed, frequency, and wavelength of an electromagnetic wave?
+
+Options:
+A. Speed = Frequency + Wavelength
+B. Speed = Frequency × Wavelength
+C. Speed = Frequency / Wavelength
+D. Speed = Wavelength / Frequency
+
+Answer: B",False,,18.83395504951477
+Physics,12,"Question: A conducting loop with a changing magnetic field experiences a phenomenon that results in the production of an electromotive force (EMF). What is this phenomenon called?
+Options:
+A. Ohm's law
+B. Faraday's law
+C. Kirchhoff's law
+D. Gauss's law
+Answer: B",False,,26.038805961608887
+Physics,12,"Question: A coil of wire with 100 turns and an area of 0.01 m² is placed in a magnetic field of 0.02 T. If the magnetic field is removed in 0.2 seconds, what is the average induced voltage in the coil?
+Options:
+A. 1 V
+B. 10 V
+C. 100 V
+D. 1000 V
+Answer: B",True,"Question: A coil of wire with 100 turns and an area of 0.01 m² is placed in a magnetic field of 0.02 T. If the magnetic field is removed in 0.2 seconds, what is the average induced voltage in the coil?
+Options:
+A. 0.0001 V
+B. 0.001 V
+C. 0.01 V
+D. 0.1 V
+Answer: B",39.79272699356079
+Physics,12,"Question: A conducting loop is placed in a magnetic field that is constantly increasing. What is the direction of the induced current in the loop?
+Options:
+A. Clockwise
+B. Counterclockwise
+C. No induced current
+D. Depends on the loop's orientation
+Answer: A",True,"Question: A conducting loop is placed in a magnetic field that is constantly increasing. What is the direction of the induced current in the loop?
+Options:
+A. Clockwise
+B. Counterclockwise
+C. No induced current
+D. Depends on the loop's orientation
+Answer: D",18.587679862976074
+Physics,12,"Question: A conducting rod moves horizontally through a uniform magnetic field with a constant velocity. What will be the direction of the induced current in the rod, if any?
+Options:
+A. Clockwise
+B. Counterclockwise
+C. No induced current
+D. Along the length of the rod
+Answer: C",True,"Question: A conducting rod moves horizontally through a uniform magnetic field with a constant velocity. What will be the direction of the induced current in the rod, if any?
+Options:
+A. Clockwise
+B. Counterclockwise
+C. No induced current
+D. Insufficient information
+Answer: D",27.457285165786743
+Physics,12,"Question: A conducting rod of length L slides along two frictionless vertical rails connected by a resistor R. The magnetic field B is uniform, directed into the plane of the rails, and has a magnitude B. The rod has mass m and slides freely under gravity. What is the terminal velocity Vt of the rod?
+
+Options:
+A. (mgR)/(BL^2)
+B. (mg)/(BL)
+C. (mgL)/(BR)
+D. (mL)/(BgR)
+
+Answer: A",True,"Question: A conducting rod of length L slides along two frictionless vertical rails connected by a resistor R. The magnetic field B is uniform, directed into the plane of the rails, and has a magnitude B. The rod has mass m and slides freely under gravity. What is the terminal velocity Vt of the rod?
+Options:
+A. (mgR)/(BL^2)
+B. (mg)/(BL)
+C. (mgL)/(BR)
+D. (mL)/(BgR)
+Answer: A",45.0960168838501
+Physics,12,"Question: An electromagnetic wave has a frequency of 4 MHz. Calculate its wavelength in meters. (1 MHz = 1 × 10^6 Hz)
+Options:
+A. 75 meters
+B. 60 meters
+C. 120 meters
+D. 100 meters
+Answer: A",True,"Question: An electromagnetic wave has a frequency of 4 MHz. Calculate its wavelength in meters. (1 MHz = 1 × 10^6 Hz)
+Options:
+A. 75 meters
+B. 60 meters
+C. 120 meters
+D. 100 meters
+Answer: A
+
+Step 1: Convert 4 MHz to Hz → 4 MHz × (1 × 10^6 Hz/1 MHz) = 4 × 10^6 Hz
+Step 2: Rearrange the formula to find the wavelength → λ = c/f
+Step 3: Substitute the values and solve for λ → λ = (3 × 10^8 m/s) / (4 × 10^6 Hz) = 75 meters
+
+Thus, the correct answer is A. 75 meters.",26.541473865509033
+Physics,12,"Question: A coil of wire carrying a current through it generates a magnetic field. Which of the following accurately describes the factors affecting the strength of this magnetic field?
+
+Options:
+A. Proportional to the current and inversely proportional to the number of turns
+B. Proportional to the current and the number of turns
+C. Inversely proportional to the current and the number of turns
+D. Proportional to the current and inversely proportional to the length of the wire
+
+Answer: B",False,,13.697832107543945
+Physics,12,"Question: In a generator, how does mechanical energy turn into electrical energy?
+Options:
+A. By rotating a loop within a magnetic field
+B. By applying direct voltage to a resistor
+C. By compressing a gas within a sealed container
+D. By applying heat to a conductive material
+Answer: A",False,,21.45844793319702
+Physics,12,"Question: A long straight wire carries a current I. What is the direction of the magnetic field at a point to the east of the wire?
+Options:
+A. North
+B. South
+C. East
+D. West
+Answer: A",False,,6.702295780181885
+Physics,12,"Question: A wire with a current of 4 A is placed at right angles to a magnetic field of 0.2 T. If the wire has a length of 0.5 m, what is the magnitude of the magnetic force acting on it?
+Options:
+A. 0.4 N
+B. 2 N
+C. 4 N
+D. 8 N
+Answer: A",False,,9.651264190673828
+Physics,University,"Question: What is the uncertainty principle as formulated by Werner Heisenberg?
+
+Options:
+A. The position and momentum of an object can be measured simultaneously with unlimited precision.
+B. The position and momentum of an object cannot be measured simultaneously with arbitrary precision.
+C. The position and momentum of an object can be measured simultaneously, but only if the observer's knowledge is disregarded.
+D. The position and momentum of an object have specific values, regardless of whether they are measured or not.
+
+Answer: B",False,,10.920915126800537
+Physics,University,"Question: Which of the following statements correctly describes the Heisenberg Uncertainty Principle?
+
+Options:
+A. It states that the position and velocity of a particle can be precisely measured simultaneously.
+B. It states that the total energy of a closed system is constant.
+C. It states that the position and momentum of a particle can be precisely measured simultaneously.
+D. It states that the more precisely the position of a particle is known, the less precisely its momentum can be known, and vice versa.
+
+Answer: D",False,,8.35453486442566
+Physics,University,"Question: Which principle states that it is impossible to simultaneously measure two conjugate variables, such as position and momentum, with absolute precision?
+Options:
+A. Heisenberg Uncertainty Principle
+B. Pauli Exclusion Principle
+C. Hund's Rule
+D. Newton's First Law of Motion
+Answer: A",False,,6.996152639389038
+Physics,University,"Question: Which of the following states is not an eigenstate of a spin-1/2 particle in the presence of a magnetic field along the z-axis?
+Options:
+A. |↑>
+B. |↓>
+C. (|↑> + |↓>)/√2
+D. (|↑> - |↓>)/√2
+Answer: C",True,"Question: Which of the following states is not an eigenstate of a spin-1/2 particle in the presence of a magnetic field along the z-axis?
+Options:
+A. |↑>
+B. |↓>
+C. (|↑> + |↓>)/√2
+D. (|↑> - |↓>)/√2
+Answer: Both C and D",55.50113034248352
+Physics,University,"Question: Which of the following factors does the uncertainty principle relate to?
+Options:
+A. Position and momentum
+B. Velocity and energy
+C. Force and time
+D. Acceleration and mass
+Answer: A",False,,16.319390058517456
+Physics,University,"Question: Which concept, introduced by Werner Heisenberg, claims that it is fundamentally impossible to simultaneously determine the position and momentum of a particle with absolute certainty?
+Options:
+A. Pauli Exclusion Principle
+B. Wave-particle Duality
+C. Heisenberg Uncertainty Principle
+D. Schrödinger's Cat
+Answer: C",False,,30.7575101852417
+Physics,University,"Question: Which principle states that it is impossible to know both the exact position and momentum of a particle simultaneously?
+Options:
+A. Heisenberg's Uncertainty Principle
+B. Schrödinger's Wave Equation
+C. Pauli Exclusion Principle
+D. Newton's Second Law of Motion
+Answer: A",False,,22.173137187957764
+Physics,University,"Question: Which of the following operators represents the total angular momentum in quantum mechanics?
+Options:
+A. L = xP_y - yP_x
+B. S = ħ √(s(s+1))
+C. L = ħ √(l(l+1))
+D. J = ħ √(j(j+1))
+Answer: D",False,,32.509037017822266
+Physics,University,"Question: What is the energy eigenvalue (in Joules) for the ground state of an electron in a one-dimensional quantum well with infinite potential barriers, given that the well width is 1 nm and the electron mass is 9.11 × 10^-31 kg?
+Options:
+A. 6.024 × 10^-19 J
+B. 3.748 × 10^-20 J
+C. 1.874 × 10^-19 J
+D. 4.987 × 10^-19 J
+Answer: B",True,"Question: What is the energy eigenvalue (in Joules) for the ground state of an electron in a one-dimensional quantum well with infinite potential barriers, given that the well width is 1 nm and the electron mass is 9.11 × 10^-31 kg?
+Options:
+A. 6.024 × 10^-19 J
+B. 3.748 × 10^-20 J
+C. 1.874 × 10^-19 J
+D. 4.987 × 10^-19 J
+E. 6.024 × 10^-20 J
+Answer: E",45.53955078125
+Physics,University,"Question: In the context of the Heisenberg Uncertainty Principle, which pair of physical observables is known to have an uncertainty relationship?
+
+Options:
+A. Speed and Time
+B. Position and Velocity
+C. Momentum and Energy
+D. Position and Momentum
+
+Answer: D",False,,9.341051816940308
+Physics,University,"Question: What is the Heisenberg Uncertainty Principle primarily associated with?
+Options:
+A. The speed of light
+B. Conservation of energy
+C. Position and momentum
+D. Temperature and pressure
+Answer: C",False,,8.015724897384644
+Physics,University,"Question: Which of the following statements about Schroedinger's cat experiment is true?
+
+Options:
+A. The cat is both alive and dead until observed.
+B. The cat is always alive regardless of observation.
+C. Schroedinger's cat experiment proves classical mechanics.
+D. The experiment was designed to prove that quantum mechanics is false.
+
+Answer: A",False,,22.451410055160522
+Physics,University,"Question: Which interpretation of quantum mechanics claims that every possible outcome of a quantum interaction simultaneously occurs in alternate, non-communicating branches of the universe?
+Options:
+A. Copenhagen Interpretation
+B. Many-Worlds Interpretation
+C. De Broglie-Bohm Interpretation
+D. Consistent Histories Approach
+Answer: B",False,,29.945138931274414
+Physics,University,"Question: Which of the following statements correctly describes the Heisenberg Uncertainty Principle?
+Options:
+A. It is impossible to know both the position and momentum of a particle simultaneously with complete accuracy.
+B. Quantum particles can exist in multiple states at once until they are measured.
+C. The energy and frequency of a photon are directly proportional to each other.
+D. The behavior of subatomic particles is completely random and unpredictable.
+Answer: A",False,,33.77507042884827
+Physics,University,"Question: Which of the following principles is NOT associated with quantum mechanics?
+Options:
+A. Heisenberg Uncertainty Principle
+B. Pauli Exclusion Principle
+C. Schrödinger's Cat Paradox
+D. Kepler's Third Law of Planetary Motion
+Answer: D",False,,21.770987033843994
+Physics,University,"Question: Which of the following quantum mechanical principles states that it is impossible to know both the position and momentum of a particle with certainty simultaneously?
+Options:
+A. Heisenberg Uncertainty Principle
+B. Schrödinger's Wave Equation
+C. Pauli Exclusion Principle
+D. Superposition Principle
+Answer: A",False,,29.96772027015686
+Physics,University,"Question: According to the Heisenberg Uncertainty Principle, what is the consequence of precisely measuring the position of a particle?
+Options:
+A. Obtaining an accurate measurement of its velocity
+B. Increasing the certainty in its velocity
+C. Increasing the uncertainty in its velocity
+D. No impact on its velocity
+Answer: C",False,,7.51164984703064
+Physics,University,"Question: Which of the following operators corresponds to the total energy of a quantum system?
+Options:
+A. Hamiltonian operator
+B. Momentum operator
+C. Position operator
+D. Spin operator
+Answer: A",False,,12.348415851593018
+Physics,University,"Question: Which of the following is an eigenfunction of the momentum operator in one-dimensional space?
+Options:
+A. e^(ikx)
+B. x^2
+C. sin(kx)
+D. cos(kx)
+Answer: A",False,,58.61159610748291
+Physics,University,"Question: Which of the following operators represents the measurable quantity for the total angular momentum of a quantum system?
+Options:
+A. L^2
+B. Lz
+C. S^2
+D. J^2
+Answer: D",False,,15.945487976074219
+Physics,1,"Question: Which force makes things stick?
+Options:
+A. Gravity
+B. Friction
+C. Magnetism
+D. Wind
+Answer: C",False,,18.53926706314087
+Physics,1,"Question: Which of these objects will fall from the tree due to gravity?
+Options:
+A. A cloud
+B. A rainbow
+C. An apple
+D. A star
+
+Answer: C",False,,15.575778722763062
+Physics,1,"Question: Which force helps a ball come back to the ground?
+Options:
+A. Gravity
+B. Wind
+C. Magnetism
+D. Electricity
+Answer: A",False,,23.203508853912354
+Physics,1,"Question: Which of these is a liquid?
+Options:
+A. Ice
+B. Chair
+C. Juice
+D. Ball
+Answer: C",False,,12.34139609336853
+Physics,1,"Question: Which simple machine helps you lift heavy things easily?
+Options:
+A. Lever
+B. Pencil
+C. Ball
+D. Chair
+Answer: A",False,,21.029258728027344
+Physics,1,"Question: Which of these is a simple machine that helps move objects up or down?
+Options:
+A. Incline Plane
+B. Pen
+C. Eraser
+D. Ball
+Answer: A",False,,7.6368749141693115
+Physics,1,"Question: Which force makes objects fall to the ground?
+Options:
+A. Magnetic force
+B. Gravity
+C. Friction
+D. Push and pull
+
+Answer: B",False,,6.9510369300842285
+Physics,1,"Question: Which of these activities is an example of pushing?
+Options:
+A. Pulling a toy car
+B. Lifting a book
+C. Pushing a swing
+D. Dropping a pencil
+Answer: C",False,,10.95688796043396
+Physics,1,"Question: Which state of matter has a fixed shape and size?
+Options:
+A. Solid
+B. Liquid
+C. Gas
+D. Plasma
+Answer: A",False,,6.71405291557312
+Physics,1,"Question: Which of these can pull things towards it?
+Options:
+A. Magnet
+B. Water
+C. Ball
+D. Cloud
+Answer: A",False,,24.58393883705139
+Physics,1,"Question: Which of these things can move?
+Options:
+A. A rock
+B. A tree
+C. A toy car
+D. A book
+Answer: C",True,"Question: Which of these things can move?
+Options:
+A. A rock
+B. A tree
+C. A toy car
+D. A book
+Answer: A, C, D",23.794963121414185
+Physics,1,"Question: Which of these is a simple machine?
+Options:
+A. Ice cream
+B. Bicycle
+C. Toy car
+D. Lever
+Answer: D",False,,17.32782006263733
+Physics,1,"Question: Which of these objects can move the easiest on its own?
+Options:
+A. A car
+B. A rock
+C. A tree
+D. A snail
+Answer: D",False,,17.753631114959717
+Physics,1,"Question: Which of the following is a type of simple machine?
+Options:
+A. Elephant
+B. Bicycle
+C. Spoon
+D. Incline
+Answer: D",True,"Question: Which of the following is a type of simple machine?
+Options:
+A. Elephant
+B. Bicycle
+C. Spoon
+D. Inclined Plane
+Answer: D",18.00532603263855
+Physics,1,"Question: Which of these is a push or pull on an object?
+Options:
+A. Wind
+B. Smell
+C. Color
+D. Sound
+Answer: A",False,,20.689769983291626
+Physics,1,"Question: Which object can block light to create a shadow?
+Options:
+A. Glass
+B. Water
+C. Teddy bear
+D. Air
+Answer: C",False,,23.541188716888428
+Physics,1,"Question: Which force pulls things towards the Earth?
+Options:
+A. Push
+B. Float
+C. Lift
+D. Gravity
+Answer: D",False,,23.581912994384766
+Physics,1,"Question: Which force helps a ball to come back up when you bounce it?
+
+Options:
+A. Gravity
+B. Wind
+C. Friction
+D. Elastic force
+
+Answer: D",False,,7.654870986938477
+Physics,1,"Question: Which of these is a simple machine?
+Options:
+A. Hammer
+B. Cellphone
+C. Pizza
+D. Bus
+Answer: A",False,,13.680248022079468
+Physics,1,"Question: Which of these objects will fall down when dropped?
+Options:
+A. Apple
+B. Balloon filled with helium
+C. Feather
+D. Leaves
+
+Answer: A",True,"Question: Which of these objects will fall down when dropped?
+Options:
+A. Apple
+B. Piece of paper
+C. Feather
+D. Leaves
+Answer: A, C, D",30.488656044006348
+Biology,1,"Question: Which animal has a long trunk?
+Options:
+A. Elephant
+B. Lion
+C. Giraffe
+D. Zebra
+Answer: A",False,,9.16996717453003
+Biology,1,"Question: What do cats say?
+Options:
+A. Meow
+B. Moo
+C. Quack
+D. Ribbit
+Answer: A",False,,11.301886081695557
+Biology,1,"Question: Which animal lives in a nest?
+Options:
+A. Elephant
+B. Dolphin
+C. Lion
+D. Bird
+Answer: D",False,,6.660030364990234
+Biology,1,"Question: Which of these animals can fly?
+Options:
+A. Dog
+B. Elephant
+C. Bird
+D. Fish
+Answer: C",False,,3.6549887657165527
+Biology,1,"Question: Which part of the plant does food come from?
+Options:
+A. Roots
+B. Stem
+C. Leaves
+D. Flower
+
+Answer: C",False,,5.664628982543945
+Biology,1,"Question: Which animal has a long neck?
+Options:
+A. Giraffe
+B. Elephant
+C. Tiger
+D. Zebra
+Answer: A",False,,4.036133050918579
+Biology,1,"Question: Which of these animals is a mammal?
+Options:
+A. Butterfly
+B. Goldfish
+C. Elephant
+D. Crocodile
+Answer: C",False,,22.358612060546875
+Biology,1,"Question: Which animal can fly?
+Options:
+A. Elephant
+B. Dog
+C. Fish
+D. Bird
+Answer: D",False,,16.605551958084106
+Biology,1,"Question: Which of these is a flying animal?
+Options:
+A. Elephant
+B. Fish
+C. Eagle
+D. Lion
+Answer: C",False,,11.476836919784546
+Biology,1,"Question: Which animal has a long neck and eats leaves from trees?
+Options:
+A. Giraffe
+B. Elephant
+C. Lion
+D. Zebra
+Answer: A",False,,16.01795506477356
+Biology,1,"Question: What sound does a cow make?
+Options:
+A. Meow
+B. Woof
+C. Moo
+D. Quack
+Answer: C",False,,4.9352171421051025
+Biology,1,"Question: Which of these animals can fly?
+Options:
+A. Elephant
+B. Fish
+C. Bird
+D. Cow
+Answer: C",False,,4.703974008560181
+Biology,1,"Question: What sound does a cow make?
+Options:
+A. Neigh
+B. Quack
+C. Moo
+D. Meow
+Answer: C",False,,5.949284076690674
+Biology,1,"Question: Where does a bee live?
+Options:
+A. Hive
+B. Nest
+C. Burrow
+D. Shell
+Answer: A",False,,5.873948812484741
+Biology,1,"Question: What sound does a dog make?
+Options:
+A. Meow
+B. Neigh
+C. Baa
+D. Woof
+Answer: D",False,,11.797649145126343
+Biology,1,"Question: Which animal can fly in the sky?
+Options:
+A. Duck
+B. Horse
+C. Elephant
+D. Giraffe
+Answer: A",False,,12.223965883255005
+Biology,1,"Question: Which animal has long neck?
+Options:
+A. Giraffe
+B. Elephant
+C. Lion
+D. Zebra
+Answer: A",False,,7.615869998931885
+Biology,1,"Question: Which animal has long ears and jumps high?
+Options:
+A. Cat
+B. Horse
+C. Rabbit
+D. Sheep
+Answer: C",False,,17.184961080551147
+Biology,1,"Question: Which animal can climb trees?
+Options:
+A. Cow
+B. Cat
+C. Horse
+D. Sheep
+Answer: B",False,,8.14498496055603
+Biology,1,"Question: Which animal can fly in the sky?
+Options:
+A. Dog
+B. Fish
+C. Bird
+D. Lion
+Answer: C",False,,7.271886825561523
+History,University,"Question: Which philosopher is known for the concept of ""Allegory of the Cave""?
+Options:
+A. Socrates
+B. Plato
+C. Aristotle
+D. Immanuel Kant
+Answer: B",False,,10.334147930145264
+History,University,"Question: Which event marked the end of the French monarchy during the French Revolution?
+
+Options:
+A. The Tennis Court Oath
+B. The Storming of the Bastille
+C. The Execution of King Louis XVI
+D. The Reign of Terror
+
+Answer: C",False,,5.018049001693726
+History,University,"Question: Which invention during the Industrial Revolution drastically modernised the textile industry and increased cotton manufacturing capacity?
+
+Options:
+A. Water Frame
+B. Spinning Jenny
+C. Steam Engine
+D. Cotton Gin
+
+Answer: B",True,"Question: Which invention during the Industrial Revolution drastically modernised the textile industry and increased cotton manufacturing capacity?
+Options:
+A. Water Frame
+B. Spinning Jenny
+C. Steam Engine
+D. Cotton Gin
+Answer: A",18.245290994644165
+History,University,"Question: Which policy implemented during the French Revolution led to widespread food shortages and economic hardship?
+
+Options:
+A. The Reign of Terror
+B. The Enlightenment
+C. The Committee of Public Safety
+D. The Maximum Price Law
+
+Answer: D",False,,18.224594116210938
+History,University,"Question: Which event is widely regarded as the starting point of World War II?
+Options:
+A. The invasion of Poland by Germany
+B. The bombing of Pearl Harbor
+C. The signing of the Treaty of Versailles
+D. The assassination of Archduke Franz Ferdinand
+Answer: A",False,,11.899677991867065
+History,University,"Question: Which factor contributed to the financial crisis that triggered the French Revolution in 1789?
+
+Options:
+A. Excessive spending on lavish parties
+B. Funding the American Revolution
+C. High taxes on the nobility
+D. Economic growth from trade
+
+Answer: B",False,,27.37742805480957
+History,University,"Question: Which concept did John Locke introduce that greatly influenced democratic thought?
+Options:
+A. Divine Right of Kings
+B. Laissez-faire
+C. Social contract theory
+D. Spirit of the Laws
+
+Answer: C",False,,14.307794094085693
+History,University,"Question: Which event is widely considered as the direct trigger for the United States' entry into World War II?
+
+Options:
+A. Bombing of Pearl Harbor
+B. Invasion of Poland
+C. Fall of France
+D. Battle of Britain
+
+Answer: A",False,,10.751551866531372
+History,University,"Question: Which of the following countries remained neutral during World War II?
+Options:
+A. Italy
+B. United States
+C. Sweden
+D. Japan
+
+Answer: C",False,,10.352189779281616
+History,University,"Question: Which event helped to reinvigorate the French during the Hundred Years' War?
+Options:
+A. The Siege of Orleans
+B. The Treaty of Bretigny
+C. The Black Death
+D. The Battle of Crecy
+Answer: A",False,,29.93591594696045
+History,University,"Question: Which social group led the French Revolution in the late 18th century?
+
+Options:
+A. Nobility
+B. Clergy
+C. Bourgeoisie
+D. Peasantry
+
+Answer: C",False,,17.48672318458557
+History,University,"Question: Which of the following events directly prompted the U.S. to enter World War II?
+Options:
+A. Invasion of Poland
+B. Battle of Britain
+C. Pearl Harbor Attack
+D. D-Day
+
+Answer: C",False,,25.990025997161865
+History,University,"Question: Which of these conferences resulted in the establishment of the United Nations?
+
+Options:
+A. Tehran Conference
+B. Yalta Conference
+C. Potsdam Conference
+D. Dumbarton Oaks Conference
+
+Answer: D",False,,13.718329668045044
+History,University,"Question: Which agreement between Germany, Italy, and Japan in 1940 established the Axis powers?
+Options:
+A. Munich Pact
+B. Molotov-Ribbentrop Pact
+C. Potsdam Agreement
+D. Tripartite Pact
+
+Answer: D",False,,19.200908184051514
+History,University,"Question: Which U.S. Supreme Court case of 1954 declared racial segregation in public schools unconstitutional?
+Options:
+A. Plessy v. Ferguson
+B. Brown v. Board of Education
+C. Roe v. Wade
+D. Dred Scott v. Sandford
+Answer: B",False,,31.79918909072876
+History,University,"Question: Which Florentine artist is regarded as the founding figure of the High Renaissance?
+
+Options:
+A. Leonardo da Vinci
+B. Sandro Botticelli
+C. Michelangelo
+D. Raphael
+
+Answer: A. Leonardo da Vinci",False,,6.3583879470825195
+History,University,"Question: Which event marked the beginning of the French Revolution in 1789?
+Options:
+A. Storming of the Bastille
+B. Execution of Louis XVI
+C. Declaration of the Rights of Man
+D. Reign of Terror
+Answer: A",False,,15.593299865722656
+History,University,"Question: Which event directly triggered the United States' entry into World War II?
+Options:
+A. The Battle of Britain
+B. The Japanese attack on Pearl Harbor
+C. The German invasion of Poland
+D. The sinking of the Lusitania
+
+Answer: B",False,,4.9645421504974365
+History,University,"Question: Which event is considered a major catalyst for the French Revolution?
+Options:
+A. The fall of the Bastille
+B. The Tennis Court Oath
+C. The Reign of Terror
+D. Napoleon's ascent to power
+
+Answer: A",False,,12.148530006408691
+History,University,"Question: Which philosopher is considered one of the founding figures of modern Western philosophy, and is known for his doctrine of ""Cogito, ergo sum""?
+Options:
+A. Immanuel Kant
+B. Jean-Jacques Rousseau
+C. René Descartes
+D. John Locke
+
+Answer: C",False,,5.349646091461182
+Mathematics,University,"Question: Which of the following operations is NOT a valid elementary row operation?
+Options:
+A. Row addition
+B. Multiplication of a row by a non-zero constant
+C. Interchanging two rows
+D. Adding a constant multiple of one row to another row
+Answer: A",True,"Question: Which of the following operations is NOT a valid elementary row operation?
+Options:
+A. Row addition
+B. Multiplication of a row by a non-zero constant
+C. Interchanging two rows
+D. Adding a constant multiple of one row to another row
+Answer: A",60.435717821121216
+Mathematics,University,"Question: What is the derivative of the function f(x) = 3x^3 - 2x^2 + 4x - 7 with respect to x?
+
+Options:
+A. 9x^2 - 4x + 4
+B. 6x^2 - 4x + 4
+C. 9x^2 - 8x + 4
+D. 9x^2 - 4x + 1
+
+Answer: C",True,"Question: What is the derivative of the function f(x) = 3x^3 - 2x^2 + 4x - 7 with respect to x?
+Options:
+A. 9x^2 - 4x + 4
+B. 6x^2 - 4x + 4
+C. 9x^2 - 8x + 4
+D. 9x^2 - 4x + 1
+Answer: A",37.16505312919617
+Mathematics,University,"Question: Given the 3x3 matrix A = [[2, 4, 6], [1, -1, 2], [3, 3, 5]], what is the determinant of A?
+Options:
+A. 14
+B. 4
+C. 36
+D. -12
+Answer: A",True,"Question: Given the 3x3 matrix A = [[2, 4, 6], [1, -1, 2], [3, 3, 5]], what is the determinant of A?
+Options:
+A. 14
+B. 4
+C. 36
+D. 42
+Answer: D",51.9059362411499
+Mathematics,University,"Question: Let A be a 2x2 matrix and B be a 2x3 matrix. If C = AB, what are the dimensions of matrix C?
+
+Options:
+A. 2x2
+B. 2x3
+C. 3x2
+D. 3x3
+
+Answer: B",False,,19.954521894454956
+Mathematics,University,"Question: Which of the following methods is likely the most suitable to solve the given second order differential equation: y''(t) - 3y'(t) - 4y(t) = 0?
+
+Options:
+A. Separation of Variables
+B. Laplace Transform
+C. Integration Factor
+D. Characteristic Equation
+
+Answer: D",False,,27.77545714378357
+Mathematics,University,"Question: Which of the following is a first-order homogeneous differential equation?
+Options:
+A. dy/dx + 3y = 0
+B. dy/dx - 2xy = x^2
+C. dy/dx = y/x
+D. x(dy/dx) = y^2
+Answer: A",True,,53.446067094802856
+Mathematics,University,"Question: Given a linear transformation T: R^2 → R^2 represented by the matrix A = [ [2, -1], [1, 3] ], what is the determinant of A?
+Options:
+A. 5
+B. 7
+C. 9
+D. -5
+Answer: B",False,,14.431125164031982
+Mathematics,University,"Question: Consider the following finite set: S = {a, b, c, d, e}. How many unique subsets of S can be created that have exactly three elements?
+
+Options:
+A. 5
+B. 10
+C. 15
+D. 20
+
+Answer: B",False,,19.883258819580078
+Mathematics,University,"Question: Find the derivative of the function f(x) = 3x^3 - 4x^2 + 2x - 7.
+Options:
+A. 9x^2 - 8x + 2
+B. 6x^3 - 16x^2 + 8x - 21
+C. 9x^3 - 12x^2 + 4x - 14
+D. 12x^3 - 8x^2 + 4x - 7
+Answer: A",False,,29.920283794403076
+Mathematics,University,"Question: Let A and B be n x n matrices. If the product of A and B is the null matrix (AB = 0), which of the following must be true?
+Options:
+A. Both A and B are null matrices
+B. The determinant of A is 0
+C. The determinant of B is 0
+D. The determinant of A or B is 0
+Answer: D",False,,13.12719178199768
+Mathematics,University,"Question: Which of the following statements about prime numbers is NOT true?
+Options:
+A. Every prime number except for 2 is odd.
+B. A prime number has exactly two distinct positive divisors.
+C. There are infinitely many prime numbers.
+D. Every even number greater than 2 is the sum of two primes.
+Answer: D",False,,37.46821928024292
+Mathematics,University,"Question: In a box containing 5 red and 8 green balls, what is the probability that two balls drawn at random are both red?
+
+Options:
+A. 5/13
+B. 14/65
+C. 20/78
+D. 5/26
+
+Answer: B",True,"Question: In a box containing 5 red and 8 green balls, what is the probability that two balls drawn at random are both red?
+Options:
+A. 5/13
+B. 14/65
+C. 20/78
+D. 5/39
+Answer: D",33.96977090835571
+Mathematics,University,"Question: Consider the following system of linear equations:
+
+x - 2y = 1
+-3x + 6y = z
+2x - 4y + z = 5
+
+What is the rank of the matrix of coefficients?
+Options:
+A. 1
+B. 2
+C. 3
+D. 0
+
+Answer: B",False,,40.13947916030884
+Mathematics,University,"Question: What is the derivative of the function f(x) = (4x^3 - 3x^2 + 2x - 1)?
+
+Options:
+A. 12x^2 - 6x + 2
+B. 12x^2 - 3x + 2
+C. 6x^2 - 9x + 8
+D. 3x^2 - 6x + 2
+
+Answer: A",False,,24.49504590034485
+Mathematics,University,"Question: If y = ln(x^2 + 3x + 2), what is dy/dx?
+
+Options:
+A. 2x + 3
+B. (2x + 3)/(x^2 + 3x + 2)
+C. (2x + 3)/(2x^2 + 6x)
+D. (2x + 3)/(2x + 2)
+
+Answer: B",False,,37.764602184295654
+Mathematics,University,"Question: Evaluate the limit: lim(x→1) (x^3 - 1) / (x - 1)
+
+Options:
+A. 0
+B. 1
+C. 2
+D. 3
+
+Answer: D",False,,20.165624141693115
+Mathematics,University,"Question: Given the following matrix A, determine its eigenvectors:
+
+A =
+|  2, -1 |
+| -1,  2 |
+
+Options:
+A. (1, 1)
+B. (1, -1)
+C. (-1, 1)
+D. (-1, -1)
+
+Answer: B",False,,56.27064895629883
+Mathematics,University,"Question: Which of the following is the general solution to the second-order homogeneous linear differential equation y'' - 3y' + 2y = 0?
+
+Options:
+A. y = C1e^x + C2x*e^x
+B. y = C1e^x + C2e^2x
+C. y = C1e^(-x) + C2e^(-2x)
+D. y = C1x*e^x + C2x^2*e^x
+
+Answer: B",False,,18.676904916763306
+Mathematics,University,"Question: What is the value of the derivative of the function f(x) = x³ - 4x² + 3x + 1 at the point x = 2?
+
+Options:
+A. -5
+B. -3
+C. 11
+D. 17
+
+Answer: A",True,"Question: What is the value of the derivative of the function f(x) = x³ - 4x² + 3x + 1 at the point x = 2?
+Options:
+A. -5
+B. -3
+C. -1
+D. 1
+Answer: C",35.99888777732849
+Mathematics,University,"Question: Given the matrices A = $\begin{bmatrix} 2 & 3 \\ 1 & -1 \end{bmatrix}$ and B = $\begin{bmatrix} 4 \\ -2 \end{bmatrix}$, compute the matrix product AB.
+
+Options:
+A. $\begin{bmatrix} 2 \\ 3 \end{bmatrix}$
+B. $\begin{bmatrix} 1 \\ -4 \end{bmatrix}$
+C. $\begin{bmatrix} 8 \\ -5 \end{bmatrix}$
+D. $\begin{bmatrix} 5 \\ 4 \end{bmatrix}$
+
+Answer: C",True,"Question: Given the matrices A = $\begin{bmatrix} 2 & 3 \\ 1 & -1 \end{bmatrix}$ and B = $\begin{bmatrix} 4 \\ -2 \end{bmatrix}$, compute the matrix product AB.
+Options:
+A. $\begin{bmatrix} 2 \\ 6 \end{bmatrix}$
+B. $\begin{bmatrix} 1 \\ -4 \end{bmatrix}$
+C. $\begin{bmatrix} 8 \\ -5 \end{bmatrix}$
+D. $\begin{bmatrix} 5 \\ 4 \end{bmatrix}$
+Answer: A",48.70337796211243
+Geography,University,"Question: Which of the following countries is NOT part of the Horn of Africa?
+Options:
+A. Ethiopia
+B. Somalia
+C. Eritrea
+D. Ghana
+Answer: D",False,,13.7411949634552
+Geography,University,"Question: Which of the following theories claims that a nation's power derives mostly from having access to resources and geographic location?
+Options:
+A. Political Geography Theory
+B. Geopolitical Theory
+C. Social Constructivism
+D. Realism
+Answer: B",False,,33.40737295150757
+Geography,University,"Question: Which of the following processes is primarily responsible for the formation of a river delta?
+Options:
+A. Deposition
+B. Erosion
+C. Weathering
+D. Mass wasting
+Answer: A",False,,28.815340042114258
+Geography,University,"Question: Which of the following types of plate boundaries is associated with the formation of new crust and seafloor spreading?
+Options:
+A. Convergent boundary
+B. Divergent boundary
+C. Transform boundary
+D. Intraplate boundary
+Answer: B",False,,25.046753883361816
+Geography,University,"Question: Which of the following factors is NOT typically associated with rapid urbanization in developing countries?
+Options:
+A. Rural-urban migration
+B. High birth rates
+C. Environmental conservation initiatives
+D. Industrialization
+Answer: C",False,,27.89646291732788
+Geography,University,"Question: Which geopolitical theory emphasizes the importance of control over a particular geographical area as a determinant of global power?
+Options:
+A. Heartland Theory
+B. Rimland Theory
+C. Demographic Transition Theory
+D. Gravity Model Theory
+
+Answer: A",False,,7.494597911834717
+Geography,University,"Question: Which oceanic zone experiences the highest air pressure at the Earth's surface?
+Options:
+A. Polar High
+B. Subpolar Low
+C. Equatorial Low
+D. Subtropical High
+Answer: A",False,,9.787452220916748
+Geography,University,"Question: Which of these Asian rivers is the longest?
+Options:
+A. Yangtze River
+B. Mekong River
+C. Yellow River
+D. Ganges River
+Answer: A",False,,17.86375665664673
+Geography,University,"Question: Which of these regions has the highest average elevation in the world?
+Options:
+A. Siberian Plateau
+B. Colorado Plateau
+C. Tibetan Plateau
+D. Deccan Plateau
+Answer: C",False,,26.312580108642578
+Geography,University,"Question: Which of the following climatic zones is characterized by hot temperatures, high humidity, and significant rainfall year-round?
+Options:
+A. Tropical Rainforest
+B. Mediterranean
+C. Tundra
+D. Desert
+Answer: A",False,,24.947417974472046
+Geography,University,"Question: Which of the following countries is landlocked?
+Options:
+A. Brazil
+B. Ukraine
+C. Cambodia
+D. Laos
+Answer: D",False,,25.192788124084473
+Geography,University,"Question: Which of these rivers carries the largest water volume in terms of discharge?
+Options:
+A. Amazon River
+B. Nile River
+C. Yangtze River
+D. Mississippi River
+Answer: A",False,,28.181593894958496
+Geography,University,"Question: Which of the following countries has the highest population density?
+Options:
+A. Bangladesh
+B. India
+C. Japan
+D. China
+Answer: A",False,,19.618831157684326
+Geography,University,"Question: Which urban model theorizes a city's structure based on land use zones arranged in concentric circles?
+Options:
+A. Multiple Nuclei Model
+B. Central Place Theory
+C. Sector Model
+D. Burgess Concentric Zone Model
+Answer: D",False,,35.80338382720947
+Geography,University,"Question: Which type of plate boundary is characterized by the creation of new crust as two plates move away from each other?
+Options:
+A. Convergent
+B. Divergent
+C. Transform
+D. Subduction
+Answer: B",False,,16.630018949508667
+Geography,University,"Question: Which type of plate boundary is typically associated with the formation of major mountain ranges?
+Options:
+A. Divergent boundary
+B. Transform boundary
+C. Convergent boundary
+D. None of the above
+Answer: C",False,,12.936986923217773
+Geography,University,"Question: Which of the following countries has the highest Human Development Index (HDI) ranking in the world?
+Options:
+A. Japan
+B. United States
+C. Norway
+D. United Arab Emirates
+Answer: C",False,,10.637470960617065
+Geography,University,"Question: Which one of the following geopolitical regions does Switzerland belong to?
+Options:
+A. Scandinavian Peninsula
+B. Iberian Peninsula
+C. Balkan Peninsula
+D. Western European region
+Answer: D",False,,15.4170081615448
+Geography,University,"Question: Which of the following is the smallest continent by land area?
+Options:
+A. Africa
+B. Europe
+C. Australia
+D. South America
+Answer: C",False,,3.8245599269866943
+Geography,University,"Question: Which of the following ocean currents is a function of plate tectonics?
+Options:
+A. Gulf Stream
+B. East Australian Current
+C. Humboldt Current
+D. Antarctic Circumpolar Current
+Answer: D",True,"Question: Which of the following ocean currents is a function of plate tectonics?
+Options:
+A. Gulf Stream
+B. East Australian Current
+C. Humboldt Current
+D. None of the above
+Answer: D",34.470333099365234
+Computer Science,University,"Question: Which of the following network topologies allows multiple devices to be connected via a single central hub or switch?
+Options:
+A. Star
+B. Mesh
+C. Ring
+D. Bus
+Answer: A",False,,28.046630144119263
+Computer Science,University,"Question: Which of the following algorithms has the best worst-case time complexity?
+Options:
+A. Bubble Sort
+B. Quick Sort
+C. Merge Sort
+D. Selection Sort
+Answer: C",False,,39.12869095802307
+Computer Science,University,"Question: Which of the following algorithms has the worst time complexity in Big O notation?
+Options:
+A. O(n)
+B. O(log n)
+C. O(n^2)
+D. O(1)
+Answer: C",False,,17.1819429397583
+Computer Science,University,"Question: Which sorting algorithm has the best average-case complexity?
+Options:
+A. Bubble Sort
+B. Selection Sort
+C. Quick Sort
+D. Insertion Sort
+Answer: C",False,,9.334004163742065
+Computer Science,University,"Question: Which of the following sorting algorithms has the best average case time complexity?
+Options:
+A. Bubble Sort
+B. Quick Sort
+C. Selection Sort
+D. Insertion Sort
+
+Answer: B",False,,14.895442962646484
+Computer Science,University,"Question: Which of the following algorithms has the best average case time complexity when sorting n elements?
+Options:
+A. Quick Sort
+B. Bubble Sort
+C. Merge Sort
+D. Selection Sort
+Answer: C",True,"Question: Which of the following algorithms has the best average case time complexity when sorting n elements?
+Options:
+A. Quick Sort
+B. Bubble Sort
+C. Insertion Sort
+D. Selection Sort
+Answer: A",28.148743867874146
+Computer Science,University,"Question: Which of the following algorithmic complexity notations represents the best upper bound for worst-case scenarios?
+Options:
+A. O(n)
+B. Ω(n)
+C. Θ(n)
+D. o(n)
+Answer: A",False,,27.827324867248535
+Computer Science,University,"Question: Which of the following SQL queries is used to delete a particular row from a table?
+Options:
+A. DELETE COLUMN FROM tablename
+B. DELETE * FROM tablename
+C. DELETE COLUMN FROM tablename WHERE condition
+D. DELETE FROM tablename WHERE condition
+Answer: D",False,,17.63961911201477
+Computer Science,University,"Question: Which concept is most relevant to solving job-scheduling problems utilizing processor time efficiently?
+Options:
+A. Hash Tables
+B. Greedy Algorithms
+C. Bubble Sort
+D. Dynamic Programming
+Answer: B",True,"Question: Which concept is most relevant to solving job-scheduling problems utilizing processor time efficiently?
+Options:
+A. Hash Tables
+B. Greedy Algorithms
+C. Bubble Sort
+D. Dynamic Programming
+Answer: D",39.51381826400757
+Computer Science,University,"Question: Which of the following scheduling algorithms assigns the CPU to the process with the smallest remaining execution time?
+
+Options:
+A. Priority Scheduling
+B. Round Robin
+C. Shortest Remaining Time First
+D. First Come First Served
+
+Answer: C",False,,27.499613046646118
+Computer Science,University,"Question: In the context of operating systems, what is the primary function of a process scheduler?
+
+Options:
+A. Allocate memory for new processes
+B. Determine the order of execution for processes
+C. Handle input/output requests from processes
+D. Manage file system space allocation
+
+Answer: B",False,,21.4846088886261
+Computer Science,University,"Question: Which of the following algorithms has the highest time complexity for sorting n elements?
+Options:
+A. Merge Sort
+B. Bubble Sort
+C. Quick Sort
+D. Insertion Sort
+
+Answer: B",False,,13.973897933959961
+Computer Science,University,"Question: Which of the following is NOT a core feature of object-oriented programming (OOP)?
+Options:
+A. Inheritance
+B. Encapsulation
+C. Polymorphism
+D. Recursion
+
+Answer: D",False,,23.518651247024536
+Computer Science,University,"Question: Which of the following machine learning algorithms can be used for both classification and regression tasks?
+
+Options:
+A. K-Means clustering
+B. Support Vector Machines
+C. Principal Component Analysis
+D. Apriori algorithm
+
+Answer: B",False,,21.144742012023926
+Computer Science,University,"Question: Which of the following represents the best-case time complexity for the merge sort algorithm?
+Options:
+A. O(n)
+B. O(log n)
+C. O(n log n)
+D. O(n^2)
+
+Answer: C",False,,5.7573020458221436
+Computer Science,University,"Question: Which of the following sorting algorithms has the best best-case running time complexity?
+Options:
+A. Quick Sort
+B. Merge Sort
+C. Bubble Sort
+D. Insertion Sort
+Answer: D",False,,19.162890911102295
+Computer Science,University,"Question: Which of the following sorting algorithms has the best worst-case time complexity?
+Options:
+A. Quick Sort
+B. Bubble Sort
+C. Merge Sort
+D. Insertion Sort
+Answer: C",False,,20.20162081718445
+Computer Science,University,"Question: Which of the following sorting algorithms has the best average-case time complexity?
+Options:
+A. Bubble Sort
+B. Quick Sort
+C. Insertion Sort
+D. Selection Sort
+Answer: B",False,,13.475956916809082
+Computer Science,University,"Question: Which OSI model layer is responsible for guaranteeing the delivery of packets over a network?
+Options:
+A. Transport layer
+B. Data link layer
+C. Network layer
+D. Application layer
+Answer: A",False,,16.486945867538452
+Computer Science,University,"Question: Which network protocol is responsible for managing the establishment, maintenance, and termination of connections between applications on the Internet?
+Options:
+A. TCP
+B. UDP
+C. HTTP
+D. FTP
+Answer: A",False,,25.35895276069641
+Big O Notation,University,"Question: Which of the following functions has the worst time complexity?
+Options:
+A. O(n)
+B. O(n²)
+C. O(n log n)
+D. O(log n)
+Answer: B",False,,18.62907123565674
+Big O Notation,University,"Question: Which of the following Big O notations represents the most optimal code execution complexity?
+Options:
+A. O(n^2)
+B. O(n)
+C. O(log n)
+D. O(1)
+Answer: D",False,,19.730026960372925
+Big O Notation,University,"Question: What is the Big O notation of an algorithm that, for n elements, performs 5n operations followed by 10 log(n) operations?
+Options:
+A. O(n)
+B. O(n log n)
+C. O(n^2)
+D. O(log n)
+Answer: A",False,,26.42214012145996
+Big O Notation,University,"Question: Which of the following functions has the fastest growth rate with respect to the input size ""n""?
+Options:
+A. O(1)
+B. O(n)
+C. O(n²)
+D. O(log n)
+Answer: C",False,,33.15775728225708
+Big O Notation,University,"Question: Which of the following algorithms has the best asymptotic time complexity?
+Options:
+A. O(n^2)
+B. O(n*log(n))
+C. O(n)
+D. O(3^n)
+Answer: C",False,,23.405221939086914
+Big O Notation,University,"Question: What is the time complexity of the following function?
+```
+function example(n){
+let count = 0;
+for(let i = 1; i <= n; i++){
+for(let j = 1; j <= i; j++){
+count++;
+}
+}
+}
+```
+
+Options:
+A. O(n)
+B. O(n^2)
+C. O(log n)
+D. O(n log n)
+
+Answer: B",False,,23.991854906082153
+Big O Notation,University,"Question: In computer science, which of the following is considered the most appropriate representation of an algorithm's time complexity?
+Options:
+A. O(n^2)
+B. O(log n)
+C. O(n)
+D. O(n log n)
+Answer: B",True,"Question: In computer science, which of the following time complexity represents the ""best case"" among the provided options?
+Options:
+A. O(n^2)
+B. O(log n)
+C. O(n)
+D. O(n log n)
+Answer: B",32.255144119262695
+Big O Notation,University,"Question: Which of the following functions has the fastest growth rate as the input size (n) increases?
+Options:
+A. O(n)
+B. O(n^2)
+C. O(log n)
+D. O(n log n)
+Answer: B",False,,20.63500714302063
+Big O Notation,University,"Question: Which of the following functions has the highest time complexity?
+Options:
+A. O(2^n)
+B. O(n^2)
+C. O(n log n)
+D. O(n)
+Answer: A",False,,20.78649592399597
+Big O Notation,University,"Question: Which of the following Big O Notations represents the best-case time complexity of the QuickSort algorithm?
+Options:
+A. O(n log n)
+B. O(n)
+C. O(n²)
+D. O(log n)
+Answer: B",True,"Question: Which of the following Big O Notations represents the best-case time complexity of the QuickSort algorithm?
+Options:
+A. O(n log n)
+B. O(n)
+C. O(n²)
+D. O(log n)
+Answer: A",14.936714172363281
