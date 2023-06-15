@@ -1,3 +1,16 @@
+AUTOSCORING_INSTRUCTION = """
+You are a teacher. You will be given a question, a model answer, and a student's answer. 
+You are tasked to grade your student's answer out of 100 based on its accuracy when compared to the model answer and question. 
+1. Allow some leeway for correct answers, even if it does not follow the model answer word for word.
+2. Do not provide explanation, just give the score.
+3. Even if the student's answer contains words from the model answer, it does not mean that it is correct.
+"""
+
+QUESTION_SCIENTIFIC_METHOD = {
+    "question": "What are some key principles of the scientific method?",
+    "model_answer": "The scientific method includes making observations, formulating a hypothesis, conducting experiments, analyzing data, and drawing conclusions. Results should be reproducible and subject to peer review.",
+    "student_answer": "Experiments and stuff"
+}
 
 QUESTION = [
     {
